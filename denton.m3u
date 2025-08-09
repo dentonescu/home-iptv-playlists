@@ -129,10 +129,6 @@ https://flus.moinestifm.ro/ro.moinesti/index.m3u8
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-chno="2025" tvg-id="MoldovaTV.md" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Romanian;General",Moldova TV (576p) [Not 24/7] (ron1)  (Romanian) (General)
 http://89.38.8.130:39435
-#EXTINF:-1 tvg-chno="2026" tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Romanian;Music" http-referrer="https://mooz.tv/live-ro/#MoozDance",MoozDance (576p) (ron1)  (Romanian) (Music)
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
-#EXTINF:-1 tvg-chno="2027" tvg-id="MoozHits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Romanian;Music" http-referrer="https://mooz.tv/live-ro/#MoozHits",MoozHits (576p) (ron1)  (Romanian) (Music)
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
 #EXTINF:-1 tvg-chno="2028" tvg-id="NovaTVBrasov.ro" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Romanian;General",Nova TV Brasov (576p) [Not 24/7] (ron1)  (Romanian) (General)
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-chno="2029" tvg-id="ObservatorNews.ro" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romanian;News",Observator News (720p) (ron1)  (Romanian) (News)
@@ -153,10 +149,6 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
 #EXTINF:-1 tvg-chno="2037" tvg-id="SuperTV.ro" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romanian;Music",Super TV (576p) (ron1)  (Romanian) (Music)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-chno="2038" tvg-id="Tele7ABCHD.ro" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Romanian;General",Tele7ABC HD (720p) (ron1)  (Romanian) (General)
-https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-chno="2039" tvg-id="Tele7music.ro" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Romanian;Music",Tele7music (720p) (ron1)  (Romanian) (Music)
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-chno="2040" tvg-id="TeleMBotosani.ro" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romanian;General",TeleM Botosani (540p) [Not 24/7] (ron1)  (Romanian) (General)
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-chno="2041" tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="Romanian;News",TeleMoldova + [Geo-blocked] (ron1)  (Romanian) (News)
@@ -221,7 +213,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="3022" tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="German;Undefined",RTL HD (deu1)  (German) (Undefined)
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (deu2)  (German) (Undefined)
+#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (deu1)  (German) (Undefined)
 https://trn09.bozztv.com/gin-superrtl/index.m3u8
 #EXTINF:-1 tvg-chno="3024" tvg-id="WELT.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="German;News",WELT (deu2)  (German) (News)
 https://s6.hopslan.com/n24X/index.m3u8
@@ -525,7 +517,7 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-chno="9026" tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Portuguese;Entertainment;News",TV Zoom (720p) (por1)  (Portuguese) (Entertainment) (News)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-chno="9027" tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Portuguese;News",TVídeoNews (720p) [Not 24/7] (por2)  (Portuguese) (News)
+#EXTINF:-1 tvg-chno="9027" tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Portuguese;News",TVídeoNews (720p) [Not 24/7] (por1)  (Portuguese) (News)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-chno="9028" tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Portuguese;Education",TV UFG (720p) [Not 24/7] (por1)  (Portuguese) (Education)
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
@@ -673,9 +665,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-chno="13007" tvg-id="EuropaPlusTV.ru" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Russian;Music",Europa Plus TV (rus1)  (Russian) (Music)
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-chno="13008" tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Russian;Music",Первый Музыкальный Канал (576p) (rus1)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13008" tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Russian;Music",Первый Музыкальный Канал (576p) (rus2)  (Russian) (Music)
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 tvg-chno="13009" tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Russian;Music",Первый Музыкальный Канал Россия (576p) (rus1)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13009" tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Russian;Music",Первый Музыкальный Канал Россия (576p) (rus2)  (Russian) (Music)
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-chno="13010" tvg-id="FREEDOM.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" group-title="Russian;News",Freedom (FREEДOM) (UATV) (720p) (rus1)  (Russian) (News)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
@@ -689,7 +681,7 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-chno="13015" tvg-id="MuzzOne.kz" tvg-logo="https://i.imgur.com/nHVABXh.png" group-title="English;Music",MuzzOne (576p) (eng6)  (English) (Music)
 https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
-#EXTINF:-1 tvg-chno="13016" tvg-id="o2tv.ru@SD" tvg-logo="https://i.imgur.com/CM6z7fA.png" group-title="Russian;Music",o2tv (rus1)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13016" tvg-id="o2tv.ru@SD" tvg-logo="https://i.imgur.com/CM6z7fA.png" group-title="Russian;Music",о2тв (rus2)  (Russian) (Music)
 http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="13017" tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Russian;Music",RU TV (rus1)  (Russian) (Music)
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
