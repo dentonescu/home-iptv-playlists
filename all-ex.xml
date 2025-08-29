@@ -7344,10 +7344,10 @@
  <desc>KContentbyCJENM.us</desc>
  </programme>
  <channel id="KABCDT1.us">
- <display-name>KABC-DT1 (720p) (eng5)  (English) (General)</display-name>
+ <display-name>KABC-DT1 (360p) (eng5)  (English) (General)</display-name>
  </channel>
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="KABCDT1.us">
- <title>KABC-DT1 (720p) (eng5)  (English) (General)</title>
+ <title>KABC-DT1 (360p) (eng5)  (English) (General)</title>
  <desc>KABCDT1.us</desc>
  </programme>
  <channel id="KartoonChannel.us">
@@ -9968,6 +9968,13 @@
  <title>NHK World-Japan (720p) (eng6)  (English) (Culture) (News)</title>
  <desc>NHKWorldJapan.jp</desc>
  </programme>
+ <channel id="NHKWorldJapan.jp@HD">
+ <display-name>NHK World-Japan HD (eng6)  (English) (Culture) (News)</display-name>
+ </channel>
+ <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="NHKWorldJapan.jp@HD">
+ <title>NHK World-Japan HD (eng6)  (English) (Culture) (News)</title>
+ <desc>NHKWorldJapan.jp@HD</desc>
+ </programme>
  <channel id="NHLNetwork.us">
  <display-name>NHL (eng6)  (English) (Sports)</display-name>
  </channel>
@@ -10039,10 +10046,10 @@
  <desc>NickComedyCentralPlus1.de@HD</desc>
  </programme>
  <channel id="Nickelodeon.ru@SD">
- <display-name>Nickelodeon (eng6)  (English) (Kids)</display-name>
+ <display-name>Nickelodeon (eng7)  (English) (Kids)</display-name>
  </channel>
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="Nickelodeon.ru@SD">
- <title>Nickelodeon (eng6)  (English) (Kids)</title>
+ <title>Nickelodeon (eng7)  (English) (Kids)</title>
  <desc>Nickelodeon.ru@SD</desc>
  </programme>
  <channel id="Nickelodeon.uk">
@@ -11712,10 +11719,10 @@
  <desc>RakutenViki.es@Poland</desc>
  </programme>
  <channel id="RCTV3.us">
- <display-name>Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p) (eng7)  (English) (General)</display-name>
+ <display-name>Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p) (eng8)  (English) (General)</display-name>
  </channel>
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="RCTV3.us">
- <title>Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p) (eng7)  (English) (General)</title>
+ <title>Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p) (eng8)  (English) (General)</title>
  <desc>RCTV3.us</desc>
  </programme>
  <channel id="Rararadio.nl">
@@ -13068,13 +13075,6 @@
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="SuperscreenTV.ng">
  <title>Superscreen TV (412p) (eng8)  (English) (Culture) (Family)</title>
  <desc>SuperscreenTV.ng</desc>
- </programme>
- <channel id="SuperSportRugby.za@SD">
- <display-name>SuperSport Rugby (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="SuperSportRugby.za@SD">
- <title>SuperSport Rugby (eng8)  (English) (Sports)</title>
- <desc>SuperSportRugby.za@SD</desc>
  </programme>
  <channel id="SuperyachtTV.mc">
  <display-name>Superyacht TV (1080p) (eng8)  (English) (Lifestyle)</display-name>
@@ -16114,6 +16114,13 @@
  <title>ARD-alpha (720p) (deu1)  (German) (Education)</title>
  <desc>ARDalpha.de@SD</desc>
  </programme>
+ <channel id="ARDalpha.de@HD">
+ <display-name>ARD-alpha HD (deu1)  (German) (Education)</display-name>
+ </channel>
+ <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="ARDalpha.de@HD">
+ <title>ARD-alpha HD (deu1)  (German) (Education)</title>
+ <desc>ARDalpha.de@HD</desc>
+ </programme>
  <channel id="AristoTV.de">
  <display-name>Aristo TV (360p) (deu1)  (German) (Undefined)</display-name>
  </channel>
@@ -17683,10 +17690,10 @@
  <desc>RockAntenne.de</desc>
  </programme>
  <channel id="RocklandTV.de">
- <display-name>Rockland TV (480p) [Not 24/7] (deu1)  (German) (Undefined)</display-name>
+ <display-name>Rockland TV (480p) [Not 24/7] (deu2)  (German) (Undefined)</display-name>
  </channel>
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="RocklandTV.de">
- <title>Rockland TV (480p) [Not 24/7] (deu1)  (German) (Undefined)</title>
+ <title>Rockland TV (480p) [Not 24/7] (deu2)  (German) (Undefined)</title>
  <desc>RocklandTV.de</desc>
  </programme>
  <channel id="RTDE.de">
@@ -34272,6 +34279,20 @@
  <title>Antenna 2 TV (720p) (ita1)  (Italian) (General)</title>
  <desc>Antenna2TV.it</desc>
  </programme>
+ <channel id="AntennaSud.it@SD">
+ <display-name>Antenna Sud (720p) (ita1)  (Italian) (General)</display-name>
+ </channel>
+ <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="AntennaSud.it@SD">
+ <title>Antenna Sud (720p) (ita1)  (Italian) (General)</title>
+ <desc>AntennaSud.it@SD</desc>
+ </programme>
+ <channel id="AntennaSudExtra.it@SD">
+ <display-name>Antenna Sud Extra (720p) (ita1)  (Italian) (General)</display-name>
+ </channel>
+ <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="AntennaSudExtra.it@SD">
+ <title>Antenna Sud Extra (720p) (ita1)  (Italian) (General)</title>
+ <desc>AntennaSudExtra.it@SD</desc>
+ </programme>
  <channel id="AntennaTre.it">
  <display-name>Antenna Tre Veneto (480p) [Geo-blocked] (ita1)  (Italian) (General)</display-name>
  </channel>
@@ -35813,17 +35834,17 @@
  <desc>SportitaliaSolocalcio.it</desc>
  </programme>
  <channel id="STEuropeChannel.it">
- <display-name>ST Europe Channel (720p) (ita1)  (Italian) (Entertainment)</display-name>
+ <display-name>ST Europe Channel (720p) (ita2)  (Italian) (Entertainment)</display-name>
  </channel>
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="STEuropeChannel.it">
- <title>ST Europe Channel (720p) (ita1)  (Italian) (Entertainment)</title>
+ <title>ST Europe Channel (720p) (ita2)  (Italian) (Entertainment)</title>
  <desc>STEuropeChannel.it</desc>
  </programme>
  <channel id="Stereo5TV.it">
- <display-name>Stereo 5 TV (720p) (ita1)  (Italian) (Undefined)</display-name>
+ <display-name>Stereo 5 TV (720p) (ita2)  (Italian) (Undefined)</display-name>
  </channel>
  <programme start="20250828000000 +0000" stop="20250830000000 +0000" channel="Stereo5TV.it">
- <title>Stereo 5 TV (720p) (ita1)  (Italian) (Undefined)</title>
+ <title>Stereo 5 TV (720p) (ita2)  (Italian) (Undefined)</title>
  <desc>Stereo5TV.it</desc>
  </programme>
  <channel id="SuperJTVTeramo.it">
