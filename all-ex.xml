@@ -5432,12 +5432,12 @@
  <title>Fido TV (1080p) (eng4)  (English) (Entertainment)</title>
  <desc>FidoTV.us</desc>
  </programme>
- <channel id="FIFAPlus.pl">
+ <channel id="FIFAPlus.uk@English">
  <display-name>FIFA+ (720p) (eng4)  (English) (Sports)</display-name>
  </channel>
- <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="FIFAPlus.pl">
+ <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="FIFAPlus.uk@English">
  <title>FIFA+ (720p) (eng4)  (English) (Sports)</title>
- <desc>FIFAPlus.pl</desc>
+ <desc>FIFAPlus.uk@English</desc>
  </programme>
  <channel id="Fight.us">
  <display-name>Fight (eng4)  (English) (Sports)</display-name>
@@ -17885,6 +17885,13 @@
  <title>SRF zwei (1080p) (deu2)  (German) (Undefined)</title>
  <desc>SRFzwei.ch@SD</desc>
  </programme>
+ <channel id="StarTV.ch@SD">
+ <display-name>Star TV (deu2)  (German) (Undefined)</display-name>
+ </channel>
+ <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="StarTV.ch@SD">
+ <title>Star TV (deu2)  (German) (Undefined)</title>
+ <desc>StarTV.ch@SD</desc>
+ </programme>
  <channel id="SteiermarkTV.at">
  <display-name>Steiermark TV (1080p) (deu2)  (German) (General)</display-name>
  </channel>
@@ -23233,12 +23240,12 @@
  <title>CDTV (720p) [Not 24/7] (spa2)  (Spanish) (Legislative)</title>
  <desc>CDTV.cl</desc>
  </programme>
- <channel id="Ceacom.bo">
- <display-name>Ceacom [Not 24/7] (spa2)  (Spanish) (Music)</display-name>
+ <channel id="CEACOMTV.bo@SD">
+ <display-name>CEACOM TV [Not 24/7] (spa2)  (Spanish) (General) (Lifestyle) (Music) (News)</display-name>
  </channel>
- <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="Ceacom.bo">
- <title>Ceacom [Not 24/7] (spa2)  (Spanish) (Music)</title>
- <desc>Ceacom.bo</desc>
+ <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="CEACOMTV.bo@SD">
+ <title>CEACOM TV [Not 24/7] (spa2)  (Spanish) (General) (Lifestyle) (Music) (News)</title>
+ <desc>CEACOMTV.bo@SD</desc>
  </programme>
  <channel id="CeibaVisionCanal36.hn@SD">
  <display-name>Ceiba Vision Canal 36 (spa2)  (Spanish) (General)</display-name>
@@ -25760,6 +25767,13 @@
  <title>Lapacho TV Canal 11 (720p) (spa4)  (Spanish) (General)</title>
  <desc>LapachoTVCanal11.ar</desc>
  </programme>
+ <channel id="LaraenRedes.ve">
+ <display-name>Lara en Redes TV (1080p) (spa4)  (Spanish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="LaraenRedes.ve">
+ <title>Lara en Redes TV (1080p) (spa4)  (Spanish) (Entertainment)</title>
+ <desc>LaraenRedes.ve</desc>
+ </programme>
  <channel id="LarivisionTV.do@HD">
  <display-name>Larivision TV [Not 24/7] (spa4)  (Spanish) (General)</display-name>
  </channel>
@@ -27196,10 +27210,10 @@
  <desc>OrbitaFM.sv</desc>
  </programme>
  <channel id="OrbitaTV.sv">
- <display-name>Órbita TV (720p) (spa4)  (Spanish) (News)</display-name>
+ <display-name>Órbita TV (720p) (spa5)  (Spanish) (News)</display-name>
  </channel>
  <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="OrbitaTV.sv">
- <title>Órbita TV (720p) (spa4)  (Spanish) (News)</title>
+ <title>Órbita TV (720p) (spa5)  (Spanish) (News)</title>
  <desc>OrbitaTV.sv</desc>
  </programme>
  <channel id="OromarTV.ec">
@@ -28869,10 +28883,10 @@
  <desc>RTVChirripo.cr</desc>
  </programme>
  <channel id="RTVManilva.es">
- <display-name>RTV Manilva (1080p) [Not 24/7] (spa5)  (Spanish) (General)</display-name>
+ <display-name>RTV Manilva (1080p) [Not 24/7] (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="RTVManilva.es">
- <title>RTV Manilva (1080p) [Not 24/7] (spa5)  (Spanish) (General)</title>
+ <title>RTV Manilva (1080p) [Not 24/7] (spa6)  (Spanish) (General)</title>
  <desc>RTVManilva.es</desc>
  </programme>
  <channel id="RadioTelevisionMarbella.es">
@@ -30472,10 +30486,10 @@
  <desc>TigoSports.sv</desc>
  </programme>
  <channel id="TigueritoTV.do@HD">
- <display-name>Tiguerito TV (720p) [Not 24/7] (spa6)  (Spanish) (Animation) (Kids)</display-name>
+ <display-name>Tiguerito TV (720p) [Not 24/7] (spa7)  (Spanish) (Animation) (Kids)</display-name>
  </channel>
  <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="TigueritoTV.do@HD">
- <title>Tiguerito TV (720p) [Not 24/7] (spa6)  (Spanish) (Animation) (Kids)</title>
+ <title>Tiguerito TV (720p) [Not 24/7] (spa7)  (Spanish) (Animation) (Kids)</title>
  <desc>TigueritoTV.do@HD</desc>
  </programme>
  <channel id="TlaxcalaTV.mx">
@@ -32124,10 +32138,10 @@
  <desc>WRUADT1.pr</desc>
  </programme>
  <channel id="WTVCanal20.ni">
- <display-name>WTV Canal 20 (1080p) (spa7)  (Spanish) (Entertainment)</display-name>
+ <display-name>WTV Canal 20 (1080p) (spa8)  (Spanish) (Entertainment)</display-name>
  </channel>
  <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="WTVCanal20.ni">
- <title>WTV Canal 20 (1080p) (spa7)  (Spanish) (Entertainment)</title>
+ <title>WTV Canal 20 (1080p) (spa8)  (Spanish) (Entertainment)</title>
  <desc>WTVCanal20.ni</desc>
  </programme>
  <channel id="WuanPlus.ec@SD">
@@ -40586,6 +40600,13 @@
  <title>UzReport TV (1080p) (rus1)  (Russian) (News)</title>
  <desc>UzReportTV.uz</desc>
  </programme>
+ <channel id="VHSTV.ru">
+ <display-name>VHS TV [Not 24/7] (rus1)  (Russian) (Movies)</display-name>
+ </channel>
+ <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="VHSTV.ru">
+ <title>VHS TV [Not 24/7] (rus1)  (Russian) (Movies)</title>
+ <desc>VHSTV.ru</desc>
+ </programme>
  <channel id="ViasatKino.ua">
  <display-name>Viasat Kino (576p) (rus1)  (Russian) (Movies)</display-name>
  </channel>
@@ -41560,10 +41581,10 @@
  <desc>NTM.ru</desc>
  </programme>
  <channel id="NTS.ru">
- <display-name>НТС (Севастополь) (1080p) [Not 24/7] (rus1)  (Russian) (General)</display-name>
+ <display-name>НТС (Севастополь) (1080p) [Not 24/7] (rus2)  (Russian) (General)</display-name>
  </channel>
  <programme start="20250831000000 +0000" stop="20250902000000 +0000" channel="NTS.ru">
- <title>НТС (Севастополь) (1080p) [Not 24/7] (rus1)  (Russian) (General)</title>
+ <title>НТС (Севастополь) (1080p) [Not 24/7] (rus2)  (Russian) (General)</title>
  <desc>NTS.ru</desc>
  </programme>
  <channel id="o2tv.ru@SD">
