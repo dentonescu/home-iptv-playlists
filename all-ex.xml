@@ -12334,12 +12334,12 @@
  <title>Sardari TV (1080p) [Not 24/7] (eng8)  (English) (Undefined)</title>
  <desc>SardariTV.ca</desc>
  </programme>
- <channel id="SaudiThaqafiyaTV.sa">
+ <channel id="SaudiThaqafiyaTV.sa@SD">
  <display-name>Saudi Thaqafiya TV (1080p) (eng8)  (English) (Culture)</display-name>
  </channel>
- <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="SaudiThaqafiyaTV.sa">
+ <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="SaudiThaqafiyaTV.sa@SD">
  <title>Saudi Thaqafiya TV (1080p) (eng8)  (English) (Culture)</title>
- <desc>SaudiThaqafiyaTV.sa</desc>
+ <desc>SaudiThaqafiyaTV.sa@SD</desc>
  </programme>
  <channel id="SayareTV.ke">
  <display-name>Sayare TV (720p) [Not 24/7] (eng8)  (English) (Religious)</display-name>
@@ -33096,6 +33096,13 @@
  <title>Porto Canal (720p) (por1)  (Portuguese) (General)</title>
  <desc>PortoCanal.pt</desc>
  </programme>
+ <channel id="PremiereClubes.br">
+ <display-name>Premiere Clubes (por1)  (Portuguese) (Sports)</display-name>
+ </channel>
+ <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="PremiereClubes.br">
+ <title>Premiere Clubes (por1)  (Portuguese) (Sports)</title>
+ <desc>PremiereClubes.br</desc>
+ </programme>
  <channel id="PrimerTV.br">
  <display-name>Primer TV (1080p) (por1)  (Portuguese) (General)</display-name>
  </channel>
@@ -33193,6 +33200,13 @@
  <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="RecordTVEuropa.pt">
  <title>RecordTV Europa (720p) [Geo-blocked] (por1)  (Portuguese) (General)</title>
  <desc>RecordTVEuropa.pt</desc>
+ </programme>
+ <channel id="RecordTVInteriorSP.br">
+ <display-name>RecordTV Interior SP (por1)  (Portuguese) (General)</display-name>
+ </channel>
+ <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="RecordTVInteriorSP.br">
+ <title>RecordTV Interior SP (por1)  (Portuguese) (General)</title>
+ <desc>RecordTVInteriorSP.br</desc>
  </programme>
  <channel id="RedeCNTSalvador.br@SD">
  <display-name>Rede CNT Salvador (576i) (por1)  (Portuguese) (General)</display-name>
@@ -34140,17 +34154,17 @@
  <desc>TVideoNews.br</desc>
  </programme>
  <channel id="TVitape.br">
- <display-name>TVitapé (720p) (por1)  (Portuguese) (General)</display-name>
+ <display-name>TVitapé (720p) (por2)  (Portuguese) (General)</display-name>
  </channel>
  <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="TVitape.br">
- <title>TVitapé (720p) (por1)  (Portuguese) (General)</title>
+ <title>TVitapé (720p) (por2)  (Portuguese) (General)</title>
  <desc>TVitape.br</desc>
  </programme>
  <channel id="TVM.mz">
- <display-name>TVM (480p) (por1)  (Portuguese) (General)</display-name>
+ <display-name>TVM (480p) (por2)  (Portuguese) (General)</display-name>
  </channel>
  <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="TVM.mz">
- <title>TVM (480p) (por1)  (Portuguese) (General)</title>
+ <title>TVM (480p) (por2)  (Portuguese) (General)</title>
  <desc>TVM.mz</desc>
  </programme>
  <channel id="TVMInternacional.mz">
@@ -34762,12 +34776,12 @@
  <title>Gold TV Sat (576p) (ita1)  (Italian) (Entertainment)</title>
  <desc>GoldTVSat.it</desc>
  </programme>
- <channel id="GRPVERATV.it">
+ <channel id="GRPVERATV.it@SD">
  <display-name>GRP VERATV (576p) (ita1)  (Italian) (General)</display-name>
  </channel>
- <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="GRPVERATV.it">
+ <programme start="20250905000000 +0000" stop="20250907000000 +0000" channel="GRPVERATV.it@SD">
  <title>GRP VERATV (576p) (ita1)  (Italian) (General)</title>
- <desc>GRPVERATV.it</desc>
+ <desc>GRPVERATV.it@SD</desc>
  </programme>
  <channel id="HorseTV.it@SD">
  <display-name>Horse TV (720p) (ita1)  (Italian) (Sports)</display-name>
