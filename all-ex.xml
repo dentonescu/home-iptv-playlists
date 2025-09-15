@@ -5509,13 +5509,6 @@
  <title>Fight Night (720p) (eng4)  (English) (Sports)</title>
  <desc>FightNight.za</desc>
  </programme>
- <channel id="FightBox.nl">
- <display-name>FightBox (eng4)  (English) (Sports)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="FightBox.nl">
- <title>FightBox (eng4)  (English) (Sports)</title>
- <desc>FightBox.nl</desc>
- </programme>
  <channel id="Film4.uk@HD">
  <display-name>Film4 HD (1080p) (eng4)  (English) (Movies)</display-name>
  </channel>
@@ -6686,10 +6679,10 @@
  <desc>HilaalTV.za</desc>
  </programme>
  <channel id="HillsboroughTV.us">
- <display-name>Hillsborough County TV HTV (Hillsborough County FL) (360p) (eng5)  (English) (Legislative)</display-name>
+ <display-name>Hillsborough County TV HTV (Hillsborough County FL) (360p) (eng4)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="HillsboroughTV.us">
- <title>Hillsborough County TV HTV (Hillsborough County FL) (360p) (eng5)  (English) (Legislative)</title>
+ <title>Hillsborough County TV HTV (Hillsborough County FL) (360p) (eng4)  (English) (Legislative)</title>
  <desc>HillsboroughTV.us</desc>
  </programme>
  <channel id="HisGraceTV.ke">
@@ -7517,6 +7510,13 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="KBSWorld.kr">
  <title>KBS World (eng5)  (English) (General)</title>
  <desc>KBSWorld.kr</desc>
+ </programme>
+ <channel id="KBSWorld.kr@HD">
+ <display-name>KBS World HD (1080p) (eng5)  (English) (General)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="KBSWorld.kr@HD">
+ <title>KBS World HD (1080p) (eng5)  (English) (General)</title>
+ <desc>KBSWorld.kr@HD</desc>
  </programme>
  <channel id="KC2.rw">
  <display-name>KC2 (720p) [Not 24/7] (eng5)  (English) (Entertainment)</display-name>
@@ -10185,13 +10185,6 @@
  <title>Nickelodeon (eng7)  (English) (Kids)</title>
  <desc>Nickelodeon.us</desc>
  </programme>
- <channel id="Nickelodeon.ru">
- <display-name>Nickelodeon Russia (eng7)  (English) (Kids)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Nickelodeon.ru">
- <title>Nickelodeon Russia (eng7)  (English) (Kids)</title>
- <desc>Nickelodeon.ru</desc>
- </programme>
  <channel id="Nicktoons.us">
  <display-name>NickToons (eng7)  (English) (Kids)</display-name>
  </channel>
@@ -11705,10 +11698,10 @@
  <desc>QVCExtra.uk</desc>
  </programme>
  <channel id="QVCStyle.uk">
- <display-name>QVC UK Style (540p) (eng8)  (English) (Shop)</display-name>
+ <display-name>QVC UK Style (540p) (eng7)  (English) (Shop)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="QVCStyle.uk">
- <title>QVC UK Style (540p) (eng8)  (English) (Shop)</title>
+ <title>QVC UK Style (540p) (eng7)  (English) (Shop)</title>
  <desc>QVCStyle.uk</desc>
  </programme>
  <channel id="QwestTV.fr@SD">
@@ -13378,10 +13371,10 @@
  <desc>TechStorm.sg</desc>
  </programme>
  <channel id="TeenMom.us@SD">
- <display-name>Teen Mom (eng9)  (English) (Documentary)</display-name>
+ <display-name>Teen Mom (eng8)  (English) (Documentary)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TeenMom.us@SD">
- <title>Teen Mom (eng9)  (English) (Documentary)</title>
+ <title>Teen Mom (eng8)  (English) (Documentary)</title>
  <desc>TeenMom.us@SD</desc>
  </programme>
  <channel id="TeenNick.us">
@@ -13559,12 +13552,12 @@
  <title>The Andy Griffith Show (eng9)  (English) (Classic)</title>
  <desc>TheAndyGriffithShow.us@SD</desc>
  </programme>
- <channel id="TheArchive.us">
+ <channel id="TheArchive.us@SD">
  <display-name>The Archive (1080p) (eng9)  (English) (Classic)</display-name>
  </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TheArchive.us">
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TheArchive.us@SD">
  <title>The Archive (1080p) (eng9)  (English) (Classic)</title>
- <desc>TheArchive.us</desc>
+ <desc>TheArchive.us@SD</desc>
  </programme>
  <channel id="TheAsylum.us">
  <display-name>The Asylum (eng9)  (English) (Series)</display-name>
@@ -13901,6 +13894,20 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TJC.uk">
  <title>TJC (1080p) (eng9)  (English) (Shop)</title>
  <desc>TJC.uk</desc>
+ </programme>
+ <channel id="TLNMediaChicago.us">
+ <display-name>TLN Media Chicago (eng9)  (English) (Religious)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TLNMediaChicago.us">
+ <title>TLN Media Chicago (eng9)  (English) (Religious)</title>
+ <desc>TLNMediaChicago.us</desc>
+ </programme>
+ <channel id="TLNMediaSanFrancisco.us">
+ <display-name>TLN Media San Francisco (eng9)  (English) (Religious)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TLNMediaSanFrancisco.us">
+ <title>TLN Media San Francisco (eng9)  (English) (Religious)</title>
+ <desc>TLNMediaSanFrancisco.us</desc>
  </programme>
  <channel id="TMZ.us">
  <display-name>TMZ (720p) (eng9)  (English) (Entertainment)</display-name>
@@ -15044,10 +15051,10 @@
  <desc>ViceNews.us</desc>
  </programme>
  <channel id="VICETV.us">
- <display-name>Vice TV (1080p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>Vice TV (1080p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="VICETV.us">
- <title>Vice TV (1080p) (eng9)  (English) (Undefined)</title>
+ <title>Vice TV (1080p) (eng10)  (English) (Undefined)</title>
  <desc>VICETV.us</desc>
  </programme>
  <channel id="VictorValleyTV.us">
@@ -23401,12 +23408,19 @@
  <title>Catatumbo TV (406p) (spa2)  (Spanish) (General)</title>
  <desc>CatatumboTV.ve</desc>
  </programme>
- <channel id="CBNEspanol.us">
- <display-name>CBN Español (1080p) (spa2)  (Spanish) (Religious)</display-name>
+ <channel id="CausaComunTV.py@SD">
+ <display-name>Causa Comun TV (spa2)  (Spanish) (News)</display-name>
  </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="CBNEspanol.us">
- <title>CBN Español (1080p) (spa2)  (Spanish) (Religious)</title>
- <desc>CBNEspanol.us</desc>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="CausaComunTV.py@SD">
+ <title>Causa Comun TV (spa2)  (Spanish) (News)</title>
+ <desc>CausaComunTV.py@SD</desc>
+ </programme>
+ <channel id="CBNEspanol.us@SD">
+ <display-name>CBN Espanol (1080p) (spa2)  (Spanish) (Religious)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="CBNEspanol.us@SD">
+ <title>CBN Espanol (1080p) (spa2)  (Spanish) (Religious)</title>
+ <desc>CBNEspanol.us@SD</desc>
  </programme>
  <channel id="CBSSportsNetworkUSA.us">
  <display-name>CBS Sports Network USA (spa2)  (Spanish) (Sports)</display-name>
@@ -24053,10 +24067,10 @@
  <desc>CRTelevisionCholuteca.hn</desc>
  </programme>
  <channel id="CruzTV.us">
- <display-name>Cruz TV (spa2)  (Spanish) (Legislative)</display-name>
+ <display-name>Cruz TV (spa3)  (Spanish) (Legislative)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="CruzTV.us">
- <title>Cruz TV (spa2)  (Spanish) (Legislative)</title>
+ <title>Cruz TV (spa3)  (Spanish) (Legislative)</title>
  <desc>CruzTV.us</desc>
  </programme>
  <channel id="CSIenespanol.us">
@@ -24703,19 +24717,19 @@
  <title>Eureka (spa3)  (Spanish) (Kids)</title>
  <desc>Eureka.co</desc>
  </programme>
+ <channel id="EWTN.us@UnitedStates">
+ <display-name>EWTN (720p) [Geo-blocked] (spa3)  (Spanish) (Religious)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="EWTN.us@UnitedStates">
+ <title>EWTN (720p) [Geo-blocked] (spa3)  (Spanish) (Religious)</title>
+ <desc>EWTN.us@UnitedStates</desc>
+ </programme>
  <channel id="EWTN.us@AfricaAsia">
  <display-name>EWTN Africa Asia (720p) (spa3)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="EWTN.us@AfricaAsia">
  <title>EWTN Africa Asia (720p) (spa3)  (Spanish) (Religious)</title>
  <desc>EWTN.us@AfricaAsia</desc>
- </programme>
- <channel id="EWTN.us@UnitedStates">
- <display-name>EWTN Estados Unidos (Spanish) (720p) (spa3)  (Spanish) (Religious)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="EWTN.us@UnitedStates">
- <title>EWTN Estados Unidos (Spanish) (720p) (spa3)  (Spanish) (Religious)</title>
- <desc>EWTN.us@UnitedStates</desc>
  </programme>
  <channel id="ExitosaTV.pe">
  <display-name>Exitosa (720p) (spa3)  (Spanish) (News)</display-name>
@@ -25712,10 +25726,10 @@
  <desc>Karibena.pe</desc>
  </programme>
  <channel id="KBEV.us">
- <display-name>KBEV Spectrum Channel 6 [Beverly Hills] (1080p) (spa3)  (Spanish) (Education)</display-name>
+ <display-name>KBEV Spectrum Channel 6 [Beverly Hills] (1080p) (spa4)  (Spanish) (Education)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="KBEV.us">
- <title>KBEV Spectrum Channel 6 [Beverly Hills] (1080p) (spa3)  (Spanish) (Education)</title>
+ <title>KBEV Spectrum Channel 6 [Beverly Hills] (1080p) (spa4)  (Spanish) (Education)</title>
  <desc>KBEV.us</desc>
  </programme>
  <channel id="KerussoTV.hn">
@@ -27378,10 +27392,10 @@
  <desc>OndaAlgeciras.es</desc>
  </programme>
  <channel id="OndaCadiz.es">
- <display-name>Onda Cádiz 24h (720p) (spa4)  (Spanish) (General)</display-name>
+ <display-name>Onda Cádiz 24h (720p) (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="OndaCadiz.es">
- <title>Onda Cádiz 24h (720p) (spa4)  (Spanish) (General)</title>
+ <title>Onda Cádiz 24h (720p) (spa5)  (Spanish) (General)</title>
  <desc>OndaCadiz.es</desc>
  </programme>
  <channel id="ONDADIGITAL.pe">
@@ -29051,10 +29065,10 @@
  <desc>RSelvaTV.pe</desc>
  </programme>
  <channel id="RSVHonduras.hn@SD">
- <display-name>RSV Honduras (spa5)  (Spanish) (Entertainment)</display-name>
+ <display-name>RSV Honduras (spa6)  (Spanish) (Entertainment)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="RSVHonduras.hn@SD">
- <title>RSV Honduras (spa5)  (Spanish) (Entertainment)</title>
+ <title>RSV Honduras (spa6)  (Spanish) (Entertainment)</title>
  <desc>RSVHonduras.hn@SD</desc>
  </programme>
  <channel id="RTenEspanol.ru">
@@ -30654,10 +30668,10 @@
  <desc>TelevisionTarapoto.pe</desc>
  </programme>
  <channel id="TelevisoradeOriente.ve">
- <display-name>Televisora de Oriente (406p) (spa6)  (Spanish) (Music)</display-name>
+ <display-name>Televisora de Oriente (406p) (spa7)  (Spanish) (Music)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TelevisoradeOriente.ve">
- <title>Televisora de Oriente (406p) (spa6)  (Spanish) (Music)</title>
+ <title>Televisora de Oriente (406p) (spa7)  (Spanish) (Music)</title>
  <desc>TelevisoradeOriente.ve</desc>
  </programme>
  <channel id="TENCanal10.hn">
@@ -31570,6 +31584,13 @@
  <title>TVE Internacional Europe-Asia (spa7)  (Spanish) (Undefined)</title>
  <desc>TVEInternacionalEuropeAsia.es@SD</desc>
  </programme>
+ <channel id="TVEStarHD.es@SD">
+ <display-name>TVE Star HD (spa7)  (Spanish) (Series)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="TVEStarHD.es@SD">
+ <title>TVE Star HD (spa7)  (Spanish) (Series)</title>
+ <desc>TVEStarHD.es@SD</desc>
+ </programme>
  <channel id="TVMCordoba.es">
  <display-name>TVM Córdoba (1080p) [Not 24/7] (spa7)  (Spanish) (Undefined)</display-name>
  </channel>
@@ -32299,17 +32320,17 @@
  <desc>VosTV.ni</desc>
  </programme>
  <channel id="VosyTV.ec">
- <display-name>Vos y TV (720p) [Not 24/7] (spa7)  (Spanish) (Music)</display-name>
+ <display-name>Vos y TV (720p) [Not 24/7] (spa8)  (Spanish) (Music)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="VosyTV.ec">
- <title>Vos y TV (720p) [Not 24/7] (spa7)  (Spanish) (Music)</title>
+ <title>Vos y TV (720p) [Not 24/7] (spa8)  (Spanish) (Music)</title>
  <desc>VosyTV.ec</desc>
  </programme>
  <channel id="VPItv.ve">
- <display-name>VPItv (1080p) (spa7)  (Spanish) (News)</display-name>
+ <display-name>VPItv (1080p) (spa8)  (Spanish) (News)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="VPItv.ve">
- <title>VPItv (1080p) (spa7)  (Spanish) (News)</title>
+ <title>VPItv (1080p) (spa8)  (Spanish) (News)</title>
  <desc>VPItv.ve</desc>
  </programme>
  <channel id="VTV.hn">
@@ -40236,13 +40257,6 @@
  <title>Amedia 2 (rus1)  (Russian) (Series)</title>
  <desc>A2.ru</desc>
  </programme>
- <channel id="AmediaPremium.ru">
- <display-name>Amedia Premium (rus1)  (Russian) (Movies) (Series)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="AmediaPremium.ru">
- <title>Amedia Premium (rus1)  (Russian) (Movies) (Series)</title>
- <desc>AmediaPremium.ru</desc>
- </programme>
  <channel id="Ani.ru@SD">
  <display-name>Ani (rus1)  (Russian) (Kids)</display-name>
  </channel>
@@ -40418,13 +40432,6 @@
  <title>FoodTime (rus1)  (Russian) (Cooking)</title>
  <desc>FoodTime.ru</desc>
  </programme>
- <channel id="Fox.ru">
- <display-name>Fox (rus1)  (Russian) (Entertainment)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Fox.ru">
- <title>Fox (rus1)  (Russian) (Entertainment)</title>
- <desc>Fox.ru</desc>
- </programme>
  <channel id="FREEDOM.ua">
  <display-name>Freedom (FREEДOM) (UATV) (720p) (rus1)  (Russian) (News)</display-name>
  </channel>
@@ -40438,13 +40445,6 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="HDL.ru">
  <title>HDL (rus1)  (Russian) (Documentary)</title>
  <desc>HDL.ru</desc>
- </programme>
- <channel id="Hollywood.ru">
- <display-name>Hollywood (rus1)  (Russian) (Movies)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Hollywood.ru">
- <title>Hollywood (rus1)  (Russian) (Movies)</title>
- <desc>Hollywood.ru</desc>
  </programme>
  <channel id="Home4K.ru">
  <display-name>Home 4K (2160p) (rus1)  (Russian) (Relax)</display-name>
@@ -40600,13 +40600,6 @@
  <title>N4 (1080p) (rus1)  (Russian) (General)</title>
  <desc>N4.md</desc>
  </programme>
- <channel id="NationalGeographicWild.ru">
- <display-name>National Geographic Wild (rus1)  (Russian) (Documentary)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NationalGeographicWild.ru">
- <title>National Geographic Wild (rus1)  (Russian) (Documentary)</title>
- <desc>NationalGeographicWild.ru</desc>
- </programme>
  <channel id="NextTV.kg">
  <display-name>Next TV (1080p) [Not 24/7] (rus1)  (Russian) (Undefined)</display-name>
  </channel>
@@ -40620,20 +40613,6 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NextTV.md">
  <title>Next TV (1080p) (rus1)  (Russian) (News)</title>
  <desc>NextTV.md</desc>
- </programme>
- <channel id="Nickelodeon.ru">
- <display-name>Nickelodeon Russia (rus1)  (Russian) (Kids)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Nickelodeon.ru">
- <title>Nickelodeon Russia (rus1)  (Russian) (Kids)</title>
- <desc>Nickelodeon.ru</desc>
- </programme>
- <channel id="NicktoonsCIS.ru">
- <display-name>Nicktoons (rus1)  (Russian) (Kids)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NicktoonsCIS.ru">
- <title>Nicktoons (rus1)  (Russian) (Kids)</title>
- <desc>NicktoonsCIS.ru</desc>
  </programme>
  <channel id="NTSTV.md">
  <display-name>NTS TV (1080p) (rus1)  (Russian) (General)</display-name>
@@ -40746,6 +40725,13 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="STARTWorld.ru">
  <title>START World (rus1)  (Russian) (Movies)</title>
  <desc>STARTWorld.ru</desc>
+ </programme>
+ <channel id="STSkids.ru">
+ <display-name>STS kids (rus1)  (Russian) (Kids)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="STSkids.ru">
+ <title>STS kids (rus1)  (Russian) (Kids)</title>
+ <desc>STSkids.ru</desc>
  </programme>
  <channel id="STSLove.ru">
  <display-name>STS Love (rus1)  (Russian) (Family)</display-name>
@@ -41055,13 +41041,6 @@
  <title>Бобер (rus1)  (Russian) (Undefined)</title>
  <desc>Bober.ru</desc>
  </programme>
- <channel id="BoksTV.ru">
- <display-name>Бокс ТВ (rus1)  (Russian) (Sports)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="BoksTV.ru">
- <title>Бокс ТВ (rus1)  (Russian) (Sports)</title>
- <desc>BoksTV.ru</desc>
- </programme>
  <channel id="BigAsia.ru">
  <display-name>Большая Азия (rus1)  (Russian) (Undefined)</display-name>
  </channel>
@@ -41153,12 +41132,12 @@
  <title>Дагестан (1080p) (rus1)  (Russian) (Undefined)</title>
  <desc>Dagestan.ru</desc>
  </programme>
- <channel id="Detskimir.ru">
+ <channel id="Detskimir.ru@SD">
  <display-name>Детский мир (rus1)  (Russian) (Kids)</display-name>
  </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Detskimir.ru">
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Detskimir.ru@SD">
  <title>Детский мир (rus1)  (Russian) (Kids)</title>
- <desc>Detskimir.ru</desc>
+ <desc>Detskimir.ru@SD</desc>
  </programme>
  <channel id="Detskoekino.ru@International">
  <display-name>Детское кино International [Not 24/7] (rus1)  (Russian) (Movies)</display-name>
@@ -41370,12 +41349,12 @@
  <title>Карусель (rus1)  (Russian) (Kids)</title>
  <desc>Carousel.ru</desc>
  </programme>
- <channel id="CarouselInternational.ru">
- <display-name>Карусель Int (rus1)  (Russian) (Kids)</display-name>
+ <channel id="CarouselInternational.ru@SD">
+ <display-name>Карусель International (rus1)  (Russian) (Kids)</display-name>
  </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="CarouselInternational.ru">
- <title>Карусель Int (rus1)  (Russian) (Kids)</title>
- <desc>CarouselInternational.ru</desc>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="CarouselInternational.ru@SD">
+ <title>Карусель International (rus1)  (Russian) (Kids)</title>
+ <desc>CarouselInternational.ru@SD</desc>
  </programme>
  <channel id="KVNTV.ru@SD">
  <display-name>КВН ТВ (rus1)  (Russian) (Comedy)</display-name>
@@ -41404,13 +41383,6 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Kinopokaz.ru">
  <title>Кинопоказ (rus1)  (Russian) (Movies)</title>
  <desc>Kinopokaz.ru</desc>
- </programme>
- <channel id="Kinopremyera.ru@HD">
- <display-name>Кинопремьера HD (rus1)  (Russian) (Movies)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Kinopremyera.ru@HD">
- <title>Кинопремьера HD (rus1)  (Russian) (Movies)</title>
- <desc>Kinopremyera.ru@HD</desc>
  </programme>
  <channel id="KinoTV.ru">
  <display-name>КИНОТВ (rus1)  (Russian) (Movies)</display-name>
@@ -41468,12 +41440,12 @@
  <title>Курай (Уфа) (576p) (rus1)  (Russian) (General)</title>
  <desc>KurajTV.ru</desc>
  </programme>
- <channel id="KukhnyaTV.ru">
- <display-name>Кухня ТВ HD (rus1)  (Russian) (Cooking)</display-name>
+ <channel id="KukhnyaTV.ru@SD">
+ <display-name>Кухня ТВ (rus1)  (Russian) (Cooking)</display-name>
  </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="KukhnyaTV.ru">
- <title>Кухня ТВ HD (rus1)  (Russian) (Cooking)</title>
- <desc>KukhnyaTV.ru</desc>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="KukhnyaTV.ru@SD">
+ <title>Кухня ТВ (rus1)  (Russian) (Cooking)</title>
+ <desc>KukhnyaTV.ru@SD</desc>
  </programme>
  <channel id="LDPRTV.ru">
  <display-name>ЛДПР ТВ (1080p) (rus1)  (Russian) (General)</display-name>
@@ -41658,10 +41630,10 @@
  <desc>MuzSoyuz.ru</desc>
  </programme>
  <channel id="MuzTV.ru">
- <display-name>Муз ТВ (rus1)  (Russian) (Music)</display-name>
+ <display-name>МузТВ (rus1)  (Russian) (Music)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="MuzTV.ru">
- <title>Муз ТВ (rus1)  (Russian) (Music)</title>
+ <title>МузТВ (rus1)  (Russian) (Music)</title>
  <desc>MuzTV.ru</desc>
  </programme>
  <channel id="Muzyka1.ru@International">
@@ -41735,10 +41707,10 @@
  <desc>CurrentTimeTV.cz@SD</desc>
  </programme>
  <channel id="Nauka.ru">
- <display-name>Наука 2.0 (rus1)  (Russian) (Documentary)</display-name>
+ <display-name>Наука (rus1)  (Russian) (Documentary)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Nauka.ru">
- <title>Наука 2.0 (rus1)  (Russian) (Documentary)</title>
+ <title>Наука (rus1)  (Russian) (Documentary)</title>
  <desc>Nauka.ru</desc>
  </programme>
  <channel id="NVKSakha.ru">
@@ -41805,52 +41777,52 @@
  <desc>NTV.ru@HD</desc>
  </programme>
  <channel id="NTVMir.ru">
- <display-name>НТВ Мир (rus2)  (Russian) (Culture)</display-name>
+ <display-name>НТВ Мир (rus1)  (Russian) (Culture)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTVMir.ru">
- <title>НТВ Мир (rus2)  (Russian) (Culture)</title>
+ <title>НТВ Мир (rus1)  (Russian) (Culture)</title>
  <desc>NTVMir.ru</desc>
  </programme>
  <channel id="NTVLaw.ru">
- <display-name>НТВ Право (rus2)  (Russian) (Undefined)</display-name>
+ <display-name>НТВ Право (rus1)  (Russian) (Undefined)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTVLaw.ru">
- <title>НТВ Право (rus2)  (Russian) (Undefined)</title>
+ <title>НТВ Право (rus1)  (Russian) (Undefined)</title>
  <desc>NTVLaw.ru</desc>
  </programme>
  <channel id="NTVSeries.ru">
- <display-name>НТВ Сериал (rus2)  (Russian) (Series)</display-name>
+ <display-name>НТВ Сериал (rus1)  (Russian) (Series)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTVSeries.ru">
- <title>НТВ Сериал (rus2)  (Russian) (Series)</title>
+ <title>НТВ Сериал (rus1)  (Russian) (Series)</title>
  <desc>NTVSeries.ru</desc>
  </programme>
  <channel id="NTVStyle.ru">
- <display-name>НТВ Стиль (rus2)  (Russian) (Lifestyle)</display-name>
+ <display-name>НТВ Стиль (rus1)  (Russian) (Lifestyle)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTVStyle.ru">
- <title>НТВ Стиль (rus2)  (Russian) (Lifestyle)</title>
+ <title>НТВ Стиль (rus1)  (Russian) (Lifestyle)</title>
  <desc>NTVStyle.ru</desc>
  </programme>
  <channel id="NTVHit.ru">
- <display-name>НТВ Хит (rus2)  (Russian) (Series)</display-name>
+ <display-name>НТВ Хит (rus1)  (Russian) (Series)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTVHit.ru">
- <title>НТВ Хит (rus2)  (Russian) (Series)</title>
+ <title>НТВ Хит (rus1)  (Russian) (Series)</title>
  <desc>NTVHit.ru</desc>
  </programme>
  <channel id="NTK21.ru">
- <display-name>НТК 21 (Биробиджан) [Geo-blocked] (rus2)  (Russian) (General)</display-name>
+ <display-name>НТК 21 (Биробиджан) [Geo-blocked] (rus1)  (Russian) (General)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTK21.ru">
- <title>НТК 21 (Биробиджан) [Geo-blocked] (rus2)  (Russian) (General)</title>
+ <title>НТК 21 (Биробиджан) [Geo-blocked] (rus1)  (Russian) (General)</title>
  <desc>NTK21.ru</desc>
  </programme>
  <channel id="NTM.ru">
- <display-name>НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] (rus2)  (Russian) (General)</display-name>
+ <display-name>НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] (rus1)  (Russian) (General)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="NTM.ru">
- <title>НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] (rus2)  (Russian) (General)</title>
+ <title>НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] (rus1)  (Russian) (General)</title>
  <desc>NTM.ru</desc>
  </programme>
  <channel id="NTS.ru">
@@ -41951,13 +41923,6 @@
  <title>Первый канал Европа (rus2)  (Russian) (General)</title>
  <desc>ChannelOne.ru@Europe</desc>
  </programme>
- <channel id="PervyyKosmicheskiy.ru">
- <display-name>Первый космический (rus2)  (Russian) (Science)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="PervyyKosmicheskiy.ru">
- <title>Первый космический (rus2)  (Russian) (Science)</title>
- <desc>PervyyKosmicheskiy.ru</desc>
- </programme>
  <channel id="FirstMusicChannel.by">
  <display-name>Первый Музыкальный Канал (576p) (rus2)  (Russian) (Music)</display-name>
  </channel>
@@ -41986,12 +41951,12 @@
  <title>Первый Ярославский (rus2)  (Russian) (General)</title>
  <desc>YaPervyy.ru</desc>
  </programme>
- <channel id="PeretzInternational.ru">
- <display-name>Перец (rus2)  (Russian) (Entertainment)</display-name>
+ <channel id="PeretzInternational.ru@SD">
+ <display-name>Перец International (rus2)  (Russian) (Entertainment)</display-name>
  </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="PeretzInternational.ru">
- <title>Перец (rus2)  (Russian) (Entertainment)</title>
- <desc>PeretzInternational.ru</desc>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="PeretzInternational.ru@SD">
+ <title>Перец International (rus2)  (Russian) (Entertainment)</title>
+ <desc>PeretzInternational.ru@SD</desc>
  </programme>
  <channel id="Pobeda.ru">
  <display-name>Победа (rus2)  (Russian) (Undefined)</display-name>
@@ -42028,19 +41993,19 @@
  <title>Просвещение (540p) [Geo-blocked] (rus2)  (Russian) (Undefined)</title>
  <desc>Prosveshchenie.ru</desc>
  </programme>
- <channel id="FridayInternational.ru">
- <display-name>Пятница International (rus2)  (Russian) (Entertainment)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="FridayInternational.ru">
- <title>Пятница International (rus2)  (Russian) (Entertainment)</title>
- <desc>FridayInternational.ru</desc>
- </programme>
  <channel id="Friday.ru@SD">
  <display-name>Пятница! (rus2)  (Russian) (Entertainment)</display-name>
  </channel>
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="Friday.ru@SD">
  <title>Пятница! (rus2)  (Russian) (Entertainment)</title>
  <desc>Friday.ru@SD</desc>
+ </programme>
+ <channel id="FridayInternational.ru@SD">
+ <display-name>Пятница! International (rus2)  (Russian) (Entertainment)</display-name>
+ </channel>
+ <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="FridayInternational.ru@SD">
+ <title>Пятница! International (rus2)  (Russian) (Entertainment)</title>
+ <desc>FridayInternational.ru@SD</desc>
  </programme>
  <channel id="GovoritMoskva.ru">
  <display-name>Радио Говорит Москва (404p) [Not 24/7] (rus2)  (Russian) (News)</display-name>
@@ -42468,13 +42433,6 @@
  <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="STSInternational.ru@SD">
  <title>СТС International (rus2)  (Russian) (Undefined)</title>
  <desc>STSInternational.ru@SD</desc>
- </programme>
- <channel id="STSkids.ru">
- <display-name>СТС Kids (rus2)  (Russian) (Kids)</display-name>
- </channel>
- <programme start="20250914000000 +0000" stop="20250916000000 +0000" channel="STSkids.ru">
- <title>СТС Kids (rus2)  (Russian) (Kids)</title>
- <desc>STSkids.ru</desc>
  </programme>
  <channel id="StudiyaFakt.ru@SD">
  <display-name>Студия Факт (rus2)  (Russian) (Undefined)</display-name>
