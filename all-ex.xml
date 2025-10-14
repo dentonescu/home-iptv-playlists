@@ -4879,12 +4879,12 @@
  <title>Disney Channel (576p) [Not 24/7] (eng3)  (English) (Kids)</title>
  <desc>DisneyChannel.in@SD</desc>
  </programme>
- <channel id="DisneyChannel.us@East">
- <display-name>Disney Channel (eng3)  (English) (Kids)</display-name>
+ <channel id="DisneyChannel.us">
+ <display-name>Disney Channel (360p) (eng3)  (English) (Kids)</display-name>
  </channel>
- <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="DisneyChannel.us@East">
- <title>Disney Channel (eng3)  (English) (Kids)</title>
- <desc>DisneyChannel.us@East</desc>
+ <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="DisneyChannel.us">
+ <title>Disney Channel (360p) (eng3)  (English) (Kids)</title>
+ <desc>DisneyChannel.us</desc>
  </programme>
  <channel id="DisneyInternationalHD.in@SD">
  <display-name>Disney International HD (1080p) (eng3)  (English) (Kids)</display-name>
@@ -10409,6 +10409,13 @@
  <title>News9Live (720p) (eng7)  (English) (News)</title>
  <desc>News9Live.in@SD</desc>
  </programme>
+ <channel id="News12HudsonValley.us@SD">
+ <display-name>News12 Hudson Valley [Geo-blocked] (eng7)  (English) (News)</display-name>
+ </channel>
+ <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="News12HudsonValley.us@SD">
+ <title>News12 Hudson Valley [Geo-blocked] (eng7)  (English) (News)</title>
+ <desc>News12HudsonValley.us@SD</desc>
+ </programme>
  <channel id="News12LongIsland.us@SD">
  <display-name>News12 Long Island (1080p) [Geo-blocked] (eng7)  (English) (News)</display-name>
  </channel>
@@ -11677,10 +11684,10 @@
  <desc>PlutoTVHome.us</desc>
  </programme>
  <channel id="PlutoTVHorror.us">
- <display-name>Pluto TV Horror (eng7)  (English) (Movies)</display-name>
+ <display-name>Pluto TV Horror (eng8)  (English) (Movies)</display-name>
  </channel>
  <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="PlutoTVHorror.us">
- <title>Pluto TV Horror (eng7)  (English) (Movies)</title>
+ <title>Pluto TV Horror (eng8)  (English) (Movies)</title>
  <desc>PlutoTVHorror.us</desc>
  </programme>
  <channel id="PlutoTVLives.us">
@@ -13350,10 +13357,10 @@
  <desc>SpiritTV.us</desc>
  </programme>
  <channel id="SportsConnect.za">
- <display-name>Sports Connect (720p) (eng8)  (English) (Sports)</display-name>
+ <display-name>Sports Connect (720p) (eng9)  (English) (Sports)</display-name>
  </channel>
  <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="SportsConnect.za">
- <title>Sports Connect (720p) (eng8)  (English) (Sports)</title>
+ <title>Sports Connect (720p) (eng9)  (English) (Sports)</title>
  <desc>SportsConnect.za</desc>
  </programme>
  <channel id="SportsGrid.us">
@@ -15016,10 +15023,10 @@
  <desc>TVLandSitcoms.us</desc>
  </programme>
  <channel id="TVManaEnglish.pt">
- <display-name>TV Maná English (1080p) (eng9)  (English) (Religious)</display-name>
+ <display-name>TV Maná English (1080p) (eng10)  (English) (Religious)</display-name>
  </channel>
  <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="TVManaEnglish.pt">
- <title>TV Maná English (1080p) (eng9)  (English) (Religious)</title>
+ <title>TV Maná English (1080p) (eng10)  (English) (Religious)</title>
  <desc>TVManaEnglish.pt</desc>
  </programme>
  <channel id="TVOne.uk">
@@ -16689,10 +16696,10 @@
  <desc>YadahTV.zw@SD</desc>
  </programme>
  <channel id="YahooFinance.us">
- <display-name>Yahoo! Finance (1080p) (eng10)  (English) (Business)</display-name>
+ <display-name>Yahoo! Finance (1080p) (eng11)  (English) (Business)</display-name>
  </channel>
  <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="YahooFinance.us">
- <title>Yahoo! Finance (1080p) (eng10)  (English) (Business)</title>
+ <title>Yahoo! Finance (1080p) (eng11)  (English) (Business)</title>
  <desc>YahooFinance.us</desc>
  </programme>
  <channel id="YasTV.ae@SD">
@@ -25144,12 +25151,12 @@
  <title>Dismar Radio TV (720p) (spa3)  (Spanish) (Music)</title>
  <desc>DismarRadioTV.py</desc>
  </programme>
- <channel id="DisneyChannel.us@East">
- <display-name>Disney Channel (spa3)  (Spanish) (Kids)</display-name>
+ <channel id="DisneyChannel.us">
+ <display-name>Disney Channel (360p) (spa3)  (Spanish) (Kids)</display-name>
  </channel>
- <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="DisneyChannel.us@East">
- <title>Disney Channel (spa3)  (Spanish) (Kids)</title>
- <desc>DisneyChannel.us@East</desc>
+ <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="DisneyChannel.us">
+ <title>Disney Channel (360p) (spa3)  (Spanish) (Kids)</title>
+ <desc>DisneyChannel.us</desc>
  </programme>
  <channel id="DisneyChannelLatinAmerica.ar">
  <display-name>Disney Channel Latin America (1080p) (spa3)  (Spanish) (Animation) (Kids)</display-name>
@@ -45067,10 +45074,10 @@
  <desc>4FunKids.pl@SD</desc>
  </programme>
  <channel id="4FunTV.pl@SD">
- <display-name>4 Fun TV (288p) [Not 24/7] (pol1)  (Polish) (Undefined)</display-name>
+ <display-name>4 Fun TV (288p) [Not 24/7] (pol1)  (Polish) (Music)</display-name>
  </channel>
  <programme start="20251013000000 +0000" stop="20251015000000 +0000" channel="4FunTV.pl@SD">
- <title>4 Fun TV (288p) [Not 24/7] (pol1)  (Polish) (Undefined)</title>
+ <title>4 Fun TV (288p) [Not 24/7] (pol1)  (Polish) (Music)</title>
  <desc>4FunTV.pl@SD</desc>
  </programme>
  <channel id="13Ulica.pl@SD">
