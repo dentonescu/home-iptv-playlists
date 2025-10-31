@@ -11858,13 +11858,6 @@
  <title>Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p) (eng8)  (English) (General)</title>
  <desc>PCTV28.us@SD</desc>
  </programme>
- <channel id="WPIXDT1.us@SD">
- <display-name>PIX11 (720p) (eng8)  (English) (Undefined)</display-name>
- </channel>
- <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="WPIXDT1.us@SD">
- <title>PIX11 (720p) (eng8)  (English) (Undefined)</title>
- <desc>WPIXDT1.us@SD</desc>
- </programme>
  <channel id="PixLTV.us@SD">
  <display-name>PixL TV (eng8)  (English) (Undefined)</display-name>
  </channel>
@@ -13350,10 +13343,10 @@
  <desc>SFCommons76.us@SD</desc>
  </programme>
  <channel id="SFGovTV2.us@SD">
- <display-name>SFGovTV2 San Francisco The City Channel (720p) (eng9)  (English) (General)</display-name>
+ <display-name>SFGovTV2 San Francisco The City Channel (720p) (eng8)  (English) (General)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="SFGovTV2.us@SD">
- <title>SFGovTV2 San Francisco The City Channel (720p) (eng9)  (English) (General)</title>
+ <title>SFGovTV2 San Francisco The City Channel (720p) (eng8)  (English) (General)</title>
  <desc>SFGovTV2.us@SD</desc>
  </programme>
  <channel id="SFGovTV.us@SD">
@@ -15016,10 +15009,10 @@
  <desc>TODAYAllDay.us@SD</desc>
  </programme>
  <channel id="TSC.ca@SD">
- <display-name>Today's Shopping Choice (TSC) (720p) (eng10)  (English) (Shop)</display-name>
+ <display-name>Today's Shopping Choice (TSC) (720p) (eng9)  (English) (Shop)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="TSC.ca@SD">
- <title>Today's Shopping Choice (TSC) (720p) (eng10)  (English) (Shop)</title>
+ <title>Today's Shopping Choice (TSC) (720p) (eng9)  (English) (Shop)</title>
  <desc>TSC.ca@SD</desc>
  </programme>
  <channel id="TogetherTV.uk@SD">
@@ -16696,10 +16689,10 @@
  <desc>WipeoutXtra.us@SD</desc>
  </programme>
  <channel id="Wired2FishTV.us@SD">
- <display-name>Wired2Fish (720p) [Geo-blocked] (eng11)  (English) (Undefined)</display-name>
+ <display-name>Wired2Fish (720p) [Geo-blocked] (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="Wired2FishTV.us@SD">
- <title>Wired2Fish (720p) [Geo-blocked] (eng11)  (English) (Undefined)</title>
+ <title>Wired2Fish (720p) [Geo-blocked] (eng10)  (English) (Undefined)</title>
  <desc>Wired2FishTV.us@SD</desc>
  </programme>
  <channel id="WISDT2.us@SD">
@@ -16932,6 +16925,13 @@
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="WPECDT1.us@SD">
  <title>WPEC-DT1 (eng11)  (English) (Undefined)</title>
  <desc>WPECDT1.us@SD</desc>
+ </programme>
+ <channel id="WPIXDT1.us@SD">
+ <display-name>WPIX-DT1 (eng11)  (English) (Undefined)</display-name>
+ </channel>
+ <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="WPIXDT1.us@SD">
+ <title>WPIX-DT1 (eng11)  (English) (Undefined)</title>
+ <desc>WPIXDT1.us@SD</desc>
  </programme>
  <channel id="WPSTV.us@SD">
  <display-name>WPS TV (360p) (eng11)  (English) (Education)</display-name>
@@ -20126,10 +20126,10 @@
  <desc>MNM.be@SD</desc>
  </programme>
  <channel id="NH.nl@SD">
- <display-name>NH Niews (1080p) (nld1)  (Dutch) (News)</display-name>
+ <display-name>NH Niews (1080p) (nld1)  (Dutch) (General) (News)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="NH.nl@SD">
- <title>NH Niews (1080p) (nld1)  (Dutch) (News)</title>
+ <title>NH Niews (1080p) (nld1)  (Dutch) (General) (News)</title>
  <desc>NH.nl@SD</desc>
  </programme>
  <channel id="NOOSTV.nl@SD">
@@ -20292,13 +20292,6 @@
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="OmroepVenray.nl@SD">
  <title>Omroep Venray (720p) (nld1)  (Dutch) (General)</title>
  <desc>OmroepVenray.nl@SD</desc>
- </programme>
- <channel id="TVWest.nl@SD">
- <display-name>Omroep West (1080p) [Not 24/7] (nld1)  (Dutch) (Undefined)</display-name>
- </channel>
- <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="TVWest.nl@SD">
- <title>Omroep West (1080p) [Not 24/7] (nld1)  (Dutch) (Undefined)</title>
- <desc>TVWest.nl@SD</desc>
  </programme>
  <channel id="OmroepZeeland.nl@SD">
  <display-name>Omroep Zeeland (1080p) (nld1)  (Dutch) (General)</display-name>
@@ -20614,13 +20607,6 @@
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="RTVRijnmond.nl@SD">
  <title>RTV Rijnmond (1080p) (nld1)  (Dutch) (Undefined)</title>
  <desc>RTVRijnmond.nl@SD</desc>
- </programme>
- <channel id="TVRijnmondExtra.nl@SD">
- <display-name>RTV Rijnmond Extra (1080p) (nld1)  (Dutch) (General)</display-name>
- </channel>
- <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="TVRijnmondExtra.nl@SD">
- <title>RTV Rijnmond Extra (1080p) (nld1)  (Dutch) (General)</title>
- <desc>TVRijnmondExtra.nl@SD</desc>
  </programme>
  <channel id="RTVRijnstreekTV.nl@SD">
  <display-name>RTV Rijnstreek TV (720p) [Not 24/7] (nld1)  (Dutch) (Undefined)</display-name>
@@ -26642,6 +26628,13 @@
  <title>Goiena Eus (720p) (spa3)  (Spanish) (Undefined)</title>
  <desc>GoienaEus.es@SD</desc>
  </programme>
+ <channel id="GolClassics.es@SD">
+ <display-name>Gol Classics (spa3)  (Spanish) (Sports)</display-name>
+ </channel>
+ <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="GolClassics.es@SD">
+ <title>Gol Classics (spa3)  (Spanish) (Sports)</title>
+ <desc>GolClassics.es@SD</desc>
+ </programme>
  <channel id="GolPeru.pe@SD">
  <display-name>Gol Peru (1080p) (spa3)  (Spanish) (Sports)</display-name>
  </channel>
@@ -26937,10 +26930,10 @@
  <desc>ImagenUniversalTV.do@SD</desc>
  </programme>
  <channel id="ImasTV.es@SD">
- <display-name>Imás TV (1080p) [Not 24/7] (spa3)  (Spanish) (General)</display-name>
+ <display-name>Imás TV (1080p) [Not 24/7] (spa4)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="ImasTV.es@SD">
- <title>Imás TV (1080p) [Not 24/7] (spa3)  (Spanish) (General)</title>
+ <title>Imás TV (1080p) [Not 24/7] (spa4)  (Spanish) (General)</title>
  <desc>ImasTV.es@SD</desc>
  </programme>
  <channel id="ImpactoTelevision.pe@SD">
@@ -28603,10 +28596,10 @@
  <desc>NatureTime.es@SD</desc>
  </programme>
  <channel id="NayaritComunica.mx@SD">
- <display-name>Nayarit Comunica (spa4)  (Spanish) (General)</display-name>
+ <display-name>Nayarit Comunica (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="NayaritComunica.mx@SD">
- <title>Nayarit Comunica (spa4)  (Spanish) (General)</title>
+ <title>Nayarit Comunica (spa5)  (Spanish) (General)</title>
  <desc>NayaritComunica.mx@SD</desc>
  </programme>
  <channel id="NazarenasTV.pe@SD">
@@ -30283,10 +30276,10 @@
  <desc>RadioOndaDigital.pe@SD</desc>
  </programme>
  <channel id="RadioPuertoTV.cr@SD">
- <display-name>Radio Puerto TV (720p) (spa5)  (Spanish) (General)</display-name>
+ <display-name>Radio Puerto TV (720p) (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="RadioPuertoTV.cr@SD">
- <title>Radio Puerto TV (720p) (spa5)  (Spanish) (General)</title>
+ <title>Radio Puerto TV (720p) (spa6)  (Spanish) (General)</title>
  <desc>RadioPuertoTV.cr@SD</desc>
  </programme>
  <channel id="RadioRealpolitik.ar@SD">
@@ -31907,10 +31900,10 @@
  <desc>Telelima.pe@SD</desc>
  </programme>
  <channel id="Telemadrid.es@SD">
- <display-name>Telemadrid (720p) (spa6)  (Spanish) (Undefined)</display-name>
+ <display-name>Telemadrid (720p) (spa7)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="Telemadrid.es@SD">
- <title>Telemadrid (720p) (spa6)  (Spanish) (Undefined)</title>
+ <title>Telemadrid (720p) (spa7)  (Spanish) (Undefined)</title>
  <desc>Telemadrid.es@SD</desc>
  </programme>
  <channel id="TelemadridINT.es@SD">
@@ -32486,6 +32479,13 @@
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="TlaxcalaTV.mx@SD">
  <title>Tlaxcala Televisión (360p) [Not 24/7] (spa7)  (Spanish) (Undefined)</title>
  <desc>TlaxcalaTV.mx@SD</desc>
+ </programme>
+ <channel id="TN.ar@SD">
+ <display-name>TN (1080p) (spa7)  (Spanish) (News)</display-name>
+ </channel>
+ <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="TN.ar@SD">
+ <title>TN (1080p) (spa7)  (Spanish) (News)</title>
+ <desc>TN.ar@SD</desc>
  </programme>
  <channel id="TN23.gt@SD">
  <display-name>TN 23 (480p) [Not 24/7] (spa7)  (Spanish) (News)</display-name>
@@ -33531,17 +33531,17 @@
  <desc>UDGTV.mx@SD</desc>
  </programme>
  <channel id="UEBITVOnline.ec@SD">
- <display-name>UEBI TV Online (720p) [Not 24/7] (spa7)  (Spanish) (Education)</display-name>
+ <display-name>UEBI TV Online (720p) [Not 24/7] (spa8)  (Spanish) (Education)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="UEBITVOnline.ec@SD">
- <title>UEBI TV Online (720p) [Not 24/7] (spa7)  (Spanish) (Education)</title>
+ <title>UEBI TV Online (720p) [Not 24/7] (spa8)  (Spanish) (Education)</title>
  <desc>UEBITVOnline.ec@SD</desc>
  </programme>
  <channel id="UESTV.cl@SD">
- <display-name>UESTV (720p) (spa7)  (Spanish) (Undefined)</display-name>
+ <display-name>UESTV (720p) (spa8)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20251030000000 +0000" stop="20251101000000 +0000" channel="UESTV.cl@SD">
- <title>UESTV (720p) (spa7)  (Spanish) (Undefined)</title>
+ <title>UESTV (720p) (spa8)  (Spanish) (Undefined)</title>
  <desc>UESTV.cl@SD</desc>
  </programme>
  <channel id="UltraTVPuebla.mx@SD">
