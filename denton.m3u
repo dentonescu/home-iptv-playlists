@@ -83,7 +83,7 @@ https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-chno="2003" tvg-id="ArgesTV.ro@SD" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="Romanian;General",Arges TV (720p) (ron1)  (Romanian) (General)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
-#EXTINF:-1 tvg-chno="2004" tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="English;Music",Atomic TV (360p) (eng2)  (English) (Music)
+#EXTINF:-1 tvg-chno="2004" tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="English;Music",Atomic TV (360p) (eng1)  (English) (Music)
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-chno="2005" tvg-id="BanatTV.ro@SD" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romanian;General",Banat TV (720p) (ron1)  (Romanian) (General)
 https://www.btv.ro/hls/banat-tv.m3u8
@@ -121,12 +121,14 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-chno="2022" tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="Romanian;Series",Mireasa (720p) (ron1)  (Romanian) (Series)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1 tvg-chno="2023" tvg-id="MoinestiTV.ro@SD" tvg-logo="https://i.imgur.com/MjS7LCr.png" group-title="English;Music",Moinesti TV (720p) (eng6)  (English) (Music)
-https://flus.moinestifm.ro/ro.moinesti/index.m3u8
 #EXTINF:-1 tvg-chno="2024" tvg-id="Moldova1.md@SD" tvg-logo="https://i.postimg.cc/MHSV9MGD/moldova1.png" group-title="Romanian;General",Moldova 1 (1080p) (ron1)  (Romanian) (General)
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-chno="2025" tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Romanian;General",Moldova TV (576p) [Not 24/7] (ron1)  (Romanian) (General)
 http://89.38.8.130:39435
+#EXTINF:-1 tvg-chno="2026" tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Romanian;Music",Mooz Dance (ron1)  (Romanian) (Music)
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-chno="2027" tvg-id="MoozHits.ro@SD" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Romanian;Music",Mooz Hits (ron1)  (Romanian) (Music)
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-chno="2028" tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Romanian;General",Nova TV Brasov (576p) [Not 24/7] (ron1)  (Romanian) (General)
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-chno="2029" tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romanian;News",Observator News (720p) (ron1)  (Romanian) (News)
@@ -147,6 +149,10 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
 #EXTINF:-1 tvg-chno="2037" tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Romanian;Music" http-referrer="https://supertv.ro",Super TV (1080i) [Not 24/7] (ron1)  (Romanian) (Music)
 #EXTVLCOPT:http-referrer=https://supertv.ro
+#EXTINF:-1 tvg-chno="2038" tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Romanian;General",Tele7ABC HD (720p) (ron1)  (Romanian) (General)
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-chno="2039" tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Romanian;Music",Tele7music (ron1)  (Romanian) (Music)
+https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-chno="2040" tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Romanian;General",TeleM Botosani (540p) [Not 24/7] (ron1)  (Romanian) (General)
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-chno="2041" tvg-id="TeleMoldovaPlus.ro@SD" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="Romanian;News",TeleMoldova + [Geo-blocked] (ron1)  (Romanian) (News)
@@ -503,7 +509,7 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-chno="9026" tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Portuguese;Entertainment;News",TV Zoom (720p) (por1)  (Portuguese) (Entertainment) (News)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-chno="9027" tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Portuguese;News",TVídeoNews (720p) [Not 24/7] (por2)  (Portuguese) (News)
+#EXTINF:-1 tvg-chno="9027" tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Portuguese;News",TVídeoNews (720p) [Not 24/7] (por1)  (Portuguese) (News)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-chno="9028" tvg-id="TVUFG.br@SD" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Portuguese;Education",TV UFG (720p) [Not 24/7] (por1)  (Portuguese) (Education)
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
@@ -565,8 +571,8 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-chno="10028" tvg-id="MadrasFMTV.gp@SD" tvg-logo="https://i.imgur.com/spGg1CZ.png" group-title="French;Music",Madras FM TV (1080p) (fra2)  (French) (Music)
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-chno="10029" tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="French;News",Medi 1 TV Afrique (720p) (fra2)  (French) (News)
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="10029" tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="French;News",Medi1TV Afrique (720p) (fra2)  (French) (News)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-chno="10030" tvg-id="Metropole.ht@SD" tvg-logo="https://i.imgur.com/Ei1Su4V.png" group-title="French;Music",Metropole (fra2)  (French) (Music)
 https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8
 #EXTINF:-1 tvg-chno="10031" tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/FPyPaL1.png" group-title="French;News",Monaco Info (1080p) (fra2)  (French) (News)
