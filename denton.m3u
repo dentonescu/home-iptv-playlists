@@ -215,9 +215,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
 #EXTINF:-1 tvg-chno="3021" tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="" group-title="German;Music",Radio Weser TV Bremen (576p) (deu1)  (German) (Music)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="3022" tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="German;Undefined",RTL HD (deu2)  (German) (Undefined)
+#EXTINF:-1 tvg-chno="3022" tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="German;Undefined",RTL HD (deu1)  (German) (Undefined)
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (deu2)  (German) (Undefined)
+#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (deu1)  (German) (Undefined)
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-chno="3024" tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="German;News",WELT (1080p) (deu2)  (German) (News)
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
@@ -409,8 +409,6 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno="8051" tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Spanish;Education",Platzi TV (1080p) (spa5)  (Spanish) (Education)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-chno="8052" tvg-id="PlutoTVCiencia.us@SD" tvg-logo="https://i.imgur.com/MJQTxZT.png" group-title="Spanish;Science",Pluto TV Ciencia (720p) (spa5)  (Spanish) (Science)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-chno="8053" tvg-id="PlutoTVMTVClassic.us@SD" tvg-logo="https://i.imgur.com/NPavpts.png" group-title="Spanish;Music",Pluto TV MTV Classic (spa5)  (Spanish) (Music)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-chno="8054" tvg-id="PlutoTVMTVLatino.us@SD" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="Spanish;Music",Pluto TV MTV Latino (720p) (spa5)  (Spanish) (Music)
@@ -439,11 +437,11 @@ http://201.247.102.189/tmp_hls/stream/index.m3u8
 https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
 #EXTINF:-1 tvg-chno="8066" tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Spanish;News" http-referrer="http://www.tvperu.gob.pe/noticias",TV Peru Noticias (360p) (spa7)  (Spanish) (News)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 tvg-chno="8067" tvg-id="TVUNO.pe@SD" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Spanish;Music",TVUNO (720p) (spa8)  (Spanish) (Music)
+#EXTINF:-1 tvg-chno="8067" tvg-id="TVUNO.pe@SD" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Spanish;Music",TVUNO (720p) (spa7)  (Spanish) (Music)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="8068" tvg-id="TVUJAT.mx@SD" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Spanish;Education",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7] (spa7)  (Spanish) (Education)
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-chno="8070" tvg-id="UMSATVULP.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Spanish;Culture;Education;News" http-referrer="https://tvu.umsa.bo/en-vivo",UMSA TVU LP (720p) (spa8)  (Spanish) (Culture) (Education) (News)
+#EXTINF:-1 tvg-chno="8070" tvg-id="UMSATVULP.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Spanish;Culture;Education;News" http-referrer="https://tvu.umsa.bo/en-vivo",UMSA TVU LP (720p) (spa7)  (Spanish) (Culture) (Education) (News)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
 #EXTINF:-1 tvg-chno="8072" tvg-id="VisionTelevision.mx@SD" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Spanish;Music",Visión Televisión (720p) (spa8)  (Spanish) (Music)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
