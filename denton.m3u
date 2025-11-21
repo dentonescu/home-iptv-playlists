@@ -77,7 +77,7 @@ https://fl1.moveonjoy.com/VH1/index.m3u8
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1 tvg-chno="2000" tvg-id="AlephNews.ro@SD" tvg-logo="https://i.postimg.cc/mkVSBpHq/alephnews.png" group-title="Romanian;News",Aleph News (720p) (ron1)  (Romanian) (News)
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="2001" tvg-id="Antena1.ro" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Romanian;General",Antena 1 (1080p) [Not 24/7] (ron1)  (Romanian) (General)
+#EXTINF:-1 tvg-chno="2001" tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Romanian;General",Antena 1 (1080p) [Not 24/7] (ron1)  (Romanian) (General)
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 tvg-chno="2002" tvg-id="AntenaMonden.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Romanian;Lifestyle",Antena Monden (720p) (ron1)  (Romanian) (Lifestyle)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
@@ -339,6 +339,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 #EXTINF:-1 tvg-chno="8014" tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Spanish;Music",Conecta TV (spa2)  (Spanish) (Music)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-chno="8015" tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Spanish;Movies;News",Cosmos Tv (720p) (spa3)  (Spanish) (Movies) (News)
+https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="8016" tvg-id="DeUltimoMinutoTV.do@SD" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="Spanish;News",De Ultimo Minuto TV (spa3)  (Spanish) (News)
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 tvg-chno="8017" tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Spanish;News",DW Espanol (1080p) (spa3)  (Spanish) (News)
@@ -569,7 +571,7 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-chno="10028" tvg-id="MadrasFMTV.gp@SD" tvg-logo="https://i.imgur.com/spGg1CZ.png" group-title="French;Music",Madras FM TV (1080p) (fra2)  (French) (Music)
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-chno="10029" tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="French;News",Medi1TV Afrique (1080p) (fra2)  (French) (News)
+#EXTINF:-1 tvg-chno="10029" tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="French;News",Medi1TV Afrique (1080p) (fra2)  (French) (News)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-chno="10030" tvg-id="Metropole.ht@SD" tvg-logo="https://i.imgur.com/Ei1Su4V.png" group-title="French;Music",Metropole (fra2)  (French) (Music)
 https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8
