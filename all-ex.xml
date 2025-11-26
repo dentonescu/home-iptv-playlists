@@ -9527,6 +9527,13 @@
  <title>NBC 2 Tulsa OK (KJRH) (720p) (eng6)  (English) (General)</title>
  <desc>KJRHDT1.us@SD</desc>
  </programme>
+ <channel id="NBC3.na@SD">
+ <display-name>NBC 3 (480p) (eng6)  (English) (Entertainment)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="NBC3.na@SD">
+ <title>NBC 3 (480p) (eng6)  (English) (Entertainment)</title>
+ <desc>NBC3.na@SD</desc>
+ </programme>
  <channel id="KCRADT1.us@SD">
  <display-name>NBC 3 Sacramento CA (KCRA) (720p) (eng6)  (English) (General)</display-name>
  </channel>
@@ -9589,13 +9596,6 @@
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="WPTZDT1.us@SD">
  <title>NBC 5 Plattsburgh NY (WPTZ) (720p) (eng6)  (English) (News)</title>
  <desc>WPTZDT1.us@SD</desc>
- </programme>
- <channel id="WTVJDT1.us@SD">
- <display-name>NBC 6 Miami FL (WTVJ) [Geo-blocked] (eng6)  (English) (Undefined)</display-name>
- </channel>
- <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="WTVJDT1.us@SD">
- <title>NBC 6 Miami FL (WTVJ) [Geo-blocked] (eng6)  (English) (Undefined)</title>
- <desc>WTVJDT1.us@SD</desc>
  </programme>
  <channel id="WDSUDT1.us@SD">
  <display-name>NBC 6 New Orleans LA (WDSU) (720p) (eng6)  (English) (Undefined)</display-name>
@@ -12706,10 +12706,10 @@
  <desc>SLOCountyChannel21.us@SD</desc>
  </programme>
  <channel id="SmashTV.mt@SD">
- <display-name>Smash TV [Geo-blocked] (eng8)  (English) (General)</display-name>
+ <display-name>Smash TV (720p) (eng8)  (English) (General)</display-name>
  </channel>
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="SmashTV.mt@SD">
- <title>Smash TV [Geo-blocked] (eng8)  (English) (General)</title>
+ <title>Smash TV (720p) (eng8)  (English) (General)</title>
  <desc>SmashTV.mt@SD</desc>
  </programme>
  <channel id="SmithsonianChannel.us@East">
@@ -15967,6 +15967,13 @@
  <title>WPIX-DT1 (eng10)  (English) (Undefined)</title>
  <desc>WPIXDT1.us@SD</desc>
  </programme>
+ <channel id="WPLGDT2.us@SD">
+ <display-name>WPLG-DT2 (eng10)  (English) (Undefined)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="WPLGDT2.us@SD">
+ <title>WPLG-DT2 (eng10)  (English) (Undefined)</title>
+ <desc>WPLGDT2.us@SD</desc>
+ </programme>
  <channel id="WPSTV.us@SD">
  <display-name>WPS TV (360p) (eng10)  (English) (Education)</display-name>
  </channel>
@@ -16085,6 +16092,13 @@
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="WTVDDT1247News.us@SD">
  <title>WTVD ABC 11 News (Raleigh-Durham NC) (720p) (eng10)  (English) (News)</title>
  <desc>WTVDDT1247News.us@SD</desc>
+ </programme>
+ <channel id="WTVJDT1.us@SD">
+ <display-name>WTVJ-DT1 (eng10)  (English) (Undefined)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="WTVJDT1.us@SD">
+ <title>WTVJ-DT1 (eng10)  (English) (Undefined)</title>
+ <desc>WTVJDT1.us@SD</desc>
  </programme>
  <channel id="WTVQDT1.us@SD">
  <display-name>WTVQ ABC 36 News (Lexington KY) (720p) (eng10)  (English) (Undefined)</display-name>
@@ -17283,6 +17297,13 @@
  <title>n-tv (1080p) (deu1)  (German) (General)</title>
  <desc>ntv.de@SD</desc>
  </programme>
+ <channel id="NBC3.na@SD">
+ <display-name>NBC 3 (480p) (deu1)  (German) (Entertainment)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="NBC3.na@SD">
+ <title>NBC 3 (480p) (deu1)  (German) (Entertainment)</title>
+ <desc>NBC3.na@SD</desc>
+ </programme>
  <channel id="NDRFernsehen.de@Hamburg">
  <display-name>NDR Fernsehen (deu1)  (German) (General)</display-name>
  </channel>
@@ -18117,10 +18138,10 @@
  <desc>Seenluft24.de@SD</desc>
  </programme>
  <channel id="SenderNeuJerusalem.de@SD">
- <display-name>Sender Neu Jerusalem (576p) (deu1)  (German) (Undefined)</display-name>
+ <display-name>Sender Neu Jerusalem (576p) (deu2)  (German) (Undefined)</display-name>
  </channel>
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="SenderNeuJerusalem.de@SD">
- <title>Sender Neu Jerusalem (576p) (deu1)  (German) (Undefined)</title>
+ <title>Sender Neu Jerusalem (576p) (deu2)  (German) (Undefined)</title>
  <desc>SenderNeuJerusalem.de@SD</desc>
  </programme>
  <channel id="ServusTV.at@SD">
@@ -24059,12 +24080,12 @@
  <title>Colome TV [Not 24/7] (spa2)  (Spanish) (General)</title>
  <desc>ColomeTV.do@HD</desc>
  </programme>
- <channel id="ColorVision.do@SD">
+ <channel id="ColorVision.do">
  <display-name>Color Vision (576p) [Not 24/7] (spa2)  (Spanish) (General)</display-name>
  </channel>
- <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="ColorVision.do@SD">
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="ColorVision.do">
  <title>Color Vision (576p) [Not 24/7] (spa2)  (Spanish) (General)</title>
- <desc>ColorVision.do@SD</desc>
+ <desc>ColorVision.do</desc>
  </programme>
  <channel id="ColosalTV.cr@SD">
  <display-name>Colosal TV (720p) [Not 24/7] (spa2)  (Spanish) (Entertainment)</display-name>
@@ -27111,6 +27132,13 @@
  <title>MGM+ Marquee (spa4)  (Spanish) (Movies)</title>
  <desc>MGMPlusMarquee.us@SD</desc>
  </programme>
+ <channel id="MiGenteTV.co@SD">
+ <display-name>Mi Gente TV (720p) [Geo-blocked] (spa4)  (Spanish) (Music)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="MiGenteTV.co@SD">
+ <title>Mi Gente TV (720p) [Geo-blocked] (spa4)  (Spanish) (Music)</title>
+ <desc>MiGenteTV.co@SD</desc>
+ </programme>
  <channel id="MiPuebloTv.do@HD">
  <display-name>Mi Pueblo Tv [Not 24/7] (spa4)  (Spanish) (General)</display-name>
  </channel>
@@ -27490,10 +27518,10 @@
  <desc>NativaTV.cl@SD</desc>
  </programme>
  <channel id="NativaTVSatipo.pe@SD">
- <display-name>Nativa TV Satipo (720p) [Not 24/7] (spa4)  (Spanish) (General)</display-name>
+ <display-name>Nativa TV Satipo (720p) [Not 24/7] (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="NativaTVSatipo.pe@SD">
- <title>Nativa TV Satipo (720p) [Not 24/7] (spa4)  (Spanish) (General)</title>
+ <title>Nativa TV Satipo (720p) [Not 24/7] (spa5)  (Spanish) (General)</title>
  <desc>NativaTVSatipo.pe@SD</desc>
  </programme>
  <channel id="NatureTime.es@SD">
@@ -29163,10 +29191,10 @@
  <desc>RadioTVOriente.pe@SD</desc>
  </programme>
  <channel id="RakutenTVActionMovies.es@Spain">
- <display-name>Rakuten TV Action Movies Spain (1080p) (spa5)  (Spanish) (Movies)</display-name>
+ <display-name>Rakuten TV Action Movies Spain (1080p) (spa6)  (Spanish) (Movies)</display-name>
  </channel>
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="RakutenTVActionMovies.es@Spain">
- <title>Rakuten TV Action Movies Spain (1080p) (spa5)  (Spanish) (Movies)</title>
+ <title>Rakuten TV Action Movies Spain (1080p) (spa6)  (Spanish) (Movies)</title>
  <desc>RakutenTVActionMovies.es@Spain</desc>
  </programme>
  <channel id="RakutenTVComedyMovies.es@Spain">
@@ -30787,10 +30815,10 @@
  <desc>Telenovisa43.do@SD</desc>
  </programme>
  <channel id="TeleOnce.pr@SD">
- <display-name>TeleOnce (spa6)  (Spanish) (Undefined)</display-name>
+ <display-name>TeleOnce (spa7)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="TeleOnce.pr@SD">
- <title>TeleOnce (spa6)  (Spanish) (Undefined)</title>
+ <title>TeleOnce (spa7)  (Spanish) (Undefined)</title>
  <desc>TeleOnce.pr@SD</desc>
  </programme>
  <channel id="Teleonuba.es@SD">
@@ -32411,10 +32439,10 @@
  <desc>UrbanoTV.cr@SD</desc>
  </programme>
  <channel id="USANetworkLatinAmerica.us@Panregional">
- <display-name>USA Network Latin America (spa7)  (Spanish) (Undefined)</display-name>
+ <display-name>USA Network Latin America (spa8)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="USANetworkLatinAmerica.us@Panregional">
- <title>USA Network Latin America (spa7)  (Spanish) (Undefined)</title>
+ <title>USA Network Latin America (spa8)  (Spanish) (Undefined)</title>
  <desc>USANetworkLatinAmerica.us@Panregional</desc>
  </programme>
  <channel id="USMPTV.pe@SD">
@@ -43722,6 +43750,13 @@
  <title>13 Ulica (1080p) (pol1)  (Polish) (Entertainment)</title>
  <desc>13Ulica.pl@SD</desc>
  </programme>
+ <channel id="13tv.pl@SD">
+ <display-name>13.tv (1080p) (pol1)  (Polish) (General)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="13tv.pl@SD">
+ <title>13.tv (1080p) (pol1)  (Polish) (General)</title>
+ <desc>13tv.pl@SD</desc>
+ </programme>
  <channel id="AntenaHD.pl@SD">
  <display-name>Antena HD (1080p) (pol1)  (Polish) (Entertainment)</display-name>
  </channel>
@@ -44246,6 +44281,13 @@
  <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="TVPPolonia.pl@SD">
  <title>TVP Polonia (pol1)  (Polish) (Undefined)</title>
  <desc>TVPPolonia.pl@SD</desc>
+ </programme>
+ <channel id="TVPRozrywka.pl@SD">
+ <display-name>TVP Rozrywka (1080p) (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20251125000000 +0000" stop="20251127000000 +0000" channel="TVPRozrywka.pl@SD">
+ <title>TVP Rozrywka (1080p) (pol1)  (Polish) (Undefined)</title>
+ <desc>TVPRozrywka.pl@SD</desc>
  </programme>
  <channel id="TVT.pl@SD">
  <display-name>TVT (720p) (pol1)  (Polish) (Undefined)</display-name>
