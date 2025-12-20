@@ -7476,8 +7476,8 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
 #EXTINF:-1 tvg-id="IngenioTV.mx@SD" tvg-logo="https://i.imgur.com/pAppH1M.png" group-title="Spanish;Undefined",Ingenio TV (720p) [Geo-blocked] (spa3)  (Spanish) (Undefined)
 https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
-#EXTINF:-1 tvg-id="InmaculadaTV.hn@SD" tvg-logo="https://i.imgur.com/2lisFJV.png" group-title="Spanish;Religious",Inmaculada TV (1080p) [Not 24/7] (spa3)  (Spanish) (Religious)
-https://rpn3.bozztv.com/ssh101/ssh101/inmaculadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="InmaculadaTV.hn@SD" tvg-logo="https://i.imgur.com/2lisFJV.png" group-title="Spanish;Religious",Inmaculada TV (720p) [Not 24/7] (spa3)  (Spanish) (Religious)
+https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
 #EXTINF:-1 tvg-id="InteralmeriaTV.es@SD" tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="Spanish;General",Interalmeria TV (1080p) (spa3)  (Spanish) (General)
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es@SD" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Spanish;General",Intercomarcal TV (576p) [Not 24/7] (spa3)  (Spanish) (General)
@@ -8551,6 +8551,10 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.ve@SD" tvg-logo="https://i.imgur.com/zRX91Xr.png" group-title="Spanish;General",Siembra TV [Not 24/7] (spa6)  (Spanish) (General)
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" group-title="Spanish;General",SIL TV (1080p) (spa6)  (Spanish) (General)
+#EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 tvg-id="SimavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="Spanish;General",Sima Vision TV (720p) (spa6)  (Spanish) (General)
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="SintesisTV.mx@SD" tvg-logo="https://i.imgur.com/1g9mbqi.png" group-title="Spanish;General",Síntesis TV (480p) (spa6)  (Spanish) (General)
@@ -8949,9 +8953,9 @@ https://viewhn.com/canal30/live/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="Spanish;General",Televisora de Oriente (406p) (spa6)  (Spanish) (General)
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#EXTINF:-1 tvg-id="TEN.es@SD" tvg-logo="https://i.imgur.com/ZpaeqyN.png" group-title="Spanish;Undefined",TEN (1080p) (spa6)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="TEN.es@SD" tvg-logo="https://i.imgur.com/ZpaeqyN.png" group-title="Spanish;Undefined",TEN (1080p) (spa7)  (Spanish) (Undefined)
 http://176.65.146.237:8401/play/a0al/index.m3u8
-#EXTINF:-1 tvg-id="TENCanal10.hn@SD" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Spanish;Undefined",TEN Canal 10 (720p) [Not 24/7] (spa6)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="TENCanal10.hn@SD" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Spanish;Undefined",TEN Canal 10 (720p) [Not 24/7] (spa7)  (Spanish) (Undefined)
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
 #EXTINF:-1 tvg-id="TenarensesTV.do@SD" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="Spanish;General",Tenarenses TV (720p) [Not 24/7] (spa7)  (Spanish) (General)
 https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
@@ -9428,9 +9432,9 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr@SD" tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="Spanish;Music",VoiceOver Radio TV (720p) (spa7)  (Spanish) (Music)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 tvg-id="VosTV.ni@SD" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="Spanish;General",Vos TV (720p) [Not 24/7] (spa7)  (Spanish) (General)
+#EXTINF:-1 tvg-id="VosTV.ni@SD" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="Spanish;General",Vos TV (720p) [Not 24/7] (spa8)  (Spanish) (General)
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
-#EXTINF:-1 tvg-id="VosyTV.ec@SD" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Spanish;Music",Vos y TV (720p) [Not 24/7] (spa7)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="VosyTV.ec@SD" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Spanish;Music",Vos y TV (720p) [Not 24/7] (spa8)  (Spanish) (Music)
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve@SD" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Spanish;News",VPItv (1080p) (spa8)  (Spanish) (News)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
@@ -11076,6 +11080,8 @@ https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="GeopolisTV.cd@SD" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" group-title="French;News",Géopolis TV (240p) (fra1)  (French) (News)
 https://tnt-television.com/Geopolis_tv/index.m3u8
+#EXTINF:-1 tvg-id="Gong.fr@SD" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="French;Animation",Gong (1080p) (fra1)  (French) (Animation)
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="GuideLoveTV.ci@SD" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" group-title="French;Lifestyle",Guide Love TV (720p) (fra1)  (French) (Lifestyle)
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="French;Kids",Gulli (720p) (fra1)  (French) (Kids)
@@ -11220,7 +11226,7 @@ https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
 #EXTINF:-1 tvg-id="ManaEgliseOnline.pt@SD" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="French;Religious",Maná Église Online (1080p) [Not 24/7] (fra1)  (French) (Religious)
 https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.postimg.cc/KvBBtrDw/matele.png" group-title="French;General",MaTele (1080p) [Not 24/7] (fra1)  (French) (General)
+#EXTINF:-1 tvg-id="Matele.be@SD" tvg-logo="https://i.postimg.cc/KvBBtrDw/matele.png" group-title="French;General",MaTele (1080p) [Not 24/7] (fra2)  (French) (General)
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="MaxTV.ch@SD" tvg-logo="https://i.postimg.cc/02YKz58q/maxtv.png" group-title="French;General",MaxTV/Dieu TV (1080p) (fra2)  (French) (General)
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
@@ -11700,7 +11706,7 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 http://69.64.57.208/tvt/playlist.m3u8
 #EXTINF:-1 tvg-id="Vedia.be@SD" tvg-logo="https://i.postimg.cc/pLCCptZT/vedia.png" group-title="French;Undefined",Vedia (1080p) (fra2)  (French) (Undefined)
 https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8
-#EXTINF:-1 tvg-id="ViaATV.mq@SD" tvg-logo="https://i.imgur.com/Ua6rOXo.png" group-title="French;General",ViàATV (1080p) [Geo-blocked] (fra2)  (French) (General)
+#EXTINF:-1 tvg-id="ViaATV.mq@SD" tvg-logo="https://i.imgur.com/Ua6rOXo.png" group-title="French;General",ViàATV (1080p) [Geo-blocked] (fra3)  (French) (General)
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 #EXTINF:-1 tvg-id="ViaMatele.fr@SD" tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="French;Undefined",ViàMatélé (1080p) (fra3)  (French) (Undefined)
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
