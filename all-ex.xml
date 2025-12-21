@@ -38486,12 +38486,12 @@
  <title>Kaback TV (720p) (fra1)  (French) (General)</title>
  <desc>KabackTV.gn@SD</desc>
  </programme>
- <channel id="KajouTV.us@SD">
- <display-name>Kajou TV (fra1)  (French) (Culture)</display-name>
+ <channel id="KajouTV.us">
+ <display-name>Kajou TV (720p) [Not 24/7] (fra1)  (French) (Culture)</display-name>
  </channel>
- <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="KajouTV.us@SD">
- <title>Kajou TV (fra1)  (French) (Culture)</title>
- <desc>KajouTV.us@SD</desc>
+ <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="KajouTV.us">
+ <title>Kajou TV (720p) [Not 24/7] (fra1)  (French) (Culture)</title>
+ <desc>KajouTV.us</desc>
  </programme>
  <channel id="KalacTV.gn@SD">
  <display-name>Kalac TV (1080p) (fra1)  (French) (General)</display-name>
@@ -39677,11 +39677,18 @@
  <desc>RTD4.dj@SD</desc>
  </programme>
  <channel id="RTG1.gn@SD">
- <display-name>RTG 1 (fra2)  (French) (General)</display-name>
+ <display-name>RTG 1 (360p) (fra2)  (French) (General)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="RTG1.gn@SD">
- <title>RTG 1 (fra2)  (French) (General)</title>
+ <title>RTG 1 (360p) (fra2)  (French) (General)</title>
  <desc>RTG1.gn@SD</desc>
+ </programme>
+ <channel id="RTG2.gn@SD">
+ <display-name>RTG 2 (720p) (fra2)  (French) (General)</display-name>
+ </channel>
+ <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="RTG2.gn@SD">
+ <title>RTG 2 (720p) (fra2)  (French) (General)</title>
+ <desc>RTG2.gn@SD</desc>
  </programme>
  <channel id="RTHTV1.us@SD">
  <display-name>RTH-TV1 (1080p) (fra2)  (French) (General)</display-name>
@@ -40426,17 +40433,17 @@
  <desc>TVR.fr@SD</desc>
  </programme>
  <channel id="TVT.tg@SD">
- <display-name>TVT (720p) [Not 24/7] (fra2)  (French) (General)</display-name>
+ <display-name>TVT (720p) [Not 24/7] (fra3)  (French) (General)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="TVT.tg@SD">
- <title>TVT (720p) [Not 24/7] (fra2)  (French) (General)</title>
+ <title>TVT (720p) [Not 24/7] (fra3)  (French) (General)</title>
  <desc>TVT.tg@SD</desc>
  </programme>
  <channel id="Vedia.be@SD">
- <display-name>Vedia (1080p) (fra2)  (French) (Undefined)</display-name>
+ <display-name>Vedia (1080p) (fra3)  (French) (Undefined)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="Vedia.be@SD">
- <title>Vedia (1080p) (fra2)  (French) (Undefined)</title>
+ <title>Vedia (1080p) (fra3)  (French) (Undefined)</title>
  <desc>Vedia.be@SD</desc>
  </programme>
  <channel id="ViaATV.mq@SD">
@@ -43576,10 +43583,10 @@
  <desc>HRT1.hr@SD</desc>
  </programme>
  <channel id="HRT1.hr@HD">
- <display-name>HRT 1 HD (1080p) (hrv1)  (Croatian) (General)</display-name>
+ <display-name>HRT 1 HD (1080p) [Geo-blocked] (hrv1)  (Croatian) (General)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="HRT1.hr@HD">
- <title>HRT 1 HD (1080p) (hrv1)  (Croatian) (General)</title>
+ <title>HRT 1 HD (1080p) [Geo-blocked] (hrv1)  (Croatian) (General)</title>
  <desc>HRT1.hr@HD</desc>
  </programme>
  <channel id="HRT2.hr@SD">
@@ -43590,10 +43597,10 @@
  <desc>HRT2.hr@SD</desc>
  </programme>
  <channel id="HRT2.hr@HD">
- <display-name>HRT 2 HD (1080p) (hrv1)  (Croatian) (General)</display-name>
+ <display-name>HRT 2 HD (1080p) [Geo-blocked] (hrv1)  (Croatian) (General)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="HRT2.hr@HD">
- <title>HRT 2 HD (1080p) (hrv1)  (Croatian) (General)</title>
+ <title>HRT 2 HD (1080p) [Geo-blocked] (hrv1)  (Croatian) (General)</title>
  <desc>HRT2.hr@HD</desc>
  </programme>
  <channel id="HRT3.hr@SD">
@@ -43604,17 +43611,17 @@
  <desc>HRT3.hr@SD</desc>
  </programme>
  <channel id="HRT3.hr@HD">
- <display-name>HRT 3 HD (720p) (hrv1)  (Croatian) (Culture) (Documentary)</display-name>
+ <display-name>HRT 3 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (Culture) (Documentary)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="HRT3.hr@HD">
- <title>HRT 3 HD (720p) (hrv1)  (Croatian) (Culture) (Documentary)</title>
+ <title>HRT 3 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (Culture) (Documentary)</title>
  <desc>HRT3.hr@HD</desc>
  </programme>
  <channel id="HRT4.hr@HD">
- <display-name>HRT 4 HD (720p) (hrv1)  (Croatian) (News)</display-name>
+ <display-name>HRT 4 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (News)</display-name>
  </channel>
  <programme start="20251220000000 +0000" stop="20251222000000 +0000" channel="HRT4.hr@HD">
- <title>HRT 4 HD (720p) (hrv1)  (Croatian) (News)</title>
+ <title>HRT 4 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (News)</title>
  <desc>HRT4.hr@HD</desc>
  </programme>
  <channel id="KlapeiTambureTV.hr@SD">
