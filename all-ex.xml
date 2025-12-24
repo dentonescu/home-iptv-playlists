@@ -308,13 +308,6 @@
  <title>&amp;flix (480p) (eng1)  (English) (Movies)</title>
  <desc>Andflix.in@SD</desc>
  </programme>
- <channel id="AndpriveHD.in@SD">
- <display-name>&amp;prive HD (1080p) (eng1)  (English) (Movies)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="AndpriveHD.in@SD">
- <title>&amp;prive HD (1080p) (eng1)  (English) (Movies)</title>
- <desc>AndpriveHD.in@SD</desc>
- </programme>
  <channel id="A2iTV.it@SD">
  <display-name>A2i TV (1080p) (eng1)  (English) (General)</display-name>
  </channel>
@@ -1434,6 +1427,13 @@
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="AnytimeTV.za@HD">
  <title>Anytime TV (1080p) (eng1)  (English) (Travel)</title>
  <desc>AnytimeTV.za@HD</desc>
+ </programme>
+ <channel id="ApnaChannel.pk@SD">
+ <display-name>Apna Channel (576p) (eng1)  (English) (General)</display-name>
+ </channel>
+ <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="ApnaChannel.pk@SD">
+ <title>Apna Channel (576p) (eng1)  (English) (General)</title>
+ <desc>ApnaChannel.pk@SD</desc>
  </programme>
  <channel id="AppleValleyChannel180.us@SD">
  <display-name>Apple Valley Channel 180 (eng1)  (English) (Legislative)</display-name>
@@ -5404,6 +5404,13 @@
  <title>FashionTV Europe (1080p) (eng4)  (English) (Lifestyle)</title>
  <desc>FashionTVEurope.fr@SD</desc>
  </programme>
+ <channel id="FastSports.pk@SD">
+ <display-name>Fast Sports (1080p) (eng4)  (English) (Sports)</display-name>
+ </channel>
+ <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="FastSports.pk@SD">
+ <title>Fast Sports (1080p) (eng4)  (English) (Sports)</title>
+ <desc>FastSports.pk@SD</desc>
+ </programme>
  <channel id="FazalTV.pk@SD">
  <display-name>Fazal TV (1080p) (eng4)  (English) (Religious)</display-name>
  </channel>
@@ -5648,13 +5655,6 @@
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="FoursquareTV.ng@SD">
  <title>Foursquare TV (360p) [Not 24/7] (eng4)  (English) (Religious)</title>
  <desc>FoursquareTV.ng@SD</desc>
- </programme>
- <channel id="Fox.us@East">
- <display-name>Fox (720p) (eng4)  (English) (General)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="Fox.us@East">
- <title>Fox (720p) (eng4)  (English) (General)</title>
- <desc>Fox.us@East</desc>
  </programme>
  <channel id="KTVUDT1.us@SD">
  <display-name>FOX 2 San Francisco CA (KTVU) (720p) (eng4)  (English) (General)</display-name>
@@ -6014,10 +6014,10 @@
  <desc>GemsTV.uk@SD</desc>
  </programme>
  <channel id="GeoKahani.pk@SD">
- <display-name>Geo Kahani (360p) (eng4)  (English) (Entertainment)</display-name>
+ <display-name>Geo Kahani (1080p) (eng4)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="GeoKahani.pk@SD">
- <title>Geo Kahani (360p) (eng4)  (English) (Entertainment)</title>
+ <title>Geo Kahani (1080p) (eng4)  (English) (Entertainment)</title>
  <desc>GeoKahani.pk@SD</desc>
  </programme>
  <channel id="GetTV.us@SD">
@@ -8904,13 +8904,6 @@
  <title>MNCTV (720p) (eng6)  (English) (General)</title>
  <desc>MNCTV.id@SD</desc>
  </programme>
- <channel id="MNX.in@HD">
- <display-name>MNX (1080p) (eng6)  (English) (Movies)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="MNX.in@HD">
- <title>MNX (1080p) (eng6)  (English) (Movies)</title>
- <desc>MNX.in@HD</desc>
- </programme>
  <channel id="MCPSSTV.us@SD">
  <display-name>Mobile County Public Schools TV Network (MCPSS) (eng6)  (English) (Education)</display-name>
  </channel>
@@ -9050,13 +9043,6 @@
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="MoviesforGamers.us@SD">
  <title>Movies for Gamers (eng6)  (English) (Animation)</title>
  <desc>MoviesforGamers.us@SD</desc>
- </programme>
- <channel id="MoviesNow.in@HD">
- <display-name>Movies Now (1080p) (eng6)  (English) (Movies)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="MoviesNow.in@HD">
- <title>Movies Now (1080p) (eng6)  (English) (Movies)</title>
- <desc>MoviesNow.in@HD</desc>
  </programme>
  <channel id="MoviesThriller.sa@SD">
  <display-name>Movies Thriller (1080p) (eng6)  (English) (Movies)</display-name>
@@ -9442,6 +9428,13 @@
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="NationalGeographicWild.us@East">
  <title>National Geographic Wild East (eng6)  (English) (Documentary)</title>
  <desc>NationalGeographicWild.us@East</desc>
+ </programme>
+ <channel id="NationalGeographicWild.in@HD">
+ <display-name>National Geographic Wild HD (1080p) (eng6)  (English) (Documentary)</display-name>
+ </channel>
+ <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="NationalGeographicWild.in@HD">
+ <title>National Geographic Wild HD (1080p) (eng6)  (English) (Documentary)</title>
+ <desc>NationalGeographicWild.in@HD</desc>
  </programme>
  <channel id="NationalGeographicWild.us@HDEast">
  <display-name>National Geographic Wild HD East (720p) [Not 24/7] (eng6)  (English) (Documentary)</display-name>
@@ -10046,10 +10039,10 @@
  <desc>NHLCentreIce5.ca@SD</desc>
  </programme>
  <channel id="NHLCentreIce6.ca@SD">
- <display-name>NHL Centre Ice 6 (eng7)  (English) (Sports)</display-name>
+ <display-name>NHL Centre Ice 6 (eng6)  (English) (Sports)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="NHLCentreIce6.ca@SD">
- <title>NHL Centre Ice 6 (eng7)  (English) (Sports)</title>
+ <title>NHL Centre Ice 6 (eng6)  (English) (Sports)</title>
  <desc>NHLCentreIce6.ca@SD</desc>
  </programme>
  <channel id="NHLCentreIce7.ca@SD">
@@ -10121,6 +10114,13 @@
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="NickJr.cz@SD">
  <title>Nick Jr. (eng7)  (English) (Kids)</title>
  <desc>NickJr.cz@SD</desc>
+ </programme>
+ <channel id="NickJr.in@SD">
+ <display-name>Nick Jr. (576p) (eng7)  (English) (Kids)</display-name>
+ </channel>
+ <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="NickJr.in@SD">
+ <title>Nick Jr. (576p) (eng7)  (English) (Kids)</title>
+ <desc>NickJr.in@SD</desc>
  </programme>
  <channel id="NickJr.us@East">
  <display-name>Nick Jr. East (720p) (eng7)  (English) (Kids)</display-name>
@@ -12012,6 +12012,13 @@
  <title>Romanza+ Africa (720p) (eng8)  (English) (Undefined)</title>
  <desc>RomanzaPlusAfrica.ke@SD</desc>
  </programme>
+ <channel id="RomedyNow.in@SD">
+ <display-name>Romedy Now (576p) (eng8)  (English) (Movies)</display-name>
+ </channel>
+ <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="RomedyNow.in@SD">
+ <title>Romedy Now (576p) (eng8)  (English) (Movies)</title>
+ <desc>RomedyNow.in@SD</desc>
+ </programme>
  <channel id="ROVTV.za@SD">
  <display-name>ROV TV (576p) (eng8)  (English) (Undefined)</display-name>
  </channel>
@@ -12691,27 +12698,6 @@
  <title>Sony Pix (1080p) (eng8)  (English) (Movies)</title>
  <desc>SonyPix.in@SD</desc>
  </programme>
- <channel id="SonySportsTen1.in@SD">
- <display-name>Sony Sports Ten 1 (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="SonySportsTen1.in@SD">
- <title>Sony Sports Ten 1 (1080p) (eng8)  (English) (Sports)</title>
- <desc>SonySportsTen1.in@SD</desc>
- </programme>
- <channel id="SonySportsTen2.in@SD">
- <display-name>Sony Sports Ten 2 (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="SonySportsTen2.in@SD">
- <title>Sony Sports Ten 2 (1080p) (eng8)  (English) (Sports)</title>
- <desc>SonySportsTen2.in@SD</desc>
- </programme>
- <channel id="SonySportsTen5.in@SD">
- <display-name>Sony Sports Ten 5 (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="SonySportsTen5.in@SD">
- <title>Sony Sports Ten 5 (1080p) (eng8)  (English) (Sports)</title>
- <desc>SonySportsTen5.in@SD</desc>
- </programme>
  <channel id="SorozatPlus.hu@SD">
  <display-name>Sorozat+ (576p) (eng8)  (English) (Undefined)</display-name>
  </channel>
@@ -12851,55 +12837,6 @@
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="Star101FM.gu@SD">
  <title>Star 101 FM (KNUT Guam) [Not 24/7] (eng8)  (English) (Music)</title>
  <desc>Star101FM.gu@SD</desc>
- </programme>
- <channel id="StarMovies.in@HD">
- <display-name>Star Movies HD (1080p) (eng8)  (English) (Movies)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarMovies.in@HD">
- <title>Star Movies HD (1080p) (eng8)  (English) (Movies)</title>
- <desc>StarMovies.in@HD</desc>
- </programme>
- <channel id="StarMoviesSelect.in@HD">
- <display-name>Star Movies Select HD (1080p) (eng8)  (English) (Movies)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarMoviesSelect.in@HD">
- <title>Star Movies Select HD (1080p) (eng8)  (English) (Movies)</title>
- <desc>StarMoviesSelect.in@HD</desc>
- </programme>
- <channel id="StarSports1.in@HD">
- <display-name>Star Sports 1 HD (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarSports1.in@HD">
- <title>Star Sports 1 HD (1080p) (eng8)  (English) (Sports)</title>
- <desc>StarSports1.in@HD</desc>
- </programme>
- <channel id="StarSports2Hindi.in@SD">
- <display-name>Star Sports 2 Hindi (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarSports2Hindi.in@SD">
- <title>Star Sports 2 Hindi (1080p) (eng8)  (English) (Sports)</title>
- <desc>StarSports2Hindi.in@SD</desc>
- </programme>
- <channel id="StarSports3.in@SD">
- <display-name>Star Sports 3 (576p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarSports3.in@SD">
- <title>Star Sports 3 (576p) (eng8)  (English) (Sports)</title>
- <desc>StarSports3.in@SD</desc>
- </programme>
- <channel id="StarSportsSelect1.in@HD">
- <display-name>Star Sports Select 1 HD (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarSportsSelect1.in@HD">
- <title>Star Sports Select 1 HD (1080p) (eng8)  (English) (Sports)</title>
- <desc>StarSportsSelect1.in@HD</desc>
- </programme>
- <channel id="StarSportsSelect2.in@HD">
- <display-name>Star Sports Select 2 HD (1080p) (eng8)  (English) (Sports)</display-name>
- </channel>
- <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="StarSportsSelect2.in@HD">
- <title>Star Sports Select 2 HD (1080p) (eng8)  (English) (Sports)</title>
- <desc>StarSportsSelect2.in@HD</desc>
  </programme>
  <channel id="StarTrek.us@SD">
  <display-name>Star Trek (eng8)  (English) (Series)</display-name>
@@ -13378,73 +13315,73 @@
  <desc>TBNPacific.us@SD</desc>
  </programme>
  <channel id="TBNPolska.pl@SD">
- <display-name>TBN Polska (1080p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>TBN Polska (1080p) (eng8)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TBNPolska.pl@SD">
- <title>TBN Polska (1080p) (eng9)  (English) (Undefined)</title>
+ <title>TBN Polska (1080p) (eng8)  (English) (Undefined)</title>
  <desc>TBNPolska.pl@SD</desc>
  </programme>
  <channel id="TrishulBroadcastingNetwork.sr@SD">
- <display-name>TBN TV (720p) [Not 24/7] (eng9)  (English) (Culture)</display-name>
+ <display-name>TBN TV (720p) [Not 24/7] (eng8)  (English) (Culture)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TrishulBroadcastingNetwork.sr@SD">
- <title>TBN TV (720p) [Not 24/7] (eng9)  (English) (Culture)</title>
+ <title>TBN TV (720p) [Not 24/7] (eng8)  (English) (Culture)</title>
  <desc>TrishulBroadcastingNetwork.sr@SD</desc>
  </programme>
  <channel id="TBNUK.uk@SD">
- <display-name>TBN UK (1080p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>TBN UK (1080p) (eng8)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TBNUK.uk@SD">
- <title>TBN UK (1080p) (eng9)  (English) (Undefined)</title>
+ <title>TBN UK (1080p) (eng8)  (English) (Undefined)</title>
  <desc>TBNUK.uk@SD</desc>
  </programme>
  <channel id="TBNUkraine.us@SD">
- <display-name>TBN Україна (720p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>TBN Україна (720p) (eng8)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TBNUkraine.us@SD">
- <title>TBN Україна (720p) (eng9)  (English) (Undefined)</title>
+ <title>TBN Україна (720p) (eng8)  (English) (Undefined)</title>
  <desc>TBNUkraine.us@SD</desc>
  </programme>
  <channel id="TCT.us@SD">
- <display-name>TCT Network (720p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>TCT Network (720p) (eng8)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TCT.us@SD">
- <title>TCT Network (720p) (eng9)  (English) (Undefined)</title>
+ <title>TCT Network (720p) (eng8)  (English) (Undefined)</title>
  <desc>TCT.us@SD</desc>
  </programme>
  <channel id="TDAmeritradeNetwork.us@SD">
- <display-name>TD Ameritrade Network (1080p) (eng9)  (English) (Business)</display-name>
+ <display-name>TD Ameritrade Network (1080p) (eng8)  (English) (Business)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TDAmeritradeNetwork.us@SD">
- <title>TD Ameritrade Network (1080p) (eng9)  (English) (Business)</title>
+ <title>TD Ameritrade Network (1080p) (eng8)  (English) (Business)</title>
  <desc>TDAmeritradeNetwork.us@SD</desc>
  </programme>
  <channel id="TechStorm.sg@SD">
- <display-name>Tech Storm (720p) [Geo-blocked] (eng9)  (English) (Undefined)</display-name>
+ <display-name>Tech Storm (720p) [Geo-blocked] (eng8)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TechStorm.sg@SD">
- <title>Tech Storm (720p) [Geo-blocked] (eng9)  (English) (Undefined)</title>
+ <title>Tech Storm (720p) [Geo-blocked] (eng8)  (English) (Undefined)</title>
  <desc>TechStorm.sg@SD</desc>
  </programme>
  <channel id="TeenMom.us@SD">
- <display-name>Teen Mom (eng9)  (English) (Documentary)</display-name>
+ <display-name>Teen Mom (eng8)  (English) (Documentary)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TeenMom.us@SD">
- <title>Teen Mom (eng9)  (English) (Documentary)</title>
+ <title>Teen Mom (eng8)  (English) (Documentary)</title>
  <desc>TeenMom.us@SD</desc>
  </programme>
  <channel id="TeenNick.us@East">
- <display-name>TeenNick (eng9)  (English) (Kids)</display-name>
+ <display-name>TeenNick (eng8)  (English) (Kids)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TeenNick.us@East">
- <title>TeenNick (eng9)  (English) (Kids)</title>
+ <title>TeenNick (eng8)  (English) (Kids)</title>
  <desc>TeenNick.us@East</desc>
  </programme>
  <channel id="Tele7.es@SD">
- <display-name>Tele 7 (720p) (eng9)  (English) (General)</display-name>
+ <display-name>Tele 7 (720p) (eng8)  (English) (General)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="Tele7.es@SD">
- <title>Tele 7 (720p) (eng9)  (English) (General)</title>
+ <title>Tele 7 (720p) (eng8)  (English) (General)</title>
  <desc>Tele7.es@SD</desc>
  </programme>
  <channel id="TeleBoston.us@SD">
@@ -15044,73 +14981,73 @@
  <desc>VevoHipHop.us@SD</desc>
  </programme>
  <channel id="VevoLatino.us@SD">
- <display-name>Vevo Latino (1080p) (eng10)  (English) (Music)</display-name>
+ <display-name>Vevo Latino (1080p) (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VevoLatino.us@SD">
- <title>Vevo Latino (1080p) (eng10)  (English) (Music)</title>
+ <title>Vevo Latino (1080p) (eng9)  (English) (Music)</title>
  <desc>VevoLatino.us@SD</desc>
  </programme>
  <channel id="VevoPop.us@SD">
- <display-name>Vevo Pop (1080p) (eng10)  (English) (Music)</display-name>
+ <display-name>Vevo Pop (1080p) (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VevoPop.us@SD">
- <title>Vevo Pop (1080p) (eng10)  (English) (Music)</title>
+ <title>Vevo Pop (1080p) (eng9)  (English) (Music)</title>
  <desc>VevoPop.us@SD</desc>
  </programme>
  <channel id="VevoRB.us@SD">
- <display-name>Vevo R&amp;B (eng10)  (English) (Music)</display-name>
+ <display-name>Vevo R&amp;B (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VevoRB.us@SD">
- <title>Vevo R&amp;B (eng10)  (English) (Music)</title>
+ <title>Vevo R&amp;B (eng9)  (English) (Music)</title>
  <desc>VevoRB.us@SD</desc>
  </programme>
  <channel id="VevoRetroRock.us@SD">
- <display-name>Vevo Retro Rock (1080p) (eng10)  (English) (Music)</display-name>
+ <display-name>Vevo Retro Rock (1080p) (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VevoRetroRock.us@SD">
- <title>Vevo Retro Rock (1080p) (eng10)  (English) (Music)</title>
+ <title>Vevo Retro Rock (1080p) (eng9)  (English) (Music)</title>
  <desc>VevoRetroRock.us@SD</desc>
  </programme>
  <channel id="VevoTrueSchoolHipHop.us@SD">
- <display-name>Vevo True School Hip-Hop (eng10)  (English) (Music)</display-name>
+ <display-name>Vevo True School Hip-Hop (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VevoTrueSchoolHipHop.us@SD">
- <title>Vevo True School Hip-Hop (eng10)  (English) (Music)</title>
+ <title>Vevo True School Hip-Hop (eng9)  (English) (Music)</title>
  <desc>VevoTrueSchoolHipHop.us@SD</desc>
  </programme>
  <channel id="VH1.us@East">
- <display-name>VH1 East (eng10)  (English) (Music)</display-name>
+ <display-name>VH1 East (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VH1.us@East">
- <title>VH1 East (eng10)  (English) (Music)</title>
+ <title>VH1 East (eng9)  (English) (Music)</title>
  <desc>VH1.us@East</desc>
  </programme>
  <channel id="ViasatKino.ua@SD">
- <display-name>Viasat Kino (576p) (eng10)  (English) (Movies)</display-name>
+ <display-name>Viasat Kino (576p) (eng9)  (English) (Movies)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="ViasatKino.ua@SD">
- <title>Viasat Kino (576p) (eng10)  (English) (Movies)</title>
+ <title>Viasat Kino (576p) (eng9)  (English) (Movies)</title>
  <desc>ViasatKino.ua@SD</desc>
  </programme>
  <channel id="ViasatKinoAction.ua@SD">
- <display-name>Viasat Kino Action (576p) (eng10)  (English) (Movies)</display-name>
+ <display-name>Viasat Kino Action (576p) (eng9)  (English) (Movies)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="ViasatKinoAction.ua@SD">
- <title>Viasat Kino Action (576p) (eng10)  (English) (Movies)</title>
+ <title>Viasat Kino Action (576p) (eng9)  (English) (Movies)</title>
  <desc>ViasatKinoAction.ua@SD</desc>
  </programme>
  <channel id="ViceNews.us@SD">
- <display-name>Vice News (1080p) (eng10)  (English) (Undefined)</display-name>
+ <display-name>Vice News (1080p) (eng9)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="ViceNews.us@SD">
- <title>Vice News (1080p) (eng10)  (English) (Undefined)</title>
+ <title>Vice News (1080p) (eng9)  (English) (Undefined)</title>
  <desc>ViceNews.us@SD</desc>
  </programme>
  <channel id="VICETV.us@SD">
- <display-name>Vice TV (1080p) (eng10)  (English) (Undefined)</display-name>
+ <display-name>Vice TV (1080p) (eng9)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="VICETV.us@SD">
- <title>Vice TV (1080p) (eng10)  (English) (Undefined)</title>
+ <title>Vice TV (1080p) (eng9)  (English) (Undefined)</title>
  <desc>VICETV.us@SD</desc>
  </programme>
  <channel id="VictorValleyTV.us@SD">
@@ -33201,6 +33138,13 @@
  <title>Ghost TV (712p) [Not 24/7] (por1)  (Portuguese) (Movies)</title>
  <desc>GhostTV.br@SD</desc>
  </programme>
+ <channel id="Gloob.br@SD">
+ <display-name>Gloob (576p) (por1)  (Portuguese) (Kids)</display-name>
+ </channel>
+ <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="Gloob.br@SD">
+ <title>Gloob (576p) (por1)  (Portuguese) (Kids)</title>
+ <desc>Gloob.br@SD</desc>
+ </programme>
  <channel id="GospelCartoon.br@SD">
  <display-name>Gospel Cartoon (360p) (por1)  (Portuguese) (Religious)</display-name>
  </channel>
@@ -33741,10 +33685,10 @@
  <desc>SICTV.br@SD</desc>
  </programme>
  <channel id="STZTV.br@SD">
- <display-name>STZ TV (720p) (por1)  (Portuguese) (Culture) (News)</display-name>
+ <display-name>STZ TV (1080p) (por1)  (Portuguese) (Culture) (News)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="STZTV.br@SD">
- <title>STZ TV (720p) (por1)  (Portuguese) (Culture) (News)</title>
+ <title>STZ TV (1080p) (por1)  (Portuguese) (Culture) (News)</title>
  <desc>STZTV.br@SD</desc>
  </programme>
  <channel id="SuperflixTV.br@HD">
@@ -34490,10 +34434,10 @@
  <desc>TVIReality.pt@SD</desc>
  </programme>
  <channel id="TVideoNews.br@SD">
- <display-name>TVídeoNews (720p) [Not 24/7] (por1)  (Portuguese) (News)</display-name>
+ <display-name>TVídeoNews (720p) [Not 24/7] (por2)  (Portuguese) (News)</display-name>
  </channel>
  <programme start="20251223000000 +0000" stop="20251225000000 +0000" channel="TVideoNews.br@SD">
- <title>TVídeoNews (720p) [Not 24/7] (por1)  (Portuguese) (News)</title>
+ <title>TVídeoNews (720p) [Not 24/7] (por2)  (Portuguese) (News)</title>
  <desc>TVideoNews.br@SD</desc>
  </programme>
  <channel id="TVitape.br@SD">
