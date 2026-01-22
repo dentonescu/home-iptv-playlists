@@ -347,6 +347,8 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-chno="8021" tvg-id="EstrellaNews.us@SD" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Spanish;News",Estrella News (1080p) (spa3)  (Spanish) (News)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="8022" tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" http-referrer="https://exitosanoticias.pe/" group-title="Spanish;News",Exitosa TV [Not 24/7] (spa3)  (Spanish) (News)
+#EXTVLCOPT:http-referrer=https://exitosanoticias.pe/
 #EXTINF:-1 tvg-chno="8023" tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Spanish;Music",Farra Play (720p) [Not 24/7] (spa3)  (Spanish) (Music)
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-chno="8024" tvg-id="FMMundo.ec@SD" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Spanish;Music",FM Mundo (1080p) (spa3)  (Spanish) (Music)
@@ -407,9 +409,9 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 #EXTINF:-1 tvg-chno="8055" tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="Spanish;News",Prensa Latina TV (1080p) (spa5)  (Spanish) (News)
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-chno="8056" tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Spanish;News",RCV TV (712p) (spa5)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8056" tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Spanish;News",RCV TV (712p) (spa6)  (Spanish) (News)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 tvg-chno="8057" tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Spanish;News",RDN (1080p) [Not 24/7] (spa5)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8057" tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Spanish;News",RDN (1080p) [Not 24/7] (spa6)  (Spanish) (News)
 https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="8058" tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="Spanish;Music",Reyali (614p) (spa6)  (Spanish) (Music)
 https://eu1.servers10.com:8081/8090/index.m3u8
