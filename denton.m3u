@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1001" tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="English;News",ABC News (720p) (eng1)  (English) (News)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="1002" tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News (North America) (1080p) (eng2)  (English) (News)
+#EXTINF:-1 tvg-chno="1002" tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News (North America) (1080p) (eng1)  (English) (News)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-chno="1003" tvg-id="CBSNewsNewYork.us@SD" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="English;News",CBS News New York (720p) (eng2)  (English) (News)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 tvg-chno="1004" tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English;News",Euronews English (720p) (eng4)  (English) (News)
-https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="1004" tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English;News",Euronews (eng4)  (English) (News)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=wcz9wNOQ76u
 #EXTINF:-1 tvg-chno="1005" tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="English;News",France 24 English (1080p) (eng4)  (English) (News)
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-chno="1006" tvg-id="KCPTDT1.us@SD" tvg-logo="https://image.pbs.org/bento3-prod/kcpt/2020-kcpt-brand/3cc5c4bdd6_kansascitypbs_primary_blue.png?resize=512x" group-title="English;Education",KCPT-DT1 (720p) (eng5)  (English) (Education)
@@ -17,8 +17,6 @@ https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 tvg-chno="1009" tvg-id="LNKTVEducation.us@SD" tvg-logo="https://i.imgur.com/1snCTXp.png" group-title="English;Education",LNKTV Education (1080p) (eng5)  (English) (Education)
 http://80tv.lincoln.ne.gov/live/live.m3u8
-#EXTINF:-1 tvg-chno="1010" tvg-id="MSNBC.us@SD" tvg-logo="https://i.postimg.cc/KzqhNLQX/msnbc.png" group-title="English;News",MSNBC (720p) (eng6)  (English) (News)
-http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-chno="1011" tvg-id="MTVBiggestPop.us@US" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="English;Music",MTV Biggest Pop (eng6)  (English) (Music)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 #EXTINF:-1 tvg-chno="1012" tvg-id="MTVClassic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="English;Music",MTV Classic (360p) (eng6)  (English) (Music)
@@ -67,8 +65,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-chno="1036" tvg-id="VevoTrueSchoolHipHop.us@SD" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="English;Music",Vevo True School Hip-Hop (eng9)  (English) (Music)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
-#EXTINF:-1 tvg-chno="1037" tvg-id="VH1.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="English;Music",VH1 East (eng9)  (English) (Music)
-https://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-chno="1038" tvg-id="WLVTDT1.us@SD" tvg-logo="https://i.imgur.com/3FPFBjU.png" group-title="English;Education",WLVT-DT1 (eng10)  (English) (Education)
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1 tvg-chno="2000" tvg-id="AlephNews.ro@SD" tvg-logo="https://i.postimg.cc/mkVSBpHq/alephnews.png" group-title="Romanian;News",Aleph News (720p) (ron1)  (Romanian) (News)
@@ -333,7 +329,7 @@ https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 #EXTINF:-1 tvg-chno="8014" tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Spanish;Music",Conecta TV (720p) (spa2)  (Spanish) (Music)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-chno="8015" tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Spanish;Movies;News",Cosmos Tv (720p) (spa3)  (Spanish) (Movies) (News)
+#EXTINF:-1 tvg-chno="8015" tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Spanish;Movies;News",Cosmos Tv (720p) (spa2)  (Spanish) (Movies) (News)
 https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="8016" tvg-id="DeUltimoMinutoTV.do@SD" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="Spanish;News",De Ultimo Minuto TV (spa3)  (Spanish) (News)
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
@@ -363,7 +359,7 @@ https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="8030" tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Spanish;Education",Canal 15 ILCE Summa Sabres (720p) (spa2)  (Spanish) (Education)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="8031" tvg-id="InfinitaTV.ec@SD" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Spanish;Music",Infinita TV (1080p) (spa4)  (Spanish) (Music)
+#EXTINF:-1 tvg-chno="8031" tvg-id="InfinitaTV.ec@SD" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Spanish;Music",Infinita TV (1080p) (spa3)  (Spanish) (Music)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno="8032" tvg-id="IQChannel.cr@SD" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="Spanish;Music",IQ Channel (720p) (spa4)  (Spanish) (Music)
 https://rtmp.info/iqtv/envivo/playlist.m3u8
@@ -409,9 +405,9 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 #EXTINF:-1 tvg-chno="8055" tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="Spanish;News",Prensa Latina TV (1080p) (spa5)  (Spanish) (News)
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-chno="8056" tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Spanish;News",RCV TV (712p) (spa6)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8056" tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Spanish;News",RCV TV (712p) (spa5)  (Spanish) (News)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 tvg-chno="8057" tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Spanish;News",RDN (1080p) [Not 24/7] (spa6)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8057" tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Spanish;News",RDN (1080p) [Not 24/7] (spa5)  (Spanish) (News)
 https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="8058" tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="Spanish;Music",Reyali (614p) (spa6)  (Spanish) (Music)
 https://eu1.servers10.com:8081/8090/index.m3u8
@@ -649,9 +645,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-chno="13007" tvg-id="EuropaPlusTV.ru@SD" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Russian;Music",Europa Plus TV (rus1)  (Russian) (Music)
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-chno="13008" tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Russian;Music",Первый Музыкальный Канал (576p) (rus2)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13008" tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Russian;Music",Первый Музыкальный Канал (576p) (rus1)  (Russian) (Music)
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 tvg-chno="13009" tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Russian;Music",Первый Музыкальный Канал Россия (576p) (rus2)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13009" tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Russian;Music",Первый Музыкальный Канал Россия (576p) (rus1)  (Russian) (Music)
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-chno="13010" tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" group-title="Russian;News",FREEDOM (rus1)  (Russian) (News)
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
@@ -676,7 +672,7 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-chno="13021" tvg-id="ZharPtitsa.ru@SD" tvg-logo="https://i.imgur.com/19R470V.png" group-title="Russian;Music",Жар Птица (404p) [Geo-blocked] (rus1)  (Russian) (Music)
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-chno="14002" tvg-id="EWTN.us@English" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English;Religious",EWTN (720p) [Geo-blocked] (eng4)  (English) (Religious)
+#EXTINF:-1 tvg-chno="14002" tvg-id="EverydayHeroes.us@SD" tvg-logo="https://i.imgur.com/Iam3ol3.png" group-title="English;Documentary",Everyday Heroes (eng4)  (English) (Documentary)
 #EXTINF:-1 tvg-chno="14005" tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="Polish;News",Polsat News (720p) [Geo-blocked] (pol1)  (Polish) (News)
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-chno="14006" tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Polish;News",Polsat News Polityka (1080p) [Geo-blocked] (pol1)  (Polish) (News)
