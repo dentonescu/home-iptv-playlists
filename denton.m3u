@@ -207,7 +207,7 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="3022" tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="German;Undefined",RTL HD (deu1)  (German) (Undefined)
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (deu1)  (German) (Undefined)
+#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (deu2)  (German) (Undefined)
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-chno="3024" tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="German;News",WELT (1080p) (deu2)  (German) (News)
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
@@ -385,8 +385,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-chno="8046" tvg-id="NorteInformativoTV.cr@SD" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Spanish;News",Norte Informativo TV (240p) (spa5)  (Spanish) (News)
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-chno="8047" tvg-id="Noticias16.do@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png" group-title="Spanish;News",Noticias 16 (spa5)  (Spanish) (News)
-https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:-1 tvg-chno="8047" tvg-id="Noticias16.do@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png" group-title="Spanish;News",Noticias 16 (720p) [Not 24/7] (spa5)  (Spanish) (News)
+https://mlb.essastream.com:8081/noticiasn16/playlist.m3u8
 #EXTINF:-1 tvg-chno="8048" tvg-id="NuevoMundoTV.gt@SD" tvg-logo="https://i.imgur.com/j3OGO3V.png" group-title="Spanish;News",Nuevo Mundo TV (720p) (spa5)  (Spanish) (News)
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-chno="8049" tvg-id="OndaValenciaTV.es@SD" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Spanish;Music;News",Onda Valencia (720p) (spa5)  (Spanish) (Music) (News)
@@ -675,8 +675,6 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-chno="14008" tvg-id="SuperExpressTV.pl@FAST" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="Polish;News",Super Express TV (1080i) (pol1)  (Polish) (News)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
-#EXTINF:-1 tvg-chno="14009" tvg-id="TrusoTV.pl@SD" tvg-logo="https://i.imgur.com/GUsauxk.png" group-title="Polish;News",Truso TV (576p) [Not 24/7] (pol1)  (Polish) (News)
-https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
 #EXTINF:-1 tvg-chno="15000" tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Croatian;Music",CMC TV (1080p) (hrv1)  (Croatian) (Music)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-chno="15001" tvg-id="HRT4.hr@HD" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="Croatian;News",HRT 4 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (News)
