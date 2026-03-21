@@ -1617,12 +1617,26 @@
  <title>BBC America (eng1)  (English) (Entertainment)</title>
  <desc>BBCAmerica.us@East</desc>
  </programme>
+ <channel id="BBCBrit.uk@Poland">
+ <display-name>BBC Brit (eng1)  (English) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCBrit.uk@Poland">
+ <title>BBC Brit (eng1)  (English) (Entertainment)</title>
+ <desc>BBCBrit.uk@Poland</desc>
+ </programme>
  <channel id="DoctorWhoClassic.us@US">
  <display-name>BBC Doctor Who Classic (1080p) (eng1)  (English) (Series)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="DoctorWhoClassic.us@US">
  <title>BBC Doctor Who Classic (1080p) (eng1)  (English) (Series)</title>
  <desc>DoctorWhoClassic.us@US</desc>
+ </programme>
+ <channel id="BBCEarth.uk@Poland">
+ <display-name>BBC Earth (eng1)  (English) (Documentary)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCEarth.uk@Poland">
+ <title>BBC Earth (eng1)  (English) (Documentary)</title>
+ <desc>BBCEarth.uk@Poland</desc>
  </programme>
  <channel id="BBCEarth.uk@US">
  <display-name>BBC Earth (1080p) (eng1)  (English) (Documentary)</display-name>
@@ -1639,17 +1653,17 @@
  <desc>BBCEarth.uk@Asia</desc>
  </programme>
  <channel id="BBCFood.us@SD">
- <display-name>BBC Food (1080p) (eng1)  (English) (Cooking)</display-name>
+ <display-name>BBC Food (1080p) (eng2)  (English) (Cooking)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCFood.us@SD">
- <title>BBC Food (1080p) (eng1)  (English) (Cooking)</title>
+ <title>BBC Food (1080p) (eng2)  (English) (Cooking)</title>
  <desc>BBCFood.us@SD</desc>
  </programme>
  <channel id="BBCFour.uk@UK">
- <display-name>BBC Four HD (1080p) [Geo-blocked] (eng1)  (English) (Culture) (Documentary)</display-name>
+ <display-name>BBC Four HD (1080p) [Geo-blocked] (eng2)  (English) (Culture) (Documentary)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCFour.uk@UK">
- <title>BBC Four HD (1080p) [Geo-blocked] (eng1)  (English) (Culture) (Documentary)</title>
+ <title>BBC Four HD (1080p) [Geo-blocked] (eng2)  (English) (Culture) (Documentary)</title>
  <desc>BBCFour.uk@UK</desc>
  </programme>
  <channel id="BBCFour.uk@UKHD">
@@ -1679,6 +1693,13 @@
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCKids.us@SD">
  <title>BBC Kids (720p) (eng2)  (English) (Kids)</title>
  <desc>BBCKids.us@SD</desc>
+ </programme>
+ <channel id="BBCLifestyle.uk@Singapore">
+ <display-name>BBC Lifestyle (eng2)  (English) (Lifestyle)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCLifestyle.uk@Singapore">
+ <title>BBC Lifestyle (eng2)  (English) (Lifestyle)</title>
+ <desc>BBCLifestyle.uk@Singapore</desc>
  </programme>
  <channel id="BBCLifestyle.uk@Asia">
  <display-name>BBC Lifestyle Asia (720p) (eng2)  (English) (Lifestyle)</display-name>
@@ -3277,24 +3298,24 @@
  <desc>CDMInternacional.pr@SD</desc>
  </programme>
  <channel id="CelebritySceneTV.us@SD">
- <display-name>Celebrity Scene TV (720p) (eng2)  (English) (Undefined)</display-name>
+ <display-name>Celebrity Scene TV (720p) (eng3)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="CelebritySceneTV.us@SD">
- <title>Celebrity Scene TV (720p) (eng2)  (English) (Undefined)</title>
+ <title>Celebrity Scene TV (720p) (eng3)  (English) (Undefined)</title>
  <desc>CelebritySceneTV.us@SD</desc>
  </programme>
  <channel id="CerritosTV3.us@SD">
- <display-name>Cerritos TV3 (360p) (eng2)  (English) (General)</display-name>
+ <display-name>Cerritos TV3 (360p) (eng3)  (English) (General)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="CerritosTV3.us@SD">
- <title>Cerritos TV3 (360p) (eng2)  (English) (General)</title>
+ <title>Cerritos TV3 (360p) (eng3)  (English) (General)</title>
  <desc>CerritosTV3.us@SD</desc>
  </programme>
  <channel id="CFMTVChannel98.us@SD">
- <display-name>CFM TV Channel 98 (360p) (eng2)  (English) (Legislative)</display-name>
+ <display-name>CFM TV Channel 98 (360p) (eng3)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="CFMTVChannel98.us@SD">
- <title>CFM TV Channel 98 (360p) (eng2)  (English) (Legislative)</title>
+ <title>CFM TV Channel 98 (360p) (eng3)  (English) (Legislative)</title>
  <desc>CFMTVChannel98.us@SD</desc>
  </programme>
  <channel id="CatholicFaithNetwork.us@SD">
@@ -4943,24 +4964,24 @@
  <desc>EscambiaCountyTV.us@SD</desc>
  </programme>
  <channel id="ESPN8TheOcho.us@ESPN8TheOchoHD">
- <display-name>ESPN8 The Ocho (1080p) (eng3)  (English) (Sports)</display-name>
+ <display-name>ESPN8 The Ocho (1080p) (eng4)  (English) (Sports)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="ESPN8TheOcho.us@ESPN8TheOchoHD">
- <title>ESPN8 The Ocho (1080p) (eng3)  (English) (Sports)</title>
+ <title>ESPN8 The Ocho (1080p) (eng4)  (English) (Sports)</title>
  <desc>ESPN8TheOcho.us@ESPN8TheOchoHD</desc>
  </programme>
  <channel id="ETNow.in@SD">
- <display-name>ET Now (720p) (eng3)  (English) (Business)</display-name>
+ <display-name>ET Now (720p) (eng4)  (English) (Business)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="ETNow.in@SD">
- <title>ET Now (720p) (eng3)  (English) (Business)</title>
+ <title>ET Now (720p) (eng4)  (English) (Business)</title>
  <desc>ETNow.in@SD</desc>
  </programme>
  <channel id="ETNowSwadesh.in@SD">
- <display-name>ET Now Swadesh (720p) (eng3)  (English) (Business)</display-name>
+ <display-name>ET Now Swadesh (720p) (eng4)  (English) (Business)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="ETNowSwadesh.in@SD">
- <title>ET Now Swadesh (720p) (eng3)  (English) (Business)</title>
+ <title>ET Now Swadesh (720p) (eng4)  (English) (Business)</title>
  <desc>ETNowSwadesh.in@SD</desc>
  </programme>
  <channel id="ETVBalBharat.in@SD">
@@ -6293,18 +6314,11 @@
  <title>History Hit (720p) (eng4)  (English) (Undefined)</title>
  <desc>HistoryHit.us@SD</desc>
  </programme>
- <channel id="HistoryTV18.in@SD">
- <display-name>History TV18 (576p) (eng4)  (English) (Documentary)</display-name>
- </channel>
- <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="HistoryTV18.in@SD">
- <title>History TV18 (576p) (eng4)  (English) (Documentary)</title>
- <desc>HistoryTV18.in@SD</desc>
- </programme>
  <channel id="HistoryTV18.in@HD">
- <display-name>History TV18 HD (1080p) (eng4)  (English) (Documentary)</display-name>
+ <display-name>History TV18 HD (1080p) [Geo-blocked] (eng4)  (English) (Documentary)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="HistoryTV18.in@HD">
- <title>History TV18 HD (1080p) (eng4)  (English) (Documentary)</title>
+ <title>History TV18 HD (1080p) [Geo-blocked] (eng4)  (English) (Documentary)</title>
  <desc>HistoryTV18.in@HD</desc>
  </programme>
  <channel id="HitzTV.bz@SD">
@@ -6602,17 +6616,17 @@
  <desc>IgniteTelevision.gy@SD</desc>
  </programme>
  <channel id="IIPCTV.ca@SD">
- <display-name>IIPC TV (480p) [Geo-blocked] (eng4)  (English) (Religious)</display-name>
+ <display-name>IIPC TV (480p) [Geo-blocked] (eng5)  (English) (Religious)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="IIPCTV.ca@SD">
- <title>IIPC TV (480p) [Geo-blocked] (eng4)  (English) (Religious)</title>
+ <title>IIPC TV (480p) [Geo-blocked] (eng5)  (English) (Religious)</title>
  <desc>IIPCTV.ca@SD</desc>
  </programme>
  <channel id="ImamHusseinTV3.iq@SD">
- <display-name>Imam Hussein TV 3 (1080p) [Not 24/7] (eng4)  (English) (Religious)</display-name>
+ <display-name>Imam Hussein TV 3 (1080p) [Not 24/7] (eng5)  (English) (Religious)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="ImamHusseinTV3.iq@SD">
- <title>Imam Hussein TV 3 (1080p) [Not 24/7] (eng4)  (English) (Religious)</title>
+ <title>Imam Hussein TV 3 (1080p) [Not 24/7] (eng5)  (English) (Religious)</title>
  <desc>ImamHusseinTV3.iq@SD</desc>
  </programme>
  <channel id="ImpactNetwork.us@SD">
@@ -8261,17 +8275,17 @@
  <desc>Mezzo.fr@SD</desc>
  </programme>
  <channel id="MHZ.ca@SD">
- <display-name>MHZ (eng5)  (English) (Entertainment)</display-name>
+ <display-name>MHZ (eng6)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="MHZ.ca@SD">
- <title>MHZ (eng5)  (English) (Entertainment)</title>
+ <title>MHZ (eng6)  (English) (Entertainment)</title>
  <desc>MHZ.ca@SD</desc>
  </programme>
  <channel id="MBTV.us@SD">
- <display-name>Miami Beach Tv (MBTV) (Miami Beach FL) (720p) (eng5)  (English) (Legislative)</display-name>
+ <display-name>Miami Beach Tv (MBTV) (Miami Beach FL) (720p) (eng6)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="MBTV.us@SD">
- <title>Miami Beach Tv (MBTV) (Miami Beach FL) (720p) (eng5)  (English) (Legislative)</title>
+ <title>Miami Beach Tv (MBTV) (Miami Beach FL) (720p) (eng6)  (English) (Legislative)</title>
  <desc>MBTV.us@SD</desc>
  </programme>
  <channel id="MidnightPulp.us">
@@ -9878,17 +9892,17 @@
  <desc>OireachtasTVCommitteeRoom1.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVCommitteeRoom2.ie@SD">
- <display-name>Oireachtas TV Committee Room 2 (720p) (eng6)  (English) (Legislative)</display-name>
+ <display-name>Oireachtas TV Committee Room 2 (720p) (eng7)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="OireachtasTVCommitteeRoom2.ie@SD">
- <title>Oireachtas TV Committee Room 2 (720p) (eng6)  (English) (Legislative)</title>
+ <title>Oireachtas TV Committee Room 2 (720p) (eng7)  (English) (Legislative)</title>
  <desc>OireachtasTVCommitteeRoom2.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVCommitteeRoom3.ie@SD">
- <display-name>Oireachtas TV Committee Room 3 (720p) (eng6)  (English) (Legislative)</display-name>
+ <display-name>Oireachtas TV Committee Room 3 (720p) (eng7)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="OireachtasTVCommitteeRoom3.ie@SD">
- <title>Oireachtas TV Committee Room 3 (720p) (eng6)  (English) (Legislative)</title>
+ <title>Oireachtas TV Committee Room 3 (720p) (eng7)  (English) (Legislative)</title>
  <desc>OireachtasTVCommitteeRoom3.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVCommitteeRoom4.ie@SD">
@@ -11530,17 +11544,17 @@
  <desc>ROVTV.za@SD</desc>
  </programme>
  <channel id="RoyalTimeTelevision.us@SD">
- <display-name>Royal Time Television (1080p) (eng7)  (English) (Entertainment)</display-name>
+ <display-name>Royal Time Television (1080p) (eng8)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="RoyalTimeTelevision.us@SD">
- <title>Royal Time Television (1080p) (eng7)  (English) (Entertainment)</title>
+ <title>Royal Time Television (1080p) (eng8)  (English) (Entertainment)</title>
  <desc>RoyalTimeTelevision.us@SD</desc>
  </programme>
  <channel id="RozeNews.pk@SD">
- <display-name>Roze News (576p) (eng7)  (English) (News)</display-name>
+ <display-name>Roze News (576p) (eng8)  (English) (News)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="RozeNews.pk@SD">
- <title>Roze News (576p) (eng7)  (English) (News)</title>
+ <title>Roze News (576p) (eng8)  (English) (News)</title>
  <desc>RozeNews.pk@SD</desc>
  </programme>
  <channel id="RSILa1.ch@SD">
@@ -13175,17 +13189,17 @@
  <desc>TheCountryNetwork.us@SD</desc>
  </programme>
  <channel id="TheCyclingChannel.at@SD">
- <display-name>The Cycling Channel (eng8)  (English) (Sports)</display-name>
+ <display-name>The Cycling Channel (eng9)  (English) (Sports)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TheCyclingChannel.at@SD">
- <title>The Cycling Channel (eng8)  (English) (Sports)</title>
+ <title>The Cycling Channel (eng9)  (English) (Sports)</title>
  <desc>TheCyclingChannel.at@SD</desc>
  </programme>
  <channel id="TheDesignNetwork.us@SD">
- <display-name>The Design Network (1080p) (eng8)  (English) (Lifestyle)</display-name>
+ <display-name>The Design Network (1080p) (eng9)  (English) (Lifestyle)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TheDesignNetwork.us@SD">
- <title>The Design Network (1080p) (eng8)  (English) (Lifestyle)</title>
+ <title>The Design Network (1080p) (eng9)  (English) (Lifestyle)</title>
  <desc>TheDesignNetwork.us@SD</desc>
  </programme>
  <channel id="TheFilmDetective.us">
@@ -14735,13 +14749,6 @@
  <title>VTN Victory Television Network (720p) (eng9)  (English) (Religious)</title>
  <desc>KVTNDT1.us@SD</desc>
  </programme>
- <channel id="VTV1.vn@HD">
- <display-name>VTV1 HD (1080p) (eng9)  (English) (Undefined)</display-name>
- </channel>
- <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="VTV1.vn@HD">
- <title>VTV1 HD (1080p) (eng9)  (English) (Undefined)</title>
- <desc>VTV1.vn@HD</desc>
- </programme>
  <channel id="VyasChannel.in@SD">
  <display-name>Vyas NIC (576p) (eng9)  (English) (Education)</display-name>
  </channel>
@@ -14848,10 +14855,10 @@
  <desc>WazobiaMaxTVPortHarcourt.ng@SD</desc>
  </programme>
  <channel id="WBBJDT1.us@SD">
- <display-name>WBBJ (Jackson TN) (432p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>WBBJ (Jackson TN) (432p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="WBBJDT1.us@SD">
- <title>WBBJ (Jackson TN) (432p) (eng9)  (English) (Undefined)</title>
+ <title>WBBJ (Jackson TN) (432p) (eng10)  (English) (Undefined)</title>
  <desc>WBBJDT1.us@SD</desc>
  </programme>
  <channel id="WBRADT3.us@SD">
@@ -41195,6 +41202,20 @@
  <title>4 Fun TV (576i) [Not 24/7] (pol1)  (Polish) (Music)</title>
  <desc>4FunTV.pl@SD</desc>
  </programme>
+ <channel id="AntenaHD.pl@SD">
+ <display-name>Antena HD (pol1)  (Polish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="AntenaHD.pl@SD">
+ <title>Antena HD (pol1)  (Polish) (Entertainment)</title>
+ <desc>AntenaHD.pl@SD</desc>
+ </programme>
+ <channel id="BBCFirst.uk@Poland">
+ <display-name>BBC First (pol1)  (Polish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="BBCFirst.uk@Poland">
+ <title>BBC First (pol1)  (Polish) (Entertainment)</title>
+ <desc>BBCFirst.uk@Poland</desc>
+ </programme>
  <channel id="Bigtime.pl@SD">
  <display-name>Bigtime (pol1)  (Polish) (Undefined)</display-name>
  </channel>
@@ -41328,6 +41349,20 @@
  <title>Grjngo (pol1)  (Polish) (Undefined)</title>
  <desc>Grjngo.pl@SD</desc>
  </programme>
+ <channel id="JAZZ.pl@SD">
+ <display-name>JAZZ (pol1)  (Polish) (Music)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="JAZZ.pl@SD">
+ <title>JAZZ (pol1)  (Polish) (Music)</title>
+ <desc>JAZZ.pl@SD</desc>
+ </programme>
+ <channel id="JuniorMusic.pl@HD">
+ <display-name>Junior Music HD (pol1)  (Polish) (Music)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="JuniorMusic.pl@HD">
+ <title>Junior Music HD (pol1)  (Polish) (Music)</title>
+ <desc>JuniorMusic.pl@HD</desc>
+ </programme>
  <channel id="KapitanBombaTV.pl@HD">
  <display-name>Kapitan Bomba TV (pol1)  (Polish) (Animation)</display-name>
  </channel>
@@ -41398,6 +41433,20 @@
  <title>Nickelodeon (pol1)  (Polish) (Kids)</title>
  <desc>Nickelodeon.pl@SD</desc>
  </programme>
+ <channel id="NutaTV.pl@SD">
+ <display-name>Nuta TV (pol1)  (Polish) (Music)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="NutaTV.pl@SD">
+ <title>Nuta TV (pol1)  (Polish) (Music)</title>
+ <desc>NutaTV.pl@SD</desc>
+ </programme>
+ <channel id="Polonia1.pl@SD">
+ <display-name>Polonia 1 (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="Polonia1.pl@SD">
+ <title>Polonia 1 (pol1)  (Polish) (Undefined)</title>
+ <desc>Polonia1.pl@SD</desc>
+ </programme>
  <channel id="Polsat.pl@SD">
  <display-name>Polsat (1080p) [Geo-blocked] (pol1)  (Polish) (General)</display-name>
  </channel>
@@ -41446,6 +41495,13 @@
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="PorucznikKaburaTV.pl@HD">
  <title>Porucznik Kabura TV (pol1)  (Polish) (Animation)</title>
  <desc>PorucznikKaburaTV.pl@HD</desc>
+ </programme>
+ <channel id="PowerTV.pl@SD">
+ <display-name>Power TV (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="PowerTV.pl@SD">
+ <title>Power TV (pol1)  (Polish) (Undefined)</title>
+ <desc>PowerTV.pl@SD</desc>
  </programme>
  <channel id="Puls2.pl@SD">
  <display-name>Puls 2 (1080p) (pol1)  (Polish) (Undefined)</display-name>
@@ -41510,6 +41566,13 @@
  <title>Super Express TV (1080i) (pol1)  (Polish) (News)</title>
  <desc>SuperExpressTV.pl@FAST</desc>
  </programme>
+ <channel id="Tele5.pl@SD">
+ <display-name>Tele5 (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="Tele5.pl@SD">
+ <title>Tele5 (pol1)  (Polish) (Undefined)</title>
+ <desc>Tele5.pl@SD</desc>
+ </programme>
  <channel id="TelewizjaBiznesowa.pl@SD">
  <display-name>Telewizja Biznesowa (1080p) (pol1)  (Polish) (Business)</display-name>
  </channel>
@@ -41551,6 +41614,20 @@
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TelewizjaTorun.pl@SD">
  <title>Telewizja Toruń (1080p) [Not 24/7] (pol1)  (Polish) (Undefined)</title>
  <desc>TelewizjaTorun.pl@SD</desc>
+ </programme>
+ <channel id="TopKids.pl@SD">
+ <display-name>Top Kids (pol1)  (Polish) (Kids)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TopKids.pl@SD">
+ <title>Top Kids (pol1)  (Polish) (Kids)</title>
+ <desc>TopKids.pl@SD</desc>
+ </programme>
+ <channel id="TopKids.pl@HD">
+ <display-name>Top Kids HD (pol1)  (Polish) (Kids)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TopKids.pl@HD">
+ <title>Top Kids HD (pol1)  (Polish) (Kids)</title>
+ <desc>TopKids.pl@HD</desc>
  </programme>
  <channel id="TopMoviesPolska.pl@SD">
  <display-name>Top Movies Polska (pol1)  (Polish) (Undefined)</display-name>
@@ -41628,6 +41705,20 @@
  <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TVTrwam.pl@SD">
  <title>TV Trwam (1080p) [Geo-blocked] (pol1)  (Polish) (Undefined)</title>
  <desc>TVTrwam.pl@SD</desc>
+ </programme>
+ <channel id="TVC.pl@SD">
+ <display-name>TVC (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TVC.pl@SD">
+ <title>TVC (pol1)  (Polish) (Undefined)</title>
+ <desc>TVC.pl@SD</desc>
+ </programme>
+ <channel id="TVCSuper.pl@SD">
+ <display-name>TVC Super (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20260320000000 +0000" stop="20260322000000 +0000" channel="TVCSuper.pl@SD">
+ <title>TVC Super (pol1)  (Polish) (Undefined)</title>
+ <desc>TVCSuper.pl@SD</desc>
  </programme>
  <channel id="TVKStella.pl@SD">
  <display-name>TVK Stella (576p) (pol1)  (Polish) (General) (News)</display-name>
