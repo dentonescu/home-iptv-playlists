@@ -8463,13 +8463,6 @@
  <title>MNX (576p) (eng6)  (English) (Movies)</title>
  <desc>MNX.in@SD</desc>
  </programme>
- <channel id="MNX.in@HD">
- <display-name>MNX HD (1080p) (eng6)  (English) (Movies)</display-name>
- </channel>
- <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="MNX.in@HD">
- <title>MNX HD (1080p) (eng6)  (English) (Movies)</title>
- <desc>MNX.in@HD</desc>
- </programme>
  <channel id="MCPSSTV.us@SD">
  <display-name>Mobile County Public Schools TV Network (MCPSS) (eng6)  (English) (Education)</display-name>
  </channel>
@@ -9892,10 +9885,10 @@
  <desc>OireachtasTVCommitteeRoom1.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVCommitteeRoom2.ie@SD">
- <display-name>Oireachtas TV Committee Room 2 (720p) (eng7)  (English) (Legislative)</display-name>
+ <display-name>Oireachtas TV Committee Room 2 (720p) (eng6)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="OireachtasTVCommitteeRoom2.ie@SD">
- <title>Oireachtas TV Committee Room 2 (720p) (eng7)  (English) (Legislative)</title>
+ <title>Oireachtas TV Committee Room 2 (720p) (eng6)  (English) (Legislative)</title>
  <desc>OireachtasTVCommitteeRoom2.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVCommitteeRoom3.ie@SD">
@@ -11544,10 +11537,10 @@
  <desc>ROVTV.za@SD</desc>
  </programme>
  <channel id="RoyalTimeTelevision.us@SD">
- <display-name>Royal Time Television (1080p) (eng8)  (English) (Entertainment)</display-name>
+ <display-name>Royal Time Television (1080p) (eng7)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="RoyalTimeTelevision.us@SD">
- <title>Royal Time Television (1080p) (eng8)  (English) (Entertainment)</title>
+ <title>Royal Time Television (1080p) (eng7)  (English) (Entertainment)</title>
  <desc>RoyalTimeTelevision.us@SD</desc>
  </programme>
  <channel id="RozeNews.pk@SD">
@@ -12277,6 +12270,13 @@
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="SonySportsTen2.in@HD">
  <title>Sony Sports Ten 2 HD (1080p) (eng8)  (English) (Sports)</title>
  <desc>SonySportsTen2.in@HD</desc>
+ </programme>
+ <channel id="SonySportsTen5.in@SD">
+ <display-name>Sony Sports Ten 5 (480p) (eng8)  (English) (Sports)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="SonySportsTen5.in@SD">
+ <title>Sony Sports Ten 5 (480p) (eng8)  (English) (Sports)</title>
+ <desc>SonySportsTen5.in@SD</desc>
  </programme>
  <channel id="SonySportsTen5.in@HD">
  <display-name>Sony Sports Ten 5 HD (1080p) (eng8)  (English) (Sports)</display-name>
@@ -32900,11 +32900,18 @@
  <title>TV UFG (720p) [Not 24/7] (por1)  (Portuguese) (Education)</title>
  <desc>TVUFG.br@SD</desc>
  </programme>
+ <channel id="TVUFOP.br@SD">
+ <display-name>TV UFOP (1080p) (por1)  (Portuguese) (Science)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="TVUFOP.br@SD">
+ <title>TV UFOP (1080p) (por1)  (Portuguese) (Science)</title>
+ <desc>TVUFOP.br@SD</desc>
+ </programme>
  <channel id="TVUniversal.br@SD">
- <display-name>TV Universal (480p) (por1)  (Portuguese) (Religious)</display-name>
+ <display-name>TV Universal (480p) (por2)  (Portuguese) (Religious)</display-name>
  </channel>
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="TVUniversal.br@SD">
- <title>TV Universal (480p) (por1)  (Portuguese) (Religious)</title>
+ <title>TV Universal (480p) (por2)  (Portuguese) (Religious)</title>
  <desc>TVUniversal.br@SD</desc>
  </programme>
  <channel id="TVVicosa.br@SD">
@@ -41202,6 +41209,13 @@
  <title>4 Fun TV (576i) [Not 24/7] (pol1)  (Polish) (Music)</title>
  <desc>4FunTV.pl@SD</desc>
  </programme>
+ <channel id="13Ulica.pl@SD">
+ <display-name>13 Ulica (pol1)  (Polish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="13Ulica.pl@SD">
+ <title>13 Ulica (pol1)  (Polish) (Entertainment)</title>
+ <desc>13Ulica.pl@SD</desc>
+ </programme>
  <channel id="AntenaHD.pl@SD">
  <display-name>Antena HD (pol1)  (Polish) (Entertainment)</display-name>
  </channel>
@@ -41349,6 +41363,13 @@
  <title>Grjngo (pol1)  (Polish) (Undefined)</title>
  <desc>Grjngo.pl@SD</desc>
  </programme>
+ <channel id="HomeTV.pl@SD">
+ <display-name>Home TV (pol1)  (Polish) (Undefined)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="HomeTV.pl@SD">
+ <title>Home TV (pol1)  (Polish) (Undefined)</title>
+ <desc>HomeTV.pl@SD</desc>
+ </programme>
  <channel id="JAZZ.pl@SD">
  <display-name>JAZZ (pol1)  (Polish) (Music)</display-name>
  </channel>
@@ -41391,6 +41412,13 @@
  <title>Mango (1080p) [Geo-blocked] (pol1)  (Polish) (Shop)</title>
  <desc>Mango.pl@SD</desc>
  </programme>
+ <channel id="MixtapeTV.pl@SD">
+ <display-name>Mixtape TV (pol1)  (Polish) (Music)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="MixtapeTV.pl@SD">
+ <title>Mixtape TV (pol1)  (Polish) (Music)</title>
+ <desc>MixtapeTV.pl@SD</desc>
+ </programme>
  <channel id="Moconomy.pl@SD">
  <display-name>Moconomy (pol1)  (Polish) (Undefined)</display-name>
  </channel>
@@ -41405,12 +41433,26 @@
  <title>Motowizja (pol1)  (Polish) (Auto)</title>
  <desc>Motowizja.pl@SD</desc>
  </programme>
+ <channel id="MusicBoxPolska.pl@SD">
+ <display-name>Music Box Polska (pol1)  (Polish) (Music)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="MusicBoxPolska.pl@SD">
+ <title>Music Box Polska (pol1)  (Polish) (Music)</title>
+ <desc>MusicBoxPolska.pl@SD</desc>
+ </programme>
  <channel id="NatGeoPeople.pl@SD">
  <display-name>Nat Geo People (pol1)  (Polish) (Culture)</display-name>
  </channel>
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="NatGeoPeople.pl@SD">
  <title>Nat Geo People (pol1)  (Polish) (Culture)</title>
  <desc>NatGeoPeople.pl@SD</desc>
+ </programme>
+ <channel id="News24.pl@SD">
+ <display-name>News24 (pol1)  (Polish) (News)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="News24.pl@SD">
+ <title>News24 (pol1)  (Polish) (News)</title>
+ <desc>News24.pl@SD</desc>
  </programme>
  <channel id="NewTV.pl@SD">
  <display-name>NewTV (1080p) (pol1)  (Polish) (General)</display-name>
@@ -41439,6 +41481,13 @@
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="NutaTV.pl@SD">
  <title>Nuta TV (pol1)  (Polish) (Music)</title>
  <desc>NutaTV.pl@SD</desc>
+ </programme>
+ <channel id="ParamountNetwork.pl@SD">
+ <display-name>Paramount Network (pol1)  (Polish) (Movies) (Series)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="ParamountNetwork.pl@SD">
+ <title>Paramount Network (pol1)  (Polish) (Movies) (Series)</title>
+ <desc>ParamountNetwork.pl@SD</desc>
  </programme>
  <channel id="Polonia1.pl@SD">
  <display-name>Polonia 1 (pol1)  (Polish) (Undefined)</display-name>
@@ -41565,6 +41614,13 @@
  <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="SuperExpressTV.pl@FAST">
  <title>Super Express TV (1080i) (pol1)  (Polish) (News)</title>
  <desc>SuperExpressTV.pl@FAST</desc>
+ </programme>
+ <channel id="SzlagierTV.pl@SD">
+ <display-name>Szlagier TV (pol1)  (Polish) (General)</display-name>
+ </channel>
+ <programme start="20260321000000 +0000" stop="20260323000000 +0000" channel="SzlagierTV.pl@SD">
+ <title>Szlagier TV (pol1)  (Polish) (General)</title>
+ <desc>SzlagierTV.pl@SD</desc>
  </programme>
  <channel id="Tele5.pl@SD">
  <display-name>Tele5 (pol1)  (Polish) (Undefined)</display-name>

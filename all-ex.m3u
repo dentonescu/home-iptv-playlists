@@ -2454,9 +2454,7 @@ https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="English;General",MNCTV (720p) (eng6)  (English) (General)
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-id="MNX.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="English;Movies",MNX (576p) (eng6)  (English) (Movies)
-http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8
-#EXTINF:-1 tvg-id="MNX.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="English;Movies",MNX HD (1080p) (eng6)  (English) (Movies)
-http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
+http://103.161.153.165:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="MCPSSTV.us@SD" tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="English;Education",Mobile County Public Schools TV Network (MCPSS) (eng6)  (English) (Education)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MOGPATV.gh@SD" tvg-logo="https://i.imgur.com/34PmVAq.png" group-title="English;Religious",MOGPA TV (720p) (eng6)  (English) (Religious)
@@ -2879,7 +2877,7 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
 #EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie@SD" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" group-title="English;Legislative",Oireachtas TV Committee Room 1 (720p) (eng6)  (English) (Legislative)
 https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
-#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie@SD" tvg-logo="https://i.imgur.com/2Wxx2jK.jpg" group-title="English;Legislative",Oireachtas TV Committee Room 2 (720p) (eng7)  (English) (Legislative)
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie@SD" tvg-logo="https://i.imgur.com/2Wxx2jK.jpg" group-title="English;Legislative",Oireachtas TV Committee Room 2 (720p) (eng6)  (English) (Legislative)
 https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
 #EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom3.ie@SD" tvg-logo="https://i.imgur.com/EoAQeg5.jpg" group-title="English;Legislative",Oireachtas TV Committee Room 3 (720p) (eng7)  (English) (Legislative)
 https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
@@ -3358,7 +3356,7 @@ https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 http://116.90.120.151:8000/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="ROVTV.za@SD" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="English;Undefined",ROV TV (576p) (eng7)  (English) (Undefined)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RoyalTimeTelevision.us@SD" tvg-logo="https://i.imgur.com/gh1ghp4.png" group-title="English;Entertainment",Royal Time Television (1080p) (eng8)  (English) (Entertainment)
+#EXTINF:-1 tvg-id="RoyalTimeTelevision.us@SD" tvg-logo="https://i.imgur.com/gh1ghp4.png" group-title="English;Entertainment",Royal Time Television (1080p) (eng7)  (English) (Entertainment)
 https://tixbolt.com/royaltv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RozeNews.pk@SD" tvg-logo="https://i.imgur.com/TedWqfL.png" group-title="English;News",Roze News (576p) (eng8)  (English) (News)
 http://103.250.28.74:8000/play/a01k/index.m3u8
@@ -3571,6 +3569,8 @@ https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
 http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="English;Sports",Sony Sports Ten 2 HD (1080p) (eng8)  (English) (Sports)
 http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="English;Sports",Sony Sports Ten 5 (480p) (eng8)  (English) (Sports)
+http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="English;Sports",Sony Sports Ten 5 HD (1080p) (eng8)  (English) (Sports)
 http://116.90.120.151:8000/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-id="SoundViewCommunityMedia.us@SD" tvg-logo="https://i.imgur.com/3gASzGc.png" group-title="English;General",Sound View Community Media Education (480p) (eng8)  (English) (General)
@@ -9579,7 +9579,9 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFG.br@SD" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Portuguese;Education",TV UFG (720p) [Not 24/7] (por1)  (Portuguese) (Education)
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Portuguese;Religious",TV Universal (480p) (por1)  (Portuguese) (Religious)
+#EXTINF:-1 tvg-id="TVUFOP.br@SD" tvg-logo="https://i.imgur.com/6bRyqmj.png" group-title="Portuguese;Science",TV UFOP (1080p) (por1)  (Portuguese) (Science)
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Portuguese;Religious",TV Universal (480p) (por2)  (Portuguese) (Religious)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Portuguese;Entertainment",TV Viçosa (480p) (por2)  (Portuguese) (Entertainment)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
@@ -12021,6 +12023,8 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc117/2x2hdra
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Polish;Music",4 Fun TV (576i) [Not 24/7] (pol1)  (Polish) (Music)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="13Ulica.pl@SD" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="Polish;Entertainment",13 Ulica (pol1)  (Polish) (Entertainment)
+http://116.90.120.151:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD" tvg-logo="https://i.imgur.com/obwYQZC.png" group-title="Polish;Entertainment",Antena HD (pol1)  (Polish) (Entertainment)
 http://78.130.250.2:8023/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Poland" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="Polish;Entertainment",BBC First (pol1)  (Polish) (Entertainment)
@@ -12063,6 +12067,8 @@ https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 #EXTINF:-1 tvg-id="Grjngo.pl@SD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="Polish;Undefined",Grjngo (pol1)  (Polish) (Undefined)
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeTV.pl@SD" tvg-logo="https://i.imgur.com/qAFR1Cr.png" group-title="Polish;Undefined",Home TV (pol1)  (Polish) (Undefined)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc124/hometvhdraw/hometvhdraw.m3u8
 #EXTINF:-1 tvg-id="JAZZ.pl@SD" tvg-logo="https://i.imgur.com/F6zn8kH.png" group-title="Polish;Music",JAZZ (pol1)  (Polish) (Music)
 https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc121/jazztvhdraw/jazztvhdraw.mpd
 #EXTINF:-1 tvg-id="JuniorMusic.pl@HD" tvg-logo="https://i.imgur.com/RE2RXQJ.png" group-title="Polish;Music",Junior Music HD (pol1)  (Polish) (Music)
@@ -12075,12 +12081,18 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc105/kinopol
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc023/kinotvhdraw/kinotvhdraw.m3u8
 #EXTINF:-1 tvg-id="Mango.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" group-title="Polish;Shop",Mango (1080p) [Geo-blocked] (pol1)  (Polish) (Shop)
 https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+#EXTINF:-1 tvg-id="MixtapeTV.pl@SD" tvg-logo="https://i.imgur.com/DlRChDx.png" group-title="Polish;Music",Mixtape TV (pol1)  (Polish) (Music)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc122/mixtapehdraw/mixtapehdraw.m3u8
 #EXTINF:-1 tvg-id="Moconomy.pl@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="Polish;Undefined",Moconomy (pol1)  (Polish) (Undefined)
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-id="Motowizja.pl@SD" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" group-title="Polish;Auto",Motowizja (pol1)  (Polish) (Auto)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/motowizjahdraw/motowizjahdraw.m3u8
+#EXTINF:-1 tvg-id="MusicBoxPolska.pl@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10" group-title="Polish;Music",Music Box Polska (pol1)  (Polish) (Music)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc027/musicboxpolskahdraw/musicboxpolskahdraw.m3u8
 #EXTINF:-1 tvg-id="NatGeoPeople.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/960px-New_NatGeo_People_logo.svg.png" group-title="Polish;Culture",Nat Geo People (pol1)  (Polish) (Culture)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc024/natgeopeoplehdraw/natgeopeoplehdraw.m3u8
+#EXTINF:-1 tvg-id="News24.pl@SD" tvg-logo="https://i.imgur.com/cyDl5ry.png" group-title="Polish;News",News24 (pol1)  (Polish) (News)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc118/news24hdraw/news24hdraw.m3u8
 #EXTINF:-1 tvg-id="NewTV.pl@SD" tvg-logo="https://i.imgur.com/fH8rKs3.png" group-title="Polish;General",NewTV (1080p) (pol1)  (Polish) (General)
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NickJr.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Polish;Kids",Nick Jr. (pol1)  (Polish) (Kids)
@@ -12089,6 +12101,8 @@ https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc010/nickj
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc010/nickelodeonraw/nickelodeonraw.mpd
 #EXTINF:-1 tvg-id="NutaTV.pl@SD" tvg-logo="https://i.imgur.com/JHFUxDu.png" group-title="Polish;Music",Nuta TV (pol1)  (Polish) (Music)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/nutatvhdraw/nutatvhdraw.mpd
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="Polish;Movies;Series",Paramount Network (pol1)  (Polish) (Movies) (Series)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc028/paramountnetworkhdraw/paramountnetworkhdraw.m3u8
 #EXTINF:-1 tvg-id="Polonia1.pl@SD" tvg-logo="https://i.imgur.com/4TVDMGD.png" group-title="Polish;Undefined",Polonia 1 (pol1)  (Polish) (Undefined)
 http://78.130.250.2:8023/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Polish;General",Polsat (1080p) [Geo-blocked] (pol1)  (Polish) (General)
@@ -12125,6 +12139,8 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc102/stopkla
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc108/sundancehdraw/sundancehdraw.m3u8
 #EXTINF:-1 tvg-id="SuperExpressTV.pl@FAST" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="Polish;News",Super Express TV (1080i) (pol1)  (Polish) (News)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+#EXTINF:-1 tvg-id="SzlagierTV.pl@SD" tvg-logo="https://i.imgur.com/VQk19Ng.png" group-title="Polish;General",Szlagier TV (pol1)  (Polish) (General)
+http://78.130.250.2:8023/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="Tele5.pl@SD" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="Polish;Undefined",Tele5 (pol1)  (Polish) (Undefined)
 http://78.130.250.2:8023/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Polish;Business",Telewizja Biznesowa (1080p) (pol1)  (Polish) (Business)
