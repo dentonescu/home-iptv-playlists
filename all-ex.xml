@@ -3340,10 +3340,10 @@
  <desc>CGTV.us@SD</desc>
  </programme>
  <channel id="Channel4.uk@UK">
- <display-name>Channel 4 (eng3)  (English) (General)</display-name>
+ <display-name>Channel 4 (1080p) (eng3)  (English) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Channel4.uk@UK">
- <title>Channel 4 (eng3)  (English) (General)</title>
+ <title>Channel 4 (1080p) (eng3)  (English) (General)</title>
  <desc>Channel4.uk@UK</desc>
  </programme>
  <channel id="Channel4.uk@UKHD">
@@ -4704,13 +4704,6 @@
  <title>Dog Whisperer (1080p) [Geo-blocked] (eng3)  (English) (Series)</title>
  <desc>DogWhisperer.us@UK</desc>
  </programme>
- <channel id="DontTellTheBride.us@SD">
- <display-name>Don't Tell The Bride (1080p) (eng3)  (English) (Series)</display-name>
- </channel>
- <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DontTellTheBride.us@SD">
- <title>Don't Tell The Bride (1080p) (eng3)  (English) (Series)</title>
- <desc>DontTellTheBride.us@SD</desc>
- </programme>
  <channel id="DoveChannel.us@SD">
  <display-name>Dove Channel (1080p) (eng3)  (English) (Family)</display-name>
  </channel>
@@ -4801,6 +4794,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DW.de@English">
  <title>DW English (1080p) (eng3)  (English) (News)</title>
  <desc>DW.de@English</desc>
+ </programme>
+ <channel id="E4.uk@SD">
+ <display-name>E4 (1080p) (eng3)  (English) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="E4.uk@SD">
+ <title>E4 (1080p) (eng3)  (English) (Entertainment)</title>
+ <desc>E4.uk@SD</desc>
  </programme>
  <channel id="E.us@East">
  <display-name>E! East (1080p) [Not 24/7] (eng3)  (English) (Entertainment)</display-name>
@@ -5263,6 +5263,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="FilAmTVNetwork.us@HD">
  <title>FilAmTV Network (1080p) (eng4)  (English) (General)</title>
  <desc>FilAmTVNetwork.us@HD</desc>
+ </programme>
+ <channel id="Film4.uk@SD">
+ <display-name>Film4 (1080p) (eng4)  (English) (Movies)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Film4.uk@SD">
+ <title>Film4 (1080p) (eng4)  (English) (Movies)</title>
+ <desc>Film4.uk@SD</desc>
  </programme>
  <channel id="Film4.uk@HD">
  <display-name>Film4 HD (1080p) [Geo-Blocked] (eng4)  (English) (Movies)</display-name>
@@ -6328,13 +6335,6 @@
  <title>History Asia (eng4)  (English) (Documentary)</title>
  <desc>HistoryAsia.us@SD</desc>
  </programme>
- <channel id="HistoryHit.us@SD">
- <display-name>History Hit (720p) (eng4)  (English) (Undefined)</display-name>
- </channel>
- <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="HistoryHit.us@SD">
- <title>History Hit (720p) (eng4)  (English) (Undefined)</title>
- <desc>HistoryHit.us@SD</desc>
- </programme>
  <channel id="HistoryTV18.in@HD">
  <display-name>History TV18 HD (1080p) (eng4)  (English) (Documentary)</display-name>
  </channel>
@@ -6853,11 +6853,18 @@
  <title>It's Supernatural! Network (ISN Network) (1080p) (eng5)  (English) (Religious)</title>
  <desc>ItsSupernaturalNetwork.us@SD</desc>
  </programme>
+ <channel id="ITV1.uk@London">
+ <display-name>ITV1 (1080p) (eng5)  (English) (General)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="ITV1.uk@London">
+ <title>ITV1 (1080p) (eng5)  (English) (General)</title>
+ <desc>ITV1.uk@London</desc>
+ </programme>
  <channel id="ITV2.uk@SD">
- <display-name>ITV2 (720p) [Geo-Blocked] (eng5)  (English) (General)</display-name>
+ <display-name>ITV2 (1080p) (eng5)  (English) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="ITV2.uk@SD">
- <title>ITV2 (720p) [Geo-Blocked] (eng5)  (English) (General)</title>
+ <title>ITV2 (1080p) (eng5)  (English) (General)</title>
  <desc>ITV2.uk@SD</desc>
  </programme>
  <channel id="ITV3.uk@SD">
@@ -8275,10 +8282,10 @@
  <desc>MERUTV.ke@SD</desc>
  </programme>
  <channel id="meWATCHLIVE1.sg@SD">
- <display-name>meWATCH LIVE 1 (1080p) (eng5)  (English) (Entertainment)</display-name>
+ <display-name>meWATCH LIVE 1 (1080p) (eng6)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="meWATCHLIVE1.sg@SD">
- <title>meWATCH LIVE 1 (1080p) (eng5)  (English) (Entertainment)</title>
+ <title>meWATCH LIVE 1 (1080p) (eng6)  (English) (Entertainment)</title>
  <desc>meWATCHLIVE1.sg@SD</desc>
  </programme>
  <channel id="Mezzo.fr@SD">
@@ -9899,10 +9906,10 @@
  <desc>OireachtasTVCommitteeRoom3.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVCommitteeRoom4.ie@SD">
- <display-name>Oireachtas TV Committee Room 4 (720p) (eng6)  (English) (Legislative)</display-name>
+ <display-name>Oireachtas TV Committee Room 4 (720p) (eng7)  (English) (Legislative)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="OireachtasTVCommitteeRoom4.ie@SD">
- <title>Oireachtas TV Committee Room 4 (720p) (eng6)  (English) (Legislative)</title>
+ <title>Oireachtas TV Committee Room 4 (720p) (eng7)  (English) (Legislative)</title>
  <desc>OireachtasTVCommitteeRoom4.ie@SD</desc>
  </programme>
  <channel id="OireachtasTVDailEireann.ie@SD">
@@ -11333,13 +11340,6 @@
  <title>Real America's Voice (1080p) (eng7)  (English) (Undefined)</title>
  <desc>RealAmericasVoice.us@SD</desc>
  </programme>
- <channel id="RealWild.us@SD">
- <display-name>Real Wild (1080p) (eng7)  (English) (Undefined)</display-name>
- </channel>
- <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="RealWild.us@SD">
- <title>Real Wild (1080p) (eng7)  (English) (Undefined)</title>
- <desc>RealWild.us@SD</desc>
- </programme>
  <channel id="RedApple21.us@SD">
  <display-name>Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7] (eng7)  (English) (Education)</display-name>
  </channel>
@@ -11529,6 +11529,20 @@
  <title>Roar (1080p) (eng7)  (English) (Entertainment)</title>
  <desc>Roar.us@SD</desc>
  </programme>
+ <channel id="ROCKAction.sg@SD">
+ <display-name>ROCK Action (720p) (eng7)  (English) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="ROCKAction.sg@SD">
+ <title>ROCK Action (720p) (eng7)  (English) (Entertainment)</title>
+ <desc>ROCKAction.sg@SD</desc>
+ </programme>
+ <channel id="ROCKEntertainment.sg@SD">
+ <display-name>ROCK Entertainment (720p) (eng7)  (English) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="ROCKEntertainment.sg@SD">
+ <title>ROCK Entertainment (720p) (eng7)  (English) (Entertainment)</title>
+ <desc>ROCKEntertainment.sg@SD</desc>
+ </programme>
  <channel id="RockyHillChannel16.us@SD">
  <display-name>Rocky Hill Government Access Channel 16 (480p) (eng7)  (English) (Legislative)</display-name>
  </channel>
@@ -11544,17 +11558,17 @@
  <desc>RomedyNow.in@SD</desc>
  </programme>
  <channel id="ROVTV.za@SD">
- <display-name>ROV TV (576p) (eng7)  (English) (Undefined)</display-name>
+ <display-name>ROV TV (576p) (eng8)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="ROVTV.za@SD">
- <title>ROV TV (576p) (eng7)  (English) (Undefined)</title>
+ <title>ROV TV (576p) (eng8)  (English) (Undefined)</title>
  <desc>ROVTV.za@SD</desc>
  </programme>
  <channel id="RoyalTimeTelevision.us@SD">
- <display-name>Royal Time Television (1080p) (eng7)  (English) (Entertainment)</display-name>
+ <display-name>Royal Time Television (1080p) (eng8)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="RoyalTimeTelevision.us@SD">
- <title>Royal Time Television (1080p) (eng7)  (English) (Entertainment)</title>
+ <title>Royal Time Television (1080p) (eng8)  (English) (Entertainment)</title>
  <desc>RoyalTimeTelevision.us@SD</desc>
  </programme>
  <channel id="RozeNews.pk@SD">
@@ -12151,6 +12165,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="SkwadPlay.us@SD">
  <title>SKWAD (1080p) (eng8)  (English) (Kids)</title>
  <desc>SkwadPlay.us@SD</desc>
+ </programme>
+ <channel id="SkyMix.uk@SD">
+ <display-name>Sky Mix (1080p) (eng8)  (English) (Undefined)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="SkyMix.uk@SD">
+ <title>Sky Mix (1080p) (eng8)  (English) (Undefined)</title>
+ <desc>SkyMix.uk@SD</desc>
  </programme>
  <channel id="SkyNewsExtra1.au@SD">
  <display-name>Sky News Extra 1 (540p) (eng8)  (English) (News)</display-name>
@@ -13175,24 +13196,24 @@
  <desc>TheChallenge.us@SD</desc>
  </programme>
  <channel id="TheCountryNetwork.us@SD">
- <display-name>The Country Network (1080p) (eng8)  (English) (Music)</display-name>
+ <display-name>The Country Network (1080p) (eng9)  (English) (Music)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TheCountryNetwork.us@SD">
- <title>The Country Network (1080p) (eng8)  (English) (Music)</title>
+ <title>The Country Network (1080p) (eng9)  (English) (Music)</title>
  <desc>TheCountryNetwork.us@SD</desc>
  </programme>
  <channel id="TheCyclingChannel.at@SD">
- <display-name>The Cycling Channel (eng8)  (English) (Sports)</display-name>
+ <display-name>The Cycling Channel (eng9)  (English) (Sports)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TheCyclingChannel.at@SD">
- <title>The Cycling Channel (eng8)  (English) (Sports)</title>
+ <title>The Cycling Channel (eng9)  (English) (Sports)</title>
  <desc>TheCyclingChannel.at@SD</desc>
  </programme>
  <channel id="TheDesignNetwork.us@SD">
- <display-name>The Design Network (1080p) (eng8)  (English) (Lifestyle)</display-name>
+ <display-name>The Design Network (1080p) (eng9)  (English) (Lifestyle)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TheDesignNetwork.us@SD">
- <title>The Design Network (1080p) (eng8)  (English) (Lifestyle)</title>
+ <title>The Design Network (1080p) (eng9)  (English) (Lifestyle)</title>
  <desc>TheDesignNetwork.us@SD</desc>
  </programme>
  <channel id="TheFilmDetective.us@SD">
@@ -14848,24 +14869,24 @@
  <desc>WazobiaMaxTVNigeria.ng@SD</desc>
  </programme>
  <channel id="WazobiaMaxTVPortHarcourt.ng@SD">
- <display-name>Wazobia Max TV Port Harcourt (720p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>Wazobia Max TV Port Harcourt (720p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="WazobiaMaxTVPortHarcourt.ng@SD">
- <title>Wazobia Max TV Port Harcourt (720p) (eng9)  (English) (Undefined)</title>
+ <title>Wazobia Max TV Port Harcourt (720p) (eng10)  (English) (Undefined)</title>
  <desc>WazobiaMaxTVPortHarcourt.ng@SD</desc>
  </programme>
  <channel id="WBBJDT1.us@SD">
- <display-name>WBBJ (Jackson TN) (432p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>WBBJ (Jackson TN) (432p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="WBBJDT1.us@SD">
- <title>WBBJ (Jackson TN) (432p) (eng9)  (English) (Undefined)</title>
+ <title>WBBJ (Jackson TN) (432p) (eng10)  (English) (Undefined)</title>
  <desc>WBBJDT1.us@SD</desc>
  </programme>
  <channel id="WBRADT3.us@SD">
- <display-name>WBRA PBS Kids (1080p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>WBRA PBS Kids (1080p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="WBRADT3.us@SD">
- <title>WBRA PBS Kids (1080p) (eng9)  (English) (Undefined)</title>
+ <title>WBRA PBS Kids (1080p) (eng10)  (English) (Undefined)</title>
  <desc>WBRADT3.us@SD</desc>
  </programme>
  <channel id="WBRZDT1.us@SD">
@@ -20559,12 +20580,26 @@
  <title>A24 (720p) (spa1)  (Spanish) (News)</title>
  <desc>A24.ar@SD</desc>
  </programme>
+ <channel id="A24Paraguay.py@SD">
+ <display-name>A24 Paraguay (spa1)  (Spanish) (News)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="A24Paraguay.py@SD">
+ <title>A24 Paraguay (spa1)  (Spanish) (News)</title>
+ <desc>A24Paraguay.py@SD</desc>
+ </programme>
  <channel id="APunt.es@SD">
  <display-name>A Punt (spa1)  (Spanish) (General) (Public)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="APunt.es@SD">
  <title>A Punt (spa1)  (Spanish) (General) (Public)</title>
  <desc>APunt.es@SD</desc>
+ </programme>
+ <channel id="AELatinAmerica.us@South">
+ <display-name>A&amp;E Latin America South (480p) (spa1)  (Spanish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="AELatinAmerica.us@South">
+ <title>A&amp;E Latin America South (480p) (spa1)  (Spanish) (Entertainment)</title>
+ <desc>AELatinAmerica.us@South</desc>
  </programme>
  <channel id="ARCanal.pa@SD">
  <display-name>A&amp;R Canal Adventista (720p) (spa1)  (Spanish) (Religious)</display-name>
@@ -21483,6 +21518,13 @@
  <title>BUM Televisión (720p) [Not 24/7] (spa1)  (Spanish) (General)</title>
  <desc>BUMTelevision.co@SD</desc>
  </programme>
+ <channel id="C5N.ar@SD">
+ <display-name>C5N (1080p) (spa1)  (Spanish) (News)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="C5N.ar@SD">
+ <title>C5N (1080p) (spa1)  (Spanish) (News)</title>
+ <desc>C5N.ar@SD</desc>
+ </programme>
  <channel id="C9N.py@SD">
  <display-name>C9N (spa1)  (Spanish) (News)</display-name>
  </channel>
@@ -21988,24 +22030,24 @@
  <desc>Canal11TuTV.sv@SD</desc>
  </programme>
  <channel id="Canal12.sv@SD">
- <display-name>Canal 12 (220p) (spa1)  (Spanish) (General)</display-name>
+ <display-name>Canal 12 (220p) (spa2)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Canal12.sv@SD">
- <title>Canal 12 (220p) (spa1)  (Spanish) (General)</title>
+ <title>Canal 12 (220p) (spa2)  (Spanish) (General)</title>
  <desc>Canal12.sv@SD</desc>
  </programme>
  <channel id="Canal12Web.ar@SD">
- <display-name>Canal 12 Puerto Madryn (720p) [Not 24/7] (spa1)  (Spanish) (Undefined)</display-name>
+ <display-name>Canal 12 Puerto Madryn (720p) [Not 24/7] (spa2)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Canal12Web.ar@SD">
- <title>Canal 12 Puerto Madryn (720p) [Not 24/7] (spa1)  (Spanish) (Undefined)</title>
+ <title>Canal 12 Puerto Madryn (720p) [Not 24/7] (spa2)  (Spanish) (Undefined)</title>
  <desc>Canal12Web.ar@SD</desc>
  </programme>
  <channel id="Canal13.cl@SD">
- <display-name>Canal 13 (1080p) (spa1)  (Spanish) (General)</display-name>
+ <display-name>Canal 13 (1080p) (spa2)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Canal13.cl@SD">
- <title>Canal 13 (1080p) (spa1)  (Spanish) (General)</title>
+ <title>Canal 13 (1080p) (spa2)  (Spanish) (General)</title>
  <desc>Canal13.cl@SD</desc>
  </programme>
  <channel id="Canal13Bajio.mx@SD">
@@ -23331,6 +23373,13 @@
  <title>Comedy Central en español (spa2)  (Spanish) (Comedy)</title>
  <desc>ComedyCentralenEspanol.us@SD</desc>
  </programme>
+ <channel id="ComedyCentralLatinAmerica.us@Panregional">
+ <display-name>Comedy Central Latin America (1080p) (spa2)  (Spanish) (Comedy)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
+ <title>Comedy Central Latin America (1080p) (spa2)  (Spanish) (Comedy)</title>
+ <desc>ComedyCentralLatinAmerica.us@Panregional</desc>
+ </programme>
  <channel id="Condavision.es@SD">
  <display-name>Condavisión (1080p) [Not 24/7] (spa2)  (Spanish) (Culture)</display-name>
  </channel>
@@ -23633,31 +23682,31 @@
  <desc>DanceTV.ar@SD</desc>
  </programme>
  <channel id="DaystarTVEspanol.us@SD">
- <display-name>Daystar TV Espanol (1080p) (spa2)  (Spanish) (Religious)</display-name>
+ <display-name>Daystar TV Espanol (1080p) (spa3)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DaystarTVEspanol.us@SD">
- <title>Daystar TV Espanol (1080p) (spa2)  (Spanish) (Religious)</title>
+ <title>Daystar TV Espanol (1080p) (spa3)  (Spanish) (Religious)</title>
  <desc>DaystarTVEspanol.us@SD</desc>
  </programme>
  <channel id="DeUltimoMinutoTV.do@SD">
- <display-name>De Ultimo Minuto TV (spa2)  (Spanish) (News)</display-name>
+ <display-name>De Ultimo Minuto TV (spa3)  (Spanish) (News)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DeUltimoMinutoTV.do@SD">
- <title>De Ultimo Minuto TV (spa2)  (Spanish) (News)</title>
+ <title>De Ultimo Minuto TV (spa3)  (Spanish) (News)</title>
  <desc>DeUltimoMinutoTV.do@SD</desc>
  </programme>
  <channel id="DecimaTV.cl@SD">
- <display-name>Décima TV (Ancud) (720p) (spa2)  (Spanish) (General)</display-name>
+ <display-name>Décima TV (Ancud) (720p) (spa3)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DecimaTV.cl@SD">
- <title>Décima TV (Ancud) (720p) (spa2)  (Spanish) (General)</title>
+ <title>Décima TV (Ancud) (720p) (spa3)  (Spanish) (General)</title>
  <desc>DecimaTV.cl@SD</desc>
  </programme>
  <channel id="DelPuebloTV.do@HD">
- <display-name>Del Pueblo TV [Not 24/7] (spa2)  (Spanish) (General)</display-name>
+ <display-name>Del Pueblo TV [Not 24/7] (spa3)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DelPuebloTV.do@HD">
- <title>Del Pueblo TV [Not 24/7] (spa2)  (Spanish) (General)</title>
+ <title>Del Pueblo TV [Not 24/7] (spa3)  (Spanish) (General)</title>
  <desc>DelPuebloTV.do@HD</desc>
  </programme>
  <channel id="DelReyTV.py@SD">
@@ -23764,6 +23813,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DisneyChannel.us@East">
  <title>Disney Channel East (720p) [Not 24/7] (spa3)  (Spanish) (Kids)</title>
  <desc>DisneyChannel.us@East</desc>
+ </programme>
+ <channel id="DisneyChannelLatinAmerica.ar@Panregional">
+ <display-name>Disney Channel Latin America (1080p) (spa3)  (Spanish) (Animation) (Kids)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DisneyChannelLatinAmerica.ar@Panregional">
+ <title>Disney Channel Latin America (1080p) (spa3)  (Spanish) (Animation) (Kids)</title>
+ <desc>DisneyChannelLatinAmerica.ar@Panregional</desc>
  </programme>
  <channel id="DisneyJrLatinAmerica.ar@South">
  <display-name>Disney Jr. Latin America South (spa3)  (Spanish) (Animation) (Kids)</display-name>
@@ -24444,6 +24500,13 @@
  <title>Fox Sports (1080p) (spa3)  (Spanish) (Sports)</title>
  <desc>FoxSports.ar@SD</desc>
  </programme>
+ <channel id="FoxSports3LatinAmerica.us@Panregional">
+ <display-name>Fox Sports 3 Latin America (1080p) (spa3)  (Spanish) (Sports)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="FoxSports3LatinAmerica.us@Panregional">
+ <title>Fox Sports 3 Latin America (1080p) (spa3)  (Spanish) (Sports)</title>
+ <desc>FoxSports3LatinAmerica.us@Panregional</desc>
+ </programme>
  <channel id="FoxDeportes.us@SD">
  <display-name>Fox Sports en Espanol (720p) (spa3)  (Spanish) (Sports)</display-name>
  </channel>
@@ -24786,6 +24849,20 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Historia.es@SD">
  <title>Historia (1080p) (spa3)  (Spanish) (Entertainment)</title>
  <desc>Historia.es@SD</desc>
+ </programme>
+ <channel id="History2LatinAmerica.us@Panregional">
+ <display-name>History 2 Latin America (480p) (spa3)  (Spanish) (Documentary)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="History2LatinAmerica.us@Panregional">
+ <title>History 2 Latin America (480p) (spa3)  (Spanish) (Documentary)</title>
+ <desc>History2LatinAmerica.us@Panregional</desc>
+ </programme>
+ <channel id="HistoryenEspanol.us@SD">
+ <display-name>History en Espanol (480p) (spa3)  (Spanish) (Documentary)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="HistoryenEspanol.us@SD">
+ <title>History en Espanol (480p) (spa3)  (Spanish) (Documentary)</title>
+ <desc>HistoryenEspanol.us@SD</desc>
  </programme>
  <channel id="Hits360TV.do@SD">
  <display-name>Hits 360 TV (720p) [Not 24/7] (spa3)  (Spanish) (Music)</display-name>
@@ -25165,6 +25242,13 @@
  <title>KBEV Spectrum Channel 6 [Beverly Hills] (1080p) (spa3)  (Spanish) (Education)</title>
  <desc>KBEV.us@SD</desc>
  </programme>
+ <channel id="KCHTV.ec@SD">
+ <display-name>KCHTV (1080p) (spa3)  (Spanish) (General)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="KCHTV.ec@SD">
+ <title>KCHTV (1080p) (spa3)  (Spanish) (General)</title>
+ <desc>KCHTV.ec@SD</desc>
+ </programme>
  <channel id="KerussoTV.hn@SD">
  <display-name>Kerusso TV (720p) (spa3)  (Spanish) (Religious)</display-name>
  </channel>
@@ -25236,66 +25320,66 @@
  <desc>L1Max.pe@SD</desc>
  </programme>
  <channel id="La1.es@SD">
- <display-name>La 1 (720p) (spa3)  (Spanish) (General) (Public)</display-name>
+ <display-name>La 1 (720p) (spa4)  (Spanish) (General) (Public)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="La1.es@SD">
- <title>La 1 (720p) (spa3)  (Spanish) (General) (Public)</title>
+ <title>La 1 (720p) (spa4)  (Spanish) (General) (Public)</title>
  <desc>La1.es@SD</desc>
  </programme>
  <channel id="La1Canarias.es@SD">
- <display-name>La 1 Canarias (720p) (spa3)  (Spanish) (General) (Public)</display-name>
+ <display-name>La 1 Canarias (720p) (spa4)  (Spanish) (General) (Public)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="La1Canarias.es@SD">
- <title>La 1 Canarias (720p) (spa3)  (Spanish) (General) (Public)</title>
+ <title>La 1 Canarias (720p) (spa4)  (Spanish) (General) (Public)</title>
  <desc>La1Canarias.es@SD</desc>
  </programme>
  <channel id="La2.es@SD">
- <display-name>La 2 (1080p) (spa3)  (Spanish) (General) (Public)</display-name>
+ <display-name>La 2 (1080p) (spa4)  (Spanish) (General) (Public)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="La2.es@SD">
- <title>La 2 (1080p) (spa3)  (Spanish) (General) (Public)</title>
+ <title>La 2 (1080p) (spa4)  (Spanish) (General) (Public)</title>
  <desc>La2.es@SD</desc>
  </programme>
  <channel id="La2Canarias.es@SD">
- <display-name>La 2 Canarias (720p) (spa3)  (Spanish) (General) (Public)</display-name>
+ <display-name>La 2 Canarias (720p) (spa4)  (Spanish) (General) (Public)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="La2Canarias.es@SD">
- <title>La 2 Canarias (720p) (spa3)  (Spanish) (General) (Public)</title>
+ <title>La 2 Canarias (720p) (spa4)  (Spanish) (General) (Public)</title>
  <desc>La2Canarias.es@SD</desc>
  </programme>
  <channel id="La2Catalunya.es@SD">
- <display-name>La 2 Catalunya (720p) (spa3)  (Spanish) (General) (Public)</display-name>
+ <display-name>La 2 Catalunya (720p) (spa4)  (Spanish) (General) (Public)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="La2Catalunya.es@SD">
- <title>La 2 Catalunya (720p) (spa3)  (Spanish) (General) (Public)</title>
+ <title>La 2 Catalunya (720p) (spa4)  (Spanish) (General) (Public)</title>
  <desc>La2Catalunya.es@SD</desc>
  </programme>
  <channel id="La981TV.hn@SD">
- <display-name>La 98.1 TV (720p) [Not 24/7] (spa3)  (Spanish) (Music)</display-name>
+ <display-name>La 98.1 TV (720p) [Not 24/7] (spa4)  (Spanish) (Music)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="La981TV.hn@SD">
- <title>La 98.1 TV (720p) [Not 24/7] (spa3)  (Spanish) (Music)</title>
+ <title>La 98.1 TV (720p) [Not 24/7] (spa4)  (Spanish) (Music)</title>
  <desc>La981TV.hn@SD</desc>
  </programme>
  <channel id="LaCaletaTV.do@SD">
- <display-name>La Caleta TV (720p) [Not 24/7] (spa3)  (Spanish) (General)</display-name>
+ <display-name>La Caleta TV (720p) [Not 24/7] (spa4)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="LaCaletaTV.do@SD">
- <title>La Caleta TV (720p) [Not 24/7] (spa3)  (Spanish) (General)</title>
+ <title>La Caleta TV (720p) [Not 24/7] (spa4)  (Spanish) (General)</title>
  <desc>LaCaletaTV.do@SD</desc>
  </programme>
  <channel id="LaCantinaMemorias.co@SD">
- <display-name>La Cantina Memorias (480p) [Geo-blocked] (spa3)  (Spanish) (Music)</display-name>
+ <display-name>La Cantina Memorias (480p) [Geo-blocked] (spa4)  (Spanish) (Music)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="LaCantinaMemorias.co@SD">
- <title>La Cantina Memorias (480p) [Geo-blocked] (spa3)  (Spanish) (Music)</title>
+ <title>La Cantina Memorias (480p) [Geo-blocked] (spa4)  (Spanish) (Music)</title>
  <desc>LaCantinaMemorias.co@SD</desc>
  </programme>
  <channel id="LaCheverisimaRadioTV.co@SD">
- <display-name>La Cheverisima Radio TV (720p) (spa3)  (Spanish) (Entertainment)</display-name>
+ <display-name>La Cheverisima Radio TV (720p) (spa4)  (Spanish) (Entertainment)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="LaCheverisimaRadioTV.co@SD">
- <title>La Cheverisima Radio TV (720p) (spa3)  (Spanish) (Entertainment)</title>
+ <title>La Cheverisima Radio TV (720p) (spa4)  (Spanish) (Entertainment)</title>
  <desc>LaCheverisimaRadioTV.co@SD</desc>
  </programme>
  <channel id="LACityView35.us@SD">
@@ -25353,6 +25437,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="LaMoradaRadioTV.co@SD">
  <title>La Morada Radio TV (720p) (spa4)  (Spanish) (Music)</title>
  <desc>LaMoradaRadioTV.co@SD</desc>
+ </programme>
+ <channel id="LaNacionPlus.ar@SD">
+ <display-name>La Nacion + (720p) (spa4)  (Spanish) (General)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="LaNacionPlus.ar@SD">
+ <title>La Nacion + (720p) (spa4)  (Spanish) (General)</title>
+ <desc>LaNacionPlus.ar@SD</desc>
  </programme>
  <channel id="LaNuevaRadioTV977.ec@SD">
  <display-name>La Nueva Radio TV 97.7 (1080p) (spa4)  (Spanish) (Entertainment)</display-name>
@@ -25612,6 +25703,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="KSCEDT3.us@SD">
  <title>LIFE! End Times TV (360p) (spa4)  (Spanish) (Religious)</title>
  <desc>KSCEDT3.us@SD</desc>
+ </programme>
+ <channel id="LifetimeLatinAmerica.us@Panregional">
+ <display-name>Lifetime Latin America (720p) (spa4)  (Spanish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="LifetimeLatinAmerica.us@Panregional">
+ <title>Lifetime Latin America (720p) (spa4)  (Spanish) (Entertainment)</title>
+ <desc>LifetimeLatinAmerica.us@Panregional</desc>
  </programme>
  <channel id="LifetimeMovies.us@East">
  <display-name>Lifetime Movies East (720p) [Not 24/7] (spa4)  (Spanish) (Movies)</display-name>
@@ -26565,6 +26663,13 @@
  <title>Nickelodeon Latin America (spa4)  (Spanish) (Kids)</title>
  <desc>NickelodeonLatinAmerica.us@Panregional</desc>
  </programme>
+ <channel id="NickelodeonLatinAmerica.us@North">
+ <display-name>Nickelodeon Latin America North (480p) (spa4)  (Spanish) (Kids)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="NickelodeonLatinAmerica.us@North">
+ <title>Nickelodeon Latin America North (480p) (spa4)  (Spanish) (Kids)</title>
+ <desc>NickelodeonLatinAmerica.us@North</desc>
+ </programme>
  <channel id="NicoyaTV.cr@SD">
  <display-name>Nicoya TV (720p) [Not 24/7] (spa4)  (Spanish) (General)</display-name>
  </channel>
@@ -26867,87 +26972,87 @@
  <desc>OromarTV.ec@SD</desc>
  </programme>
  <channel id="OvacionTV.pe@SD">
- <display-name>Ovacion TV (720p) [Not 24/7] (spa4)  (Spanish) (Sports)</display-name>
+ <display-name>Ovacion TV (720p) [Not 24/7] (spa5)  (Spanish) (Sports)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="OvacionTV.pe@SD">
- <title>Ovacion TV (720p) [Not 24/7] (spa4)  (Spanish) (Sports)</title>
+ <title>Ovacion TV (720p) [Not 24/7] (spa5)  (Spanish) (Sports)</title>
  <desc>OvacionTV.pe@SD</desc>
  </programme>
  <channel id="OxigenoTV.ve@SD">
- <display-name>Oxigeno TV (360p) [Not 24/7] (spa4)  (Spanish) (Music)</display-name>
+ <display-name>Oxigeno TV (360p) [Not 24/7] (spa5)  (Spanish) (Music)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="OxigenoTV.ve@SD">
- <title>Oxigeno TV (360p) [Not 24/7] (spa4)  (Spanish) (Music)</title>
+ <title>Oxigeno TV (360p) [Not 24/7] (spa5)  (Spanish) (Music)</title>
  <desc>OxigenoTV.ve@SD</desc>
  </programme>
  <channel id="OxiTV.do@HD">
- <display-name>OxiTV (720p) [Not 24/7] (spa4)  (Spanish) (General)</display-name>
+ <display-name>OxiTV (720p) [Not 24/7] (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="OxiTV.do@HD">
- <title>OxiTV (720p) [Not 24/7] (spa4)  (Spanish) (General)</title>
+ <title>OxiTV (720p) [Not 24/7] (spa5)  (Spanish) (General)</title>
  <desc>OxiTV.do@HD</desc>
  </programme>
  <channel id="P3TV.us@SD">
- <display-name>P3TV [Not 24/7] (spa4)  (Spanish) (General)</display-name>
+ <display-name>P3TV [Not 24/7] (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="P3TV.us@SD">
- <title>P3TV [Not 24/7] (spa4)  (Spanish) (General)</title>
+ <title>P3TV [Not 24/7] (spa5)  (Spanish) (General)</title>
  <desc>P3TV.us@SD</desc>
  </programme>
  <channel id="PCTChannel27.us@SD">
- <display-name>Pacific Coast TV HMB Coastside Channel 27 (720p) (spa4)  (Spanish) (General)</display-name>
+ <display-name>Pacific Coast TV HMB Coastside Channel 27 (720p) (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PCTChannel27.us@SD">
- <title>Pacific Coast TV HMB Coastside Channel 27 (720p) (spa4)  (Spanish) (General)</title>
+ <title>Pacific Coast TV HMB Coastside Channel 27 (720p) (spa5)  (Spanish) (General)</title>
  <desc>PCTChannel27.us@SD</desc>
  </programme>
  <channel id="PCTChannel26.us@SD">
- <display-name>Pacific Coast TV MWSD Channel 26 (720p) (spa4)  (Spanish) (General)</display-name>
+ <display-name>Pacific Coast TV MWSD Channel 26 (720p) (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PCTChannel26.us@SD">
- <title>Pacific Coast TV MWSD Channel 26 (720p) (spa4)  (Spanish) (General)</title>
+ <title>Pacific Coast TV MWSD Channel 26 (720p) (spa5)  (Spanish) (General)</title>
  <desc>PCTChannel26.us@SD</desc>
  </programme>
  <channel id="Pakapaka.ar@SD">
- <display-name>Pakapaka (1080p) (spa4)  (Spanish) (Kids)</display-name>
+ <display-name>Pakapaka (1080p) (spa5)  (Spanish) (Kids)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Pakapaka.ar@SD">
- <title>Pakapaka (1080p) (spa4)  (Spanish) (Kids)</title>
+ <title>Pakapaka (1080p) (spa5)  (Spanish) (Kids)</title>
  <desc>Pakapaka.ar@SD</desc>
  </programme>
  <channel id="PalenqueTV.bo@SD">
- <display-name>Palenque TV (spa4)  (Spanish) (General)</display-name>
+ <display-name>Palenque TV (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PalenqueTV.bo@SD">
- <title>Palenque TV (spa4)  (Spanish) (General)</title>
+ <title>Palenque TV (spa5)  (Spanish) (General)</title>
  <desc>PalenqueTV.bo@SD</desc>
  </programme>
  <channel id="PalmarTV.do@SD">
- <display-name>Palmar TV [Not 24/7] (spa4)  (Spanish) (General)</display-name>
+ <display-name>Palmar TV [Not 24/7] (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PalmarTV.do@SD">
- <title>Palmar TV [Not 24/7] (spa4)  (Spanish) (General)</title>
+ <title>Palmar TV [Not 24/7] (spa5)  (Spanish) (General)</title>
  <desc>PalmarTV.do@SD</desc>
  </programme>
  <channel id="PancTV.ar@SD">
- <display-name>Panc TV (720p) [Not 24/7] (spa4)  (Spanish) (General)</display-name>
+ <display-name>Panc TV (720p) [Not 24/7] (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PancTV.ar@SD">
- <title>Panc TV (720p) [Not 24/7] (spa4)  (Spanish) (General)</title>
+ <title>Panc TV (720p) [Not 24/7] (spa5)  (Spanish) (General)</title>
  <desc>PancTV.ar@SD</desc>
  </programme>
  <channel id="PancTVPeru.pe@SD">
- <display-name>Panc TV Peru (1080p) (spa4)  (Spanish) (Entertainment)</display-name>
+ <display-name>Panc TV Peru (1080p) (spa5)  (Spanish) (Entertainment)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PancTVPeru.pe@SD">
- <title>Panc TV Peru (1080p) (spa4)  (Spanish) (Entertainment)</title>
+ <title>Panc TV Peru (1080p) (spa5)  (Spanish) (Entertainment)</title>
  <desc>PancTVPeru.pe@SD</desc>
  </programme>
  <channel id="PantallaClasicaEC.ec@SD">
- <display-name>Pantalla Clásica EC (512p) [Not 24/7] (spa4)  (Spanish) (Movies) (Series)</display-name>
+ <display-name>Pantalla Clásica EC (512p) [Not 24/7] (spa5)  (Spanish) (Movies) (Series)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PantallaClasicaEC.ec@SD">
- <title>Pantalla Clásica EC (512p) [Not 24/7] (spa4)  (Spanish) (Movies) (Series)</title>
+ <title>Pantalla Clásica EC (512p) [Not 24/7] (spa5)  (Spanish) (Movies) (Series)</title>
  <desc>PantallaClasicaEC.ec@SD</desc>
  </programme>
  <channel id="ParaguayTV.py@SD">
@@ -28505,80 +28610,80 @@
  <desc>Supremateve.do@HD</desc>
  </programme>
  <channel id="SURTV.cl@SD">
- <display-name>SUR TV (spa5)  (Spanish) (General)</display-name>
+ <display-name>SUR TV (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="SURTV.cl@SD">
- <title>SUR TV (spa5)  (Spanish) (General)</title>
+ <title>SUR TV (spa6)  (Spanish) (General)</title>
  <desc>SURTV.cl@SD</desc>
  </programme>
  <channel id="SurTV.do@SD">
- <display-name>Sur TV (720p) (spa5)  (Spanish) (General)</display-name>
+ <display-name>Sur TV (720p) (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="SurTV.do@SD">
- <title>Sur TV (720p) (spa5)  (Spanish) (General)</title>
+ <title>Sur TV (720p) (spa6)  (Spanish) (General)</title>
  <desc>SurTV.do@SD</desc>
  </programme>
  <channel id="SuramTV.co@SD">
- <display-name>Suram TV (1080p) (spa5)  (Spanish) (General)</display-name>
+ <display-name>Suram TV (1080p) (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="SuramTV.co@SD">
- <title>Suram TV (1080p) (spa5)  (Spanish) (General)</title>
+ <title>Suram TV (1080p) (spa6)  (Spanish) (General)</title>
  <desc>SuramTV.co@SD</desc>
  </programme>
  <channel id="SuyaiTV.cl@SD">
- <display-name>Suyai TV (1080p) (spa5)  (Spanish) (Culture)</display-name>
+ <display-name>Suyai TV (1080p) (spa6)  (Spanish) (Culture)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="SuyaiTV.cl@SD">
- <title>Suyai TV (1080p) (spa5)  (Spanish) (Culture)</title>
+ <title>Suyai TV (1080p) (spa6)  (Spanish) (Culture)</title>
  <desc>SuyaiTV.cl@SD</desc>
  </programme>
  <channel id="T13.cl@SD">
- <display-name>T13 (720p) (spa5)  (Spanish) (News)</display-name>
+ <display-name>T13 (720p) (spa6)  (Spanish) (News)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="T13.cl@SD">
- <title>T13 (720p) (spa5)  (Spanish) (News)</title>
+ <title>T13 (720p) (spa6)  (Spanish) (News)</title>
  <desc>T13.cl@SD</desc>
  </programme>
  <channel id="TVinet.cl@SD">
- <display-name>T-Vinet (480p) (spa5)  (Spanish) (Undefined)</display-name>
+ <display-name>T-Vinet (480p) (spa6)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVinet.cl@SD">
- <title>T-Vinet (480p) (spa5)  (Spanish) (Undefined)</title>
+ <title>T-Vinet (480p) (spa6)  (Spanish) (Undefined)</title>
  <desc>TVinet.cl@SD</desc>
  </programme>
  <channel id="TaberTV.sv@SD">
- <display-name>Taber TV (1080p) (spa5)  (Spanish) (Religious)</display-name>
+ <display-name>Taber TV (1080p) (spa6)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TaberTV.sv@SD">
- <title>Taber TV (1080p) (spa5)  (Spanish) (Religious)</title>
+ <title>Taber TV (1080p) (spa6)  (Spanish) (Religious)</title>
  <desc>TaberTV.sv@SD</desc>
  </programme>
  <channel id="TalangaTVCanal39.hn@SD">
- <display-name>Talanga TV Canal 39 (480p) [Not 24/7] (spa5)  (Spanish) (Family)</display-name>
+ <display-name>Talanga TV Canal 39 (480p) [Not 24/7] (spa6)  (Spanish) (Family)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TalangaTVCanal39.hn@SD">
- <title>Talanga TV Canal 39 (480p) [Not 24/7] (spa5)  (Spanish) (Family)</title>
+ <title>Talanga TV Canal 39 (480p) [Not 24/7] (spa6)  (Spanish) (Family)</title>
  <desc>TalangaTVCanal39.hn@SD</desc>
  </programme>
  <channel id="TAMTV.ve@SD">
- <display-name>TAM TV (720p) (spa5)  (Spanish) (General)</display-name>
+ <display-name>TAM TV (720p) (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TAMTV.ve@SD">
- <title>TAM TV (720p) (spa5)  (Spanish) (General)</title>
+ <title>TAM TV (720p) (spa6)  (Spanish) (General)</title>
  <desc>TAMTV.ve@SD</desc>
  </programme>
  <channel id="Taroteame.es@SD">
- <display-name>Tarotéame (576p) (spa5)  (Spanish) (Religious)</display-name>
+ <display-name>Tarotéame (576p) (spa6)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Taroteame.es@SD">
- <title>Tarotéame (576p) (spa5)  (Spanish) (Religious)</title>
+ <title>Tarotéame (576p) (spa6)  (Spanish) (Religious)</title>
  <desc>Taroteame.es@SD</desc>
  </programme>
  <channel id="TastemadeenEspanol.us@SD">
- <display-name>Tastemade en Espanol (1080p) [Geo-blocked] (spa5)  (Spanish) (Cooking)</display-name>
+ <display-name>Tastemade en Espanol (1080p) [Geo-blocked] (spa6)  (Spanish) (Cooking)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TastemadeenEspanol.us@SD">
- <title>Tastemade en Espanol (1080p) [Geo-blocked] (spa5)  (Spanish) (Cooking)</title>
+ <title>Tastemade en Espanol (1080p) [Geo-blocked] (spa6)  (Spanish) (Cooking)</title>
  <desc>TastemadeenEspanol.us@SD</desc>
  </programme>
  <channel id="TBNEspana.es@SD">
@@ -29128,10 +29233,10 @@
  <desc>TelemundoCorpusChristi.us@SD</desc>
  </programme>
  <channel id="TelemundoInternacional.us@South">
- <display-name>Telemundo Internacional (480p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>Telemundo Internacional (720p) (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TelemundoInternacional.us@South">
- <title>Telemundo Internacional (480p) (spa6)  (Spanish) (General)</title>
+ <title>Telemundo Internacional (720p) (spa6)  (Spanish) (General)</title>
  <desc>TelemundoInternacional.us@South</desc>
  </programme>
  <channel id="TelemundoInternacional.us@CentralAmerica">
@@ -29715,6 +29820,13 @@
  <title>Trece (720p) (spa6)  (Spanish) (General)</title>
  <desc>Trece.co@SD</desc>
  </programme>
+ <channel id="Trece.py@SD">
+ <display-name>Trece (1080p) (spa6)  (Spanish) (General)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Trece.py@SD">
+ <title>Trece (1080p) (spa6)  (Spanish) (General)</title>
+ <desc>Trece.py@SD</desc>
+ </programme>
  <channel id="Trece.es@SD">
  <display-name>Trece TV (576p) (spa6)  (Spanish) (Religious)</display-name>
  </channel>
@@ -30066,101 +30178,101 @@
  <desc>TVGetsemani.sv@SD</desc>
  </programme>
  <channel id="TVGuanajuato.mx@SD">
- <display-name>TV Guanajuato (720p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Guanajuato (720p) (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVGuanajuato.mx@SD">
- <title>TV Guanajuato (720p) (spa6)  (Spanish) (General)</title>
+ <title>TV Guanajuato (720p) (spa7)  (Spanish) (General)</title>
  <desc>TVGuanajuato.mx@SD</desc>
  </programme>
  <channel id="TVHigueyDigital.do@SD">
- <display-name>TV Higuey Digital (720p) [Not 24/7] (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Higuey Digital (720p) [Not 24/7] (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVHigueyDigital.do@SD">
- <title>TV Higuey Digital (720p) [Not 24/7] (spa6)  (Spanish) (General)</title>
+ <title>TV Higuey Digital (720p) [Not 24/7] (spa7)  (Spanish) (General)</title>
  <desc>TVHigueyDigital.do@SD</desc>
  </programme>
  <channel id="TVHispanic.us@SD">
- <display-name>TV Hispanic [Not 24/7] (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Hispanic [Not 24/7] (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVHispanic.us@SD">
- <title>TV Hispanic [Not 24/7] (spa6)  (Spanish) (General)</title>
+ <title>TV Hispanic [Not 24/7] (spa7)  (Spanish) (General)</title>
  <desc>TVHispanic.us@SD</desc>
  </programme>
  <channel id="TVIndependencia.mx@SD">
- <display-name>TV Independencia (1080p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Independencia (1080p) (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVIndependencia.mx@SD">
- <title>TV Independencia (1080p) (spa6)  (Spanish) (General)</title>
+ <title>TV Independencia (1080p) (spa7)  (Spanish) (General)</title>
  <desc>TVIndependencia.mx@SD</desc>
  </programme>
  <channel id="TVLegislativa.ec@SD">
- <display-name>TV Legislativa (1080p) [Not 24/7] (spa6)  (Spanish) (Legislative)</display-name>
+ <display-name>TV Legislativa (1080p) [Not 24/7] (spa7)  (Spanish) (Legislative)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVLegislativa.ec@SD">
- <title>TV Legislativa (1080p) [Not 24/7] (spa6)  (Spanish) (Legislative)</title>
+ <title>TV Legislativa (1080p) [Not 24/7] (spa7)  (Spanish) (Legislative)</title>
  <desc>TVLegislativa.ec@SD</desc>
  </programme>
  <channel id="TVLeondeJuda.sv@SD">
- <display-name>TV León de Judá (720p) (spa6)  (Spanish) (Religious)</display-name>
+ <display-name>TV León de Judá (720p) (spa7)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVLeondeJuda.sv@SD">
- <title>TV León de Judá (720p) (spa6)  (Spanish) (Religious)</title>
+ <title>TV León de Judá (720p) (spa7)  (Spanish) (Religious)</title>
  <desc>TVLeondeJuda.sv@SD</desc>
  </programme>
  <channel id="TVLibertad.mx@SD">
- <display-name>TV Libertad (720p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Libertad (720p) (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVLibertad.mx@SD">
- <title>TV Libertad (720p) (spa6)  (Spanish) (General)</title>
+ <title>TV Libertad (720p) (spa7)  (Spanish) (General)</title>
  <desc>TVLibertad.mx@SD</desc>
  </programme>
  <channel id="TVLobo.mx@SD">
- <display-name>TV Lobo Durango (720p) (spa6)  (Spanish) (Undefined)</display-name>
+ <display-name>TV Lobo Durango (720p) (spa7)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVLobo.mx@SD">
- <title>TV Lobo Durango (720p) (spa6)  (Spanish) (Undefined)</title>
+ <title>TV Lobo Durango (720p) (spa7)  (Spanish) (Undefined)</title>
  <desc>TVLobo.mx@SD</desc>
  </programme>
  <channel id="TVLuz.do@SD">
- <display-name>TV Luz (480p) (spa6)  (Spanish) (Religious)</display-name>
+ <display-name>TV Luz (480p) (spa7)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVLuz.do@SD">
- <title>TV Luz (480p) (spa6)  (Spanish) (Religious)</title>
+ <title>TV Luz (480p) (spa7)  (Spanish) (Religious)</title>
  <desc>TVLuz.do@SD</desc>
  </programme>
  <channel id="TVManaArgentina.ar@SD">
- <display-name>TV Maná Argentina (576p) [Not 24/7] (spa6)  (Spanish) (Religious)</display-name>
+ <display-name>TV Maná Argentina (576p) [Not 24/7] (spa7)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVManaArgentina.ar@SD">
- <title>TV Maná Argentina (576p) [Not 24/7] (spa6)  (Spanish) (Religious)</title>
+ <title>TV Maná Argentina (576p) [Not 24/7] (spa7)  (Spanish) (Religious)</title>
  <desc>TVManaArgentina.ar@SD</desc>
  </programme>
  <channel id="TVManaEspanhol.pt@SD">
- <display-name>TV Maná Español (1080p) (spa6)  (Spanish) (Religious)</display-name>
+ <display-name>TV Maná Español (1080p) (spa7)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVManaEspanhol.pt@SD">
- <title>TV Maná Español (1080p) (spa6)  (Spanish) (Religious)</title>
+ <title>TV Maná Español (1080p) (spa7)  (Spanish) (Religious)</title>
  <desc>TVManaEspanhol.pt@SD</desc>
  </programme>
  <channel id="TVMarLaPaz.mx@SD">
- <display-name>TV Mar La Paz (1080p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Mar La Paz (1080p) (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVMarLaPaz.mx@SD">
- <title>TV Mar La Paz (1080p) (spa6)  (Spanish) (General)</title>
+ <title>TV Mar La Paz (1080p) (spa7)  (Spanish) (General)</title>
  <desc>TVMarLaPaz.mx@SD</desc>
  </programme>
  <channel id="TVMarLosCabos.mx@SD">
- <display-name>TV Mar Los Cabos (1080p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Mar Los Cabos (1080p) (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVMarLosCabos.mx@SD">
- <title>TV Mar Los Cabos (1080p) (spa6)  (Spanish) (General)</title>
+ <title>TV Mar Los Cabos (1080p) (spa7)  (Spanish) (General)</title>
  <desc>TVMarLosCabos.mx@SD</desc>
  </programme>
  <channel id="TVMarPuertoVallarta.mx@SD">
- <display-name>TV Mar Puerto Vallarta (1080p) (spa6)  (Spanish) (General)</display-name>
+ <display-name>TV Mar Puerto Vallarta (1080p) (spa7)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TVMarPuertoVallarta.mx@SD">
- <title>TV Mar Puerto Vallarta (1080p) (spa6)  (Spanish) (General)</title>
+ <title>TV Mar Puerto Vallarta (1080p) (spa7)  (Spanish) (General)</title>
  <desc>TVMarPuertoVallarta.mx@SD</desc>
  </programme>
  <channel id="TVMaria.gt@SD">
@@ -30603,6 +30715,13 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TyCSports.ar@SD">
  <title>TyC Sports (1080p) [Geo-blocked] (spa7)  (Spanish) (Sports)</title>
  <desc>TyCSports.ar@SD</desc>
+ </programme>
+ <channel id="TyCSportsLatinAmerica.ar@Panregional">
+ <display-name>TyC Sports Latin America (1080p) (spa7)  (Spanish) (Sports)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="TyCSportsLatinAmerica.ar@Panregional">
+ <title>TyC Sports Latin America (1080p) (spa7)  (Spanish) (Sports)</title>
+ <desc>TyCSportsLatinAmerica.ar@Panregional</desc>
  </programme>
  <channel id="ULosLagosTV.cl@SD">
  <display-name>U Los Lagos TV (1080p) [Not 24/7] (spa7)  (Spanish) (Undefined)</display-name>
@@ -31815,6 +31934,13 @@
  <title>Disney Channel (576p) (por1)  (Portuguese) (Kids)</title>
  <desc>DisneyChannel.pt@SD</desc>
  </programme>
+ <channel id="DisneyChannelLatinAmerica.ar@Panregional">
+ <display-name>Disney Channel Latin America (1080p) (por1)  (Portuguese) (Animation) (Kids)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="DisneyChannelLatinAmerica.ar@Panregional">
+ <title>Disney Channel Latin America (1080p) (por1)  (Portuguese) (Animation) (Kids)</title>
+ <desc>DisneyChannelLatinAmerica.ar@Panregional</desc>
+ </programme>
  <channel id="ElementalChannel.br@SD">
  <display-name>Elemental Channel (1080p) (por1)  (Portuguese) (Entertainment)</display-name>
  </channel>
@@ -32493,13 +32619,6 @@
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="RTPAfrica.pt@SD">
  <title>RTP África (504p) [Not 24/7] (por1)  (Portuguese) (General)</title>
  <desc>RTPAfrica.pt@SD</desc>
- </programme>
- <channel id="RTPInternacional.pt@SD">
- <display-name>RTP Internacional (1080p) [Geo-Blocked] (por1)  (Portuguese) (General)</display-name>
- </channel>
- <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="RTPInternacional.pt@SD">
- <title>RTP Internacional (1080p) [Geo-Blocked] (por1)  (Portuguese) (General)</title>
- <desc>RTPInternacional.pt@SD</desc>
  </programme>
  <channel id="RTPMadeira.pt@SD">
  <display-name>RTP Madeira (504p) [Not 24/7] (por1)  (Portuguese) (General)</display-name>
@@ -41664,6 +41783,13 @@
  <title>Polsat (1080p) [Geo-blocked] (pol1)  (Polish) (General)</title>
  <desc>Polsat.pl@SD</desc>
  </programme>
+ <channel id="Polsat1.pl@SD">
+ <display-name>Polsat 1 (1080p) (pol1)  (Polish) (General)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="Polsat1.pl@SD">
+ <title>Polsat 1 (1080p) (pol1)  (Polish) (General)</title>
+ <desc>Polsat1.pl@SD</desc>
+ </programme>
  <channel id="PolsatJimJam.pl@SD">
  <display-name>Polsat JimJam (576p) (pol1)  (Polish) (Kids)</display-name>
  </channel>
@@ -41685,12 +41811,33 @@
  <title>Polsat News Polityka (1080p) [Geo-blocked] (pol1)  (Polish) (News)</title>
  <desc>PolsatNewsPolityka.pl@SD</desc>
  </programme>
+ <channel id="PolsatReality.pl@SD">
+ <display-name>Polsat Reality (1080p) (pol1)  (Polish) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PolsatReality.pl@SD">
+ <title>Polsat Reality (1080p) (pol1)  (Polish) (Entertainment)</title>
+ <desc>PolsatReality.pl@SD</desc>
+ </programme>
+ <channel id="PolsatSeriale.pl@SD">
+ <display-name>Polsat Seriale (1080p) (pol1)  (Polish) (Series)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PolsatSeriale.pl@SD">
+ <title>Polsat Seriale (1080p) (pol1)  (Polish) (Series)</title>
+ <desc>PolsatSeriale.pl@SD</desc>
+ </programme>
  <channel id="PolsatSport1.pl@SD">
  <display-name>Polsat Sport 1 (1080p) [Geo-blocked] (pol1)  (Polish) (Undefined)</display-name>
  </channel>
  <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PolsatSport1.pl@SD">
  <title>Polsat Sport 1 (1080p) [Geo-blocked] (pol1)  (Polish) (Undefined)</title>
  <desc>PolsatSport1.pl@SD</desc>
+ </programme>
+ <channel id="PolsatSportPremium2.pl@SD">
+ <display-name>Polsat Sport Premium 2 (1080p) (pol1)  (Polish) (Sports)</display-name>
+ </channel>
+ <programme start="20260406000000 +0000" stop="20260408000000 +0000" channel="PolsatSportPremium2.pl@SD">
+ <title>Polsat Sport Premium 2 (1080p) (pol1)  (Polish) (Sports)</title>
+ <desc>PolsatSportPremium2.pl@SD</desc>
  </programme>
  <channel id="PolsatViasatExplore.pl@SD">
  <display-name>Polsat Viasat Explore (1080p) (pol1)  (Polish) (Documentary)</display-name>
