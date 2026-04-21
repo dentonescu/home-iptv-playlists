@@ -86,6 +86,8 @@ https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="111TV.it@SD" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="English;General",111 TV (720p) (eng1)  (English) (General)
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="English;Movies",&flix HD (1080p) (eng1)  (English) (Movies)
+http://103.154.3.101:5001/live/1322.m3u8
 #EXTINF:-1 tvg-id="A2iTV.it@SD" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="English;General",A2i TV (1080p) (eng1)  (English) (General)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="English;Entertainment",A&E East (720p) [Not 24/7] (eng1)  (English) (Entertainment)
@@ -152,6 +154,8 @@ https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="WPLG101.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png" group-title="English;News",ABC (WPLG-DT1) Miami FL (720p) (eng1)  (English) (News)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+#EXTINF:-1 tvg-id="ABCAustralia.au@SD" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="English;General",ABC Australia (1080p) (eng1)  (English) (General)
+http://103.154.3.101:5001/live/2782.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="English;Education;Kids",ABC Entertains (720p) (eng1)  (English) (Education) (Kids)
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="English;Kids",ABC Kids (eng1)  (English) (Kids)
@@ -475,9 +479,9 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="English;Culture;Documentary",BBC Four HD (1080p) [Geo-blocked] (eng1)  (English) (Culture) (Documentary)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="English;Culture;Documentary",BBC Four UK HD (eng1)  (English) (Culture) (Documentary)
+#EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="English;Culture;Documentary",BBC Four UK HD (eng2)  (English) (Culture) (Documentary)
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="English;Animation;General;Kids",BBC Four/CBeebies (1080p) [Geo-Blocked] (eng1)  (English) (Animation) (General) (Kids)
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="English;Animation;General;Kids",BBC Four/CBeebies (1080p) [Geo-Blocked] (eng2)  (English) (Animation) (General) (Kids)
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us@SD" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="English;Lifestyle",BBC Home & Garden (1080p) (eng2)  (English) (Lifestyle)
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
@@ -726,8 +730,6 @@ https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 tvg-id="BOKTV.za@SD" tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="English;Music",BOKTV (720p) [Not 24/7] (eng2)  (English) (Music)
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="English;Movies",Bollywood HD (1080p) (eng2)  (English) (Movies)
-http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us@SD" tvg-logo="https://i.imgur.com/tUgEAUJ.png" group-title="English;Education",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p) (eng2)  (English) (Education)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="CVCGovernment.us@SD" tvg-logo="https://i.imgur.com/qLJhNhq.png" group-title="English;Legislative",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p) (eng2)  (English) (Legislative)
@@ -956,7 +958,7 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png" group-title="English;Documentary",CGTN Documentary (eng2)  (English) (Documentary)
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNEurope.uk@SD" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="English;News",CGTN Europe (eng2)  (English) (News)
+#EXTINF:-1 tvg-id="CGTNEurope.uk@SD" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="English;News",CGTN Europe (eng3)  (English) (News)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn@SD" tvg-logo="https://i.imgur.com/qBmomnF.png" group-title="English;Business",CGTN Global Biz (1080p) (eng3)  (English) (Business)
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
@@ -1122,6 +1124,8 @@ https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playl
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ColorBlindTV.bz@SD" tvg-logo="https://i.imgur.com/vlVZa7N.png" group-title="English;Entertainment",Color Blind TV (1080p) (eng3)  (English) (Entertainment)
 https://streamer2.nexgen.bz/12-CBTV/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="English;Entertainment",Colors Infinity (576p) (eng3)  (English) (Entertainment)
+http://103.154.3.101:5001/live/1325.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="English;Entertainment",Colors Infinity HD (1080p) (eng3)  (English) (Entertainment)
 http://103.229.254.25:7001/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="English;Comedy",Comedy Central (1080p) (eng3)  (English) (Comedy)
@@ -1435,9 +1439,9 @@ https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="English;News",Euronews (720p) (eng3)  (English) (News)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=OUBOiYANcV0
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English;News",Euronews English HD (eng3)  (English) (News)
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English;News",Euronews English HD (eng4)  (English) (News)
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@English" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English;Religious",EWTN (720p) [Geo-blocked] (eng3)  (English) (Religious)
+#EXTINF:-1 tvg-id="EWTN.us@English" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English;Religious",EWTN (720p) [Geo-blocked] (eng4)  (English) (Religious)
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="English;Religious",EWTN Africa-Asia (720p) (eng4)  (English) (Religious)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
@@ -1813,6 +1817,8 @@ https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="English;Documentary",History Hit (1080p) (eng4)  (English) (Documentary)
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="English;Documentary",History TV18 (576p) (eng4)  (English) (Documentary)
+http://103.154.3.101:5001/live/1471.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="English;Documentary",History TV18 HD (1080p) (eng4)  (English) (Documentary)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 #EXTINF:-1 tvg-id="HitzTV.bz@SD" tvg-logo="https://i.imgur.com/SbZgsDh.png" group-title="English;Music",Hitz TV (1080p) (eng4)  (English) (Music)
@@ -1913,11 +1919,11 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 #EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD" tvg-logo="https://i.imgur.com/9EWffqx.png" group-title="English;Series",Impossible Quiz Show (1080p) (eng4)  (English) (Series)
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IntheKitchen.us@SD" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="English;Cooking;Shop",In the kitchen (720p) (eng4)  (English) (Cooking) (Shop)
+#EXTINF:-1 tvg-id="IntheKitchen.us@SD" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="English;Cooking;Shop",In the kitchen (720p) (eng5)  (English) (Cooking) (Shop)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-#EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="https://i.imgur.com/hBkTmf9.png" group-title="English;News",India Ahead (576p) (eng4)  (English) (News)
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="https://i.imgur.com/hBkTmf9.png" group-title="English;News",India Ahead (576p) (eng5)  (English) (News)
 https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="English;News",India Today (720p) [Not 24/7] (eng4)  (English) (News)
+#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="English;News",India Today (720p) [Not 24/7] (eng5)  (English) (News)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="English;Movies;News",Indywood TV (720p) (eng5)  (English) (Movies) (News)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
@@ -2018,8 +2024,6 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="English;Lifestyle",Kaloopy (720p) (eng5)  (English) (Lifestyle)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="English;General",Kantipur TV (1080p) (eng5)  (English) (General)
-https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="English;Kids",Kartoon Channel (1080p) (eng5)  (English) (Kids)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KassTV.ke@SD" tvg-logo="https://i.imgur.com/MW8wZ5v.png" group-title="English;General",Kass TV (720p) [Not 24/7] (eng5)  (English) (General)
@@ -2322,6 +2326,8 @@ https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lex
 http://103.250.28.74:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="LuckyDog.us@SD" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="English;Documentary",Lucky Dog (720p) (eng5)  (English) (Documentary)
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="English;Lifestyle",Luxe TV (1080p) (eng5)  (English) (Lifestyle)
+http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-id="MadDogandMerrill.us@SD" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="English;Cooking",Mad Dog and Merrill (540p) [Not 24/7] (eng5)  (English) (Cooking)
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="English;Religious",Madani Channel English (720p) (eng5)  (English) (Religious)
@@ -2392,11 +2398,11 @@ https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="MidnightPulp.us@SD" tvg-logo="" group-title="English;Entertainment",Midnight Pulp (1080p) (eng5)  (English) (Entertainment)
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="English;Culture",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) (eng5)  (English) (Culture)
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="English;Culture",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) (eng6)  (English) (Culture)
 https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="English;Culture",Midpen Media Center Diversity and Culture Channel 75 (720p) (eng5)  (English) (Culture)
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="English;Culture",Midpen Media Center Diversity and Culture Channel 75 (720p) (eng6)  (English) (Culture)
 https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="English;Undefined",Midpen Media Center Government etc Channel 26 (720p) (eng5)  (English) (Undefined)
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="English;Undefined",Midpen Media Center Government etc Channel 26 (720p) (eng6)  (English) (Undefined)
 https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="English;Legislative",Midpen Media Center Government etc Channel 29 (720p) (eng6)  (English) (Legislative)
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
@@ -2770,7 +2776,7 @@ https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="English;Kids",Nick Germany (1080p) [Geo-blocked] (eng6)  (English) (Kids)
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="English;Kids",Nick HD+ (1080p) (eng6)  (English) (Kids)
-http://116.90.120.151:8000/play/a0i3/index.m3u8
+http://103.154.3.101:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" group-title="English;Kids",Nick Jr. (576p) (eng6)  (English) (Kids)
 http://103.154.3.101:5001/live/544.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-logo="https://i.imgur.com/08ZUI9k.png" group-title="English;Comedy;Kids",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked] (eng6)  (English) (Comedy) (Kids)
@@ -2873,11 +2879,11 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
 #EXTINF:-1 tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" http-referrer="https://rtm-player.glueapi.io/" group-title="English;General",Okey [Geo-blocked] (eng6)  (English) (General)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-id="Olelo49.us@SD" tvg-logo="https://i.imgur.com/4C5Xp8M.png" group-title="English;Legislative",Olelo Community Media Channel 49 (720p) (eng6)  (English) (Legislative)
+#EXTINF:-1 tvg-id="Olelo49.us@SD" tvg-logo="https://i.imgur.com/4C5Xp8M.png" group-title="English;Legislative",Olelo Community Media Channel 49 (720p) (eng7)  (English) (Legislative)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
-#EXTINF:-1 tvg-id="Olelo53.us@SD" tvg-logo="https://i.imgur.com/xDuUrj9.png" group-title="English;Culture",Olelo Community Media Channel 53 (720p) (eng6)  (English) (Culture)
+#EXTINF:-1 tvg-id="Olelo53.us@SD" tvg-logo="https://i.imgur.com/xDuUrj9.png" group-title="English;Culture",Olelo Community Media Channel 53 (720p) (eng7)  (English) (Culture)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
-#EXTINF:-1 tvg-id="Olelo54.us@SD" tvg-logo="https://i.imgur.com/8BG31QL.png" group-title="English;Legislative",Olelo Community Media Channel 54 (720p) (eng6)  (English) (Legislative)
+#EXTINF:-1 tvg-id="Olelo54.us@SD" tvg-logo="https://i.imgur.com/8BG31QL.png" group-title="English;Legislative",Olelo Community Media Channel 54 (720p) (eng7)  (English) (Legislative)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 tvg-id="Olelo55.us@SD" tvg-logo="https://i.imgur.com/0qe2R8b.png" group-title="English;Entertainment",Olelo Community Media Channel 55 (720p) (eng7)  (English) (Entertainment)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
@@ -3353,11 +3359,11 @@ https://tixbolt.com/royaltv/index.fmp4.m3u8
 http://103.250.28.74:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="RSILa1.ch@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/960px-RSI_La_1_2012.svg.png" group-title="English;Undefined",RSI La 1 (1080p) [Geo-Blocked] (eng7)  (English) (Undefined)
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSILa2.ch@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png" group-title="English;Undefined",RSI La 2 (1080p) [Geo-Blocked] (eng7)  (English) (Undefined)
+#EXTINF:-1 tvg-id="RSILa2.ch@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png" group-title="English;Undefined",RSI La 2 (1080p) [Geo-Blocked] (eng8)  (English) (Undefined)
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="English;Documentary",RT Documentary English (1080p) [Geo-blocked] (eng7)  (English) (Documentary)
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="English;Documentary",RT Documentary English (1080p) [Geo-blocked] (eng8)  (English) (Documentary)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="RTIndia.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="English;News",RT India (1080p) (eng7)  (English) (News)
+#EXTINF:-1 tvg-id="RTIndia.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="English;News",RT India (1080p) (eng8)  (English) (News)
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" http-referrer="https://odysee.com/" group-title="English;News",RT News (1080p) [Not 24/7] (eng8)  (English) (News)
 #EXTVLCOPT:http-referrer=https://odysee.com/
@@ -3614,7 +3620,7 @@ http://103.250.28.74:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="English;Movies",Star Movies HD (1080p) (eng8)  (English) (Movies)
 http://103.157.248.140:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="English;Sports",Star Sports 1 HD (1080p) (eng8)  (English) (Sports)
-http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-id="StarTrek.us@SD" tvg-logo="https://i.imgur.com/8cvXYiT.png" group-title="English;Series",Star Trek (eng8)  (English) (Series)
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-id="Starz.us@East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="English;Undefined",Starz (1080p) (eng8)  (English) (Undefined)
@@ -3833,11 +3839,11 @@ https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheConners.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="English;Comedy;Series",The Conners (1080p) [Geo-blocked] (eng8)  (English) (Comedy) (Series)
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCountryNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="English;Music",The Country Network (1080p) (eng8)  (English) (Music)
+#EXTINF:-1 tvg-id="TheCountryNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="English;Music",The Country Network (1080p) (eng9)  (English) (Music)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCyclingChannel.at@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="English;Sports",The Cycling Channel (eng8)  (English) (Sports)
+#EXTINF:-1 tvg-id="TheCyclingChannel.at@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="English;Sports",The Cycling Channel (eng9)  (English) (Sports)
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
-#EXTINF:-1 tvg-id="TheDesignNetwork.us@SD" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="English;Lifestyle",The Design Network (1080p) (eng8)  (English) (Lifestyle)
+#EXTINF:-1 tvg-id="TheDesignNetwork.us@SD" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="English;Lifestyle",The Design Network (1080p) (eng9)  (English) (Lifestyle)
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us@SD" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="English;Movies",The Film Detective (720p) (eng9)  (English) (Movies)
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
@@ -3918,6 +3924,8 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 tvg-id="TimesNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="English;News",Times Now News (720p) (eng9)  (English) (News)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-news/master.m3u8?ads.vf=yxbqJWPCXd4
+#EXTINF:-1 tvg-id="TimesNowWorld.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Times-Now-World-transparent.png" group-title="English;News",Times Now World (1080p) (eng9)  (English) (News)
+http://103.154.3.101:5001/live/876.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="English;Series",Tiny House Nation (1080p) (eng9)  (English) (Series)
 https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk@SD" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="English;Kids",Tiny Pop (1080p) (eng9)  (English) (Kids)
@@ -4090,10 +4098,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 #EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="English;Kids",TVCARiB Kids & Teens (720p) [Not 24/7] (eng9)  (English) (Kids)
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="English;Undefined",TVE Internacional Europe-Asia (720p) [Geo-Blocked] (eng9)  (English) (Undefined)
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="English;Undefined",TVE Internacional Europe-Asia HD (1080p) (eng9)  (English) (Undefined)
-https://siarlive.psce.pw/channel5
 #EXTINF:-1 tvg-id="TVJ.jm@SD" tvg-logo="https://i.imgur.com/R4PoC3L.png" group-title="English;General",TVJ (720p) [Not 24/7] (eng9)  (English) (General)
 https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
 #EXTINF:-1 tvg-id="TVM.mt@SD" tvg-logo="https://i.imgur.com/V0iMsED.png" group-title="English;General",TVM [Geo-blocked] (eng9)  (English) (General)
@@ -4314,9 +4318,9 @@ https://newproxy3.vidivu.tv/waptv/index.m3u8
 https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
 #EXTINF:-1 tvg-id="WAVETV.bz@SD" tvg-logo="https://i.imgur.com/V8Hfgis.jpg" group-title="English;Music",WAVE TV (480p) (eng9)  (English) (Music)
 https://streamer2.nexgen.bz/08-WAVE/index.m3u8
-#EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="English;Outdoor",Waypoint TV (1080p) (eng9)  (English) (Outdoor)
+#EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="English;Outdoor",Waypoint TV (1080p) (eng10)  (English) (Outdoor)
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng@SD" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="English;Undefined",Wazobia Max TV Abuja (720p) (eng9)  (English) (Undefined)
+#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng@SD" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="English;Undefined",Wazobia Max TV Abuja (720p) (eng10)  (English) (Undefined)
 https://wazobia.live:8333/channel/wmaxabuja.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng@SD" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="English;Undefined",Wazobia Max TV Nigeria (720p) (eng10)  (English) (Undefined)
 https://wazobia.live:8333/channel/wmax.m3u8
@@ -5736,8 +5740,6 @@ https://atomic.streamnet.ro/academia.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro@SD" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romanian;General",Banat TV (720p) (ron1)  (Romanian) (General)
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Romanian;Classic;Movies",Bollywood Classic (1080p) (ron1)  (Romanian) (Classic) (Movies)
-http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 #EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romanian;Undefined",Bucovina TV (576i) (ron1)  (Romanian) (Undefined)
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="BusuiocTV.md@SD" tvg-logo="https://i.imgur.com/CQtfBPu.png" group-title="Romanian;Music",Busuioc TV (540p) [Not 24/7] (ron1)  (Romanian) (Music)
@@ -5959,8 +5961,6 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://cdn.fastocloud.com/leonel.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Spanish;News",24/7 Canal de Noticias (spa1)  (Spanish) (News)
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spanish;News;Public",24 Horas Internacional [Geo-Blocked] (spa1)  (Spanish) (News) (Public)
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr@SD" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Spanish;Music",88 Stereo (720p) [Not 24/7] (spa1)  (Spanish) (Music)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="101tvAxarquia.es@SD" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Spanish;General",101tv Axarquia (480p) (spa1)  (Spanish) (General)
@@ -6382,8 +6382,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Televida.ar@SD" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Spanish;Undefined",Canal 9 Televida (spa1)  (Spanish) (Undefined)
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Spanish;General",Canal 10 (720p) [Geo-blocked] (spa1)  (Spanish) (General)
-https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
+#EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="Spanish;General",Canal 10 (720p) [Not 24/7] (spa1)  (Spanish) (General)
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="Spanish;General",Canal 10 (720p) (spa1)  (Spanish) (General)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx@SD" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Spanish;Undefined",Canal 10 Cancún (720p) [Not 24/7] (spa1)  (Spanish) (Undefined)
@@ -6400,7 +6400,7 @@ http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Spanish;General",Canal 11 (1080p) [Not 24/7] (spa1)  (Spanish) (General)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11delaCosta.ar@SD" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Spanish;Undefined",Canal 11 de la Costa (720p) (spa2)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="Canal11delaCosta.ar@SD" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Spanish;Undefined",Canal 11 de la Costa (720p) (spa1)  (Spanish) (Undefined)
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="Spanish;General",Canal 11 TuTV (349p) (spa2)  (Spanish) (General)
 https://stream.giostreaming.app/canal11/canal11.m3u8
@@ -6879,7 +6879,7 @@ https://tv.picta.cu/cvi/cvi_0.m3u8
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Spanish;Music",Cumbia Mix (720p) (spa2)  (Spanish) (Music)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-id="CupertinoCityChannel.us@SD" tvg-logo="https://i.imgur.com/p9Jn0Dy.png" group-title="Spanish;Legislative",Cupertino City Channel (720p) (spa3)  (Spanish) (Legislative)
+#EXTINF:-1 tvg-id="CupertinoCityChannel.us@SD" tvg-logo="https://i.imgur.com/p9Jn0Dy.png" group-title="Spanish;Legislative",Cupertino City Channel (720p) (spa2)  (Spanish) (Legislative)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD" tvg-logo="https://i.imgur.com/oukGx28.png" group-title="Spanish;General",Curiquingue TV (720p) (spa3)  (Spanish) (General)
 https://video2.lhdserver.es/pjtv/live.m3u8
@@ -7360,7 +7360,7 @@ https://servilive.com:3028/live/jntv19live.m3u8
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-id="JPDTV.do@HD" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="Spanish;General",JPD TV [Not 24/7] (spa3)  (Spanish) (General)
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
-#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Spanish;Religious",Júbilo TV (720p) (spa4)  (Spanish) (Religious)
+#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Spanish;Religious",Júbilo TV (720p) (spa3)  (Spanish) (Religious)
 https://stream.oursnetworktv.com/latin/jubilotv/playlist.m3u8
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="Spanish;General",Junior Technologia TV (1080p) [Not 24/7] (spa4)  (Spanish) (General)
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
@@ -7840,7 +7840,7 @@ https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Spanish;News",Noticiero 90 Minutos (1080p) (spa4)  (Spanish) (News)
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="Spanish;General",Notigram TV (XHFGL-TDT) (1080p) (spa5)  (Spanish) (General)
+#EXTINF:-1 tvg-id="XHFGLTDT.mx@SD" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="Spanish;General",Notigram TV (XHFGL-TDT) (1080p) (spa4)  (Spanish) (General)
 https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 #EXTINF:-1 tvg-id="NotisurTV.do@HD" tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="Spanish;General",Notisur TV [Not 24/7] (spa5)  (Spanish) (General)
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
@@ -8319,7 +8319,7 @@ https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-#EXTINF:-1 tvg-id="SimavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="Spanish;General",Sima Vision TV (720p) (spa6)  (Spanish) (General)
+#EXTINF:-1 tvg-id="SimavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="Spanish;General",Sima Vision TV (720p) (spa5)  (Spanish) (General)
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="SIPSETV81.mx@SD" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Spanish;General",SIPSE TV 8.1 (1080p) [Not 24/7] (spa6)  (Spanish) (General)
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
@@ -8575,8 +8575,8 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-id="Telemar.ec@SD" tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Spanish;General",Telemar (720p) (spa6)  (Spanish) (General)
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Spanish;Entertainment",TeleMas (480p) [Geo-blocked] (spa6)  (Spanish) (Entertainment)
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+#EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Spanish;Entertainment",TeleMas (720p) [Not 24/7] (spa6)  (Spanish) (Entertainment)
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Spanish;General",Telemás (720p) (spa6)  (Spanish) (General)
 https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Spanish;Undefined",Telemax (spa6)  (Spanish) (Undefined)
@@ -8800,7 +8800,7 @@ https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Spanish;General",Trivu (1080p) [Not 24/7] (spa7)  (Spanish) (General)
+#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Spanish;General",Trivu (1080p) [Not 24/7] (spa6)  (Spanish) (General)
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-id="TropiQ997FM.pa@SD" tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="Spanish;Music",Tropi Q 99.7 FM (1080p) (spa7)  (Spanish) (Music)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
@@ -8995,10 +8995,6 @@ https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Spanish;Undefined",TVE Internacional Asia-Oceania (1080p) [Geo-blocked] (spa7)  (Spanish) (Undefined)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Spanish;Undefined",TVE Internacional Europe-Asia (720p) [Geo-Blocked] (spa7)  (Spanish) (Undefined)
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Spanish;Undefined",TVE Internacional Europe-Asia HD (1080p) (spa7)  (Spanish) (Undefined)
-https://siarlive.psce.pw/channel5
 #EXTINF:-1 tvg-id="TVEStar.es@SD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Spanish;Series",TVE Star (576p) (spa7)  (Spanish) (Series)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Spanish;Series",TVE Star HD (1080p) (spa7)  (Spanish) (Series)
@@ -9279,11 +9275,11 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:-1 tvg-id="WWXYDT3.pr@SD" tvg-logo="https://i.imgur.com/lAhIGsI.png" group-title="Spanish;Religious",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7] (spa7)  (Spanish) (Religious)
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:-1 tvg-id="WXWZLD231.pr@HD" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="Spanish;Undefined",WXWZ-LD1 (MásTV Canal 23) (720p) (spa8)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="WXWZLD231.pr@HD" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="Spanish;Undefined",WXWZ-LD1 (MásTV Canal 23) (720p) (spa7)  (Spanish) (Undefined)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:-1 tvg-id="Zeta93.pr@SD" tvg-logo="https://i.ibb.co/KzqWLZR/images-57.jpg" group-title="Spanish;Music",WZNT (Zeta 93) (1080p) [Not 24/7] (spa8)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="Zeta93.pr@SD" tvg-logo="https://i.ibb.co/KzqWLZR/images-57.jpg" group-title="Spanish;Music",WZNT (Zeta 93) (1080p) [Not 24/7] (spa7)  (Spanish) (Music)
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
-#EXTINF:-1 tvg-id="XLevelMedia.ar@SD" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="Spanish;Music",X Level Media (1080p) (spa8)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="XLevelMedia.ar@SD" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="Spanish;Music",X Level Media (1080p) (spa7)  (Spanish) (Music)
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="XITENuevoLatino.us@SD" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="Spanish;Music",XITE Nuevo Latino (1080p) (spa8)  (Spanish) (Music)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
@@ -10901,6 +10897,8 @@ https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-id="LougaTV.sn@SD" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" group-title="French;General",Louga TV (480p) (fra1)  (French) (General)
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="French;Lifestyle",Luxe TV (1080p) (fra1)  (French) (Lifestyle)
+http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-id="LyonCapitaleTV.fr@SD" tvg-logo="https://i.imgur.com/4WfnEaj.png" group-title="French;News",Lyon Capitale TV (180p) (fra1)  (French) (News)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
 #EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="French;Entertainment",M6 (720p) [Geo-blocked] [Geo-Blocked] (fra1)  (French) (Entertainment)
@@ -10967,7 +10965,7 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
 #EXTINF:-1 tvg-id="NCI.ci@SD" tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="French;General",NCI (1080p) (fra1)  (French) (General)
 https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="NetalkoleTV.ht@SD" tvg-logo="https://i.imgur.com/SdVrpzY.png" group-title="French;General",NETALKOLE TV (720p) [Not 24/7] (fra1)  (French) (General)
+#EXTINF:-1 tvg-id="NetalkoleTV.ht@SD" tvg-logo="https://i.imgur.com/SdVrpzY.png" group-title="French;General",NETALKOLE TV (720p) [Not 24/7] (fra2)  (French) (General)
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="French;Kids",Nickelodeon (1080p) (fra2)  (French) (Kids)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
@@ -11468,6 +11466,8 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Russian;Outdoor",Love Nature (1080p) (rus1)  (Russian) (Outdoor)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu@SD" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Russian;Lifestyle",Luxe TV (1080p) (rus1)  (Russian) (Lifestyle)
+http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-id="MakonTV.uz@SD" tvg-logo="https://i.imgur.com/vCc0ED1.png" group-title="Russian;Entertainment",Makon TV (576i) (rus1)  (Russian) (Entertainment)
 https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Russian;Religious",Maná Tserkov' Onlayn (1080p) [Not 24/7] (rus1)  (Russian) (Religious)
@@ -11824,7 +11824,7 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 #EXTINF:-1 tvg-id="NovyiRusskii.ru@HD" tvg-logo="https://i.imgur.com/iuRSScH.png" group-title="Russian;Movies",Новый Русский (720p) (rus1)  (Russian) (Movies)
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="Russian;Classic",Ностальгия (576p) (rus1)  (Russian) (Classic)
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="Russian;Classic",Ностальгия (576p) (rus2)  (Russian) (Classic)
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Russian;General",НТВ (+4) (576p) (rus2)  (Russian) (General)
 http://31.148.48.15/NTV/index.m3u8
