@@ -2856,13 +2856,6 @@
  <title>Carlsbad City TV Channel (Carlsbad CA) (720p) (eng2)  (English) (General)</title>
  <desc>CityTVCarlsbad.us@SD</desc>
  </programme>
- <channel id="CarsTV.us@SD">
- <display-name>Cars.TV (eng2)  (English) (Auto)</display-name>
- </channel>
- <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="CarsTV.us@SD">
- <title>Cars.TV (eng2)  (English) (Auto)</title>
- <desc>CarsTV.us@SD</desc>
- </programme>
  <channel id="CartoonClassics.pl@FAST">
  <display-name>Cartoon Classics (1080p) (eng2)  (English) (Animation) (Kids)</display-name>
  </channel>
@@ -3312,10 +3305,10 @@
  <desc>CGTN.cn@SD</desc>
  </programme>
  <channel id="CGTNDocumentary.cn@SD">
- <display-name>CGTN Documentary (1080p) (eng3)  (English) (Documentary)</display-name>
+ <display-name>CGTN Documentary (1080p) (eng2)  (English) (Documentary)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="CGTNDocumentary.cn@SD">
- <title>CGTN Documentary (1080p) (eng3)  (English) (Documentary)</title>
+ <title>CGTN Documentary (1080p) (eng2)  (English) (Documentary)</title>
  <desc>CGTNDocumentary.cn@SD</desc>
  </programme>
  <channel id="CGTNDocumentary.tr@SD">
@@ -4978,10 +4971,10 @@
  <desc>EntrepreneurTV.us@SD</desc>
  </programme>
  <channel id="EquinoxeTV.cm@SD">
- <display-name>Equinoxe TV (720p) (eng4)  (English) (General)</display-name>
+ <display-name>Equinoxe TV (720p) (eng3)  (English) (General)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="EquinoxeTV.cm@SD">
- <title>Equinoxe TV (720p) (eng4)  (English) (General)</title>
+ <title>Equinoxe TV (720p) (eng3)  (English) (General)</title>
  <desc>EquinoxeTV.cm@SD</desc>
  </programme>
  <channel id="ERiTV1.er@SD">
@@ -5361,6 +5354,13 @@
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="FlicksofFury.us@SD">
  <title>Flicks of Fury (eng4)  (English) (Movies)</title>
  <desc>FlicksofFury.us@SD</desc>
+ </programme>
+ <channel id="FloHockey.us@HD">
+ <display-name>FloHockey 24/7 (1080p) (eng4)  (English) (Sports)</display-name>
+ </channel>
+ <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="FloHockey.us@HD">
+ <title>FloHockey 24/7 (1080p) (eng4)  (English) (Sports)</title>
+ <desc>FloHockey.us@HD</desc>
  </programme>
  <channel id="FloRacing.us@HD">
  <display-name>FloRacing 24/7 (1080p) (eng4)  (English) (Sports)</display-name>
@@ -9465,10 +9465,10 @@
  <desc>NBTV.us@SD</desc>
  </programme>
  <channel id="News9Live.in@SD">
- <display-name>News9Live (720p) (eng6)  (English) (News)</display-name>
+ <display-name>News9Live (1080p) (eng6)  (English) (News)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="News9Live.in@SD">
- <title>News9Live (720p) (eng6)  (English) (News)</title>
+ <title>News9Live (1080p) (eng6)  (English) (News)</title>
  <desc>News9Live.in@SD</desc>
  </programme>
  <channel id="News12PlusConnecticut.us@HD">
@@ -22029,6 +22029,13 @@
  <title>Canal 4 San Juan (576p) (spa1)  (Spanish) (Undefined)</title>
  <desc>Canal4SanJuan.ar@SD</desc>
  </programme>
+ <channel id="Canal5.mx@SD">
+ <display-name>Canal 5 (1080p) (spa1)  (Spanish) (General)</display-name>
+ </channel>
+ <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="Canal5.mx@SD">
+ <title>Canal 5 (1080p) (spa1)  (Spanish) (General)</title>
+ <desc>Canal5.mx@SD</desc>
+ </programme>
  <channel id="Canal5DelPueblo.ar@SD">
  <display-name>Canal 5 Del Pueblo [Not 24/7] (spa1)  (Spanish) (General)</display-name>
  </channel>
@@ -22261,10 +22268,10 @@
  <desc>Canal10Durango.mx@SD</desc>
  </programme>
  <channel id="Canal10SOLTV.co@SD">
- <display-name>Canal 10 SOL TV (1080p) (spa1)  (Spanish) (General)</display-name>
+ <display-name>Canal 10 SOL TV (1080p) (spa2)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="Canal10SOLTV.co@SD">
- <title>Canal 10 SOL TV (1080p) (spa1)  (Spanish) (General)</title>
+ <title>Canal 10 SOL TV (1080p) (spa2)  (Spanish) (General)</title>
  <desc>Canal10SOLTV.co@SD</desc>
  </programme>
  <channel id="Canal11.cr@SD">
@@ -23920,10 +23927,10 @@
  <desc>Cubavision.cu@SD</desc>
  </programme>
  <channel id="CubavisionInternacional.cu@SD">
- <display-name>Cubavision Internacional (480p) (spa2)  (Spanish) (General)</display-name>
+ <display-name>Cubavision Internacional (480p) (spa3)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="CubavisionInternacional.cu@SD">
- <title>Cubavision Internacional (480p) (spa2)  (Spanish) (General)</title>
+ <title>Cubavision Internacional (480p) (spa3)  (Spanish) (General)</title>
  <desc>CubavisionInternacional.cu@SD</desc>
  </programme>
  <channel id="CucutaRetroTV.co@SD">
@@ -25551,10 +25558,10 @@
  <desc>JN19.pe@SD</desc>
  </programme>
  <channel id="JosueTV.sv@SD">
- <display-name>Josué TV (1080p) (spa3)  (Spanish) (Religious)</display-name>
+ <display-name>Josué TV (1080p) (spa4)  (Spanish) (Religious)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="JosueTV.sv@SD">
- <title>Josué TV (1080p) (spa3)  (Spanish) (Religious)</title>
+ <title>Josué TV (1080p) (spa4)  (Spanish) (Religious)</title>
  <desc>JosueTV.sv@SD</desc>
  </programme>
  <channel id="JPDTV.do@HD">
@@ -27210,10 +27217,10 @@
  <desc>Nortevision.es@SD</desc>
  </programme>
  <channel id="Nortvision.ec@SD">
- <display-name>Nortvisión (720p) (spa4)  (Spanish) (General)</display-name>
+ <display-name>Nortvisión (720p) (spa5)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="Nortvision.ec@SD">
- <title>Nortvisión (720p) (spa4)  (Spanish) (General)</title>
+ <title>Nortvisión (720p) (spa5)  (Spanish) (General)</title>
  <desc>Nortvision.ec@SD</desc>
  </programme>
  <channel id="Noticias16.do@SD">
@@ -28855,10 +28862,10 @@
  <desc>XHUNESTDT.mx@SD</desc>
  </programme>
  <channel id="SenalPeruTV.pe@SD">
- <display-name>Señal Perú TV (404p) [Not 24/7] (spa5)  (Spanish) (Undefined)</display-name>
+ <display-name>Señal Perú TV (404p) [Not 24/7] (spa6)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="SenalPeruTV.pe@SD">
- <title>Señal Perú TV (404p) [Not 24/7] (spa5)  (Spanish) (Undefined)</title>
+ <title>Señal Perú TV (404p) [Not 24/7] (spa6)  (Spanish) (Undefined)</title>
  <desc>SenalPeruTV.pe@SD</desc>
  </programme>
  <channel id="SenalPositivaTV.ec@SD">
@@ -30430,10 +30437,10 @@
  <desc>Totalmusic.uk@HD</desc>
  </programme>
  <channel id="Totalmusic80s.uk@HD">
- <display-name>Totalmusic 80s (720p) (spa6)  (Spanish) (Music)</display-name>
+ <display-name>Totalmusic 80s (720p) (spa7)  (Spanish) (Music)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="Totalmusic80s.uk@HD">
- <title>Totalmusic 80s (720p) (spa6)  (Spanish) (Music)</title>
+ <title>Totalmusic 80s (720p) (spa7)  (Spanish) (Music)</title>
  <desc>Totalmusic80s.uk@HD</desc>
  </programme>
  <channel id="Totalmusic2000s.uk@HD">
@@ -32054,10 +32061,10 @@
  <desc>VTVValledeAconcagua.cl@SD</desc>
  </programme>
  <channel id="WAPATV41.pr@HD">
- <display-name>WAPA-DT1 [Not 24/7] (spa7)  (Spanish) (General)</display-name>
+ <display-name>WAPA-DT1 [Not 24/7] (spa8)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="WAPATV41.pr@HD">
- <title>WAPA-DT1 [Not 24/7] (spa7)  (Spanish) (General)</title>
+ <title>WAPA-DT1 [Not 24/7] (spa8)  (Spanish) (General)</title>
  <desc>WAPATV41.pr@HD</desc>
  </programme>
  <channel id="WDWL581.pr@HD">
@@ -32985,10 +32992,10 @@
  <desc>NickOnline.br@HD</desc>
  </programme>
  <channel id="NickOnlineSpongebob.br@HD">
- <display-name>NickOnline Spongebob (720p) [Not 24/7] (por1)  (Portuguese) (Animation) (Kids)</display-name>
+ <display-name>NickOnline Spongebob (1080p) [Not 24/7] (por1)  (Portuguese) (Animation) (Kids)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="NickOnlineSpongebob.br@HD">
- <title>NickOnline Spongebob (720p) [Not 24/7] (por1)  (Portuguese) (Animation) (Kids)</title>
+ <title>NickOnline Spongebob (1080p) [Not 24/7] (por1)  (Portuguese) (Animation) (Kids)</title>
  <desc>NickOnlineSpongebob.br@HD</desc>
  </programme>
  <channel id="NickToonsBrasil.br@SD">
@@ -43316,6 +43323,13 @@
  <title>Ellinikos FM (720p) (ell1)  (Greek) (Music)</title>
  <desc>EllinikosFM.gr@SD</desc>
  </programme>
+ <channel id="ENAChannel.gr@SD">
+ <display-name>ENA Channel (1080p) (ell1)  (Greek) (General)</display-name>
+ </channel>
+ <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="ENAChannel.gr@SD">
+ <title>ENA Channel (1080p) (ell1)  (Greek) (General)</title>
+ <desc>ENAChannel.gr@SD</desc>
+ </programme>
  <channel id="EpirusTV1.gr@SD">
  <display-name>Epirus TV1 (1080p) (ell1)  (Greek) (General)</display-name>
  </channel>
@@ -43337,13 +43351,6 @@
  <title>ERT2 (1080p) (ell1)  (Greek) (General)</title>
  <desc>ERT2.gr@SD</desc>
  </programme>
- <channel id="ERT2.gr@HD">
- <display-name>ERT2 HD (1080p) (ell1)  (Greek) (General)</display-name>
- </channel>
- <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="ERT2.gr@HD">
- <title>ERT2 HD (1080p) (ell1)  (Greek) (General)</title>
- <desc>ERT2.gr@HD</desc>
- </programme>
  <channel id="ERT3.gr@SD">
  <display-name>ERT3 (1080p) (ell1)  (Greek) (Entertainment)</display-name>
  </channel>
@@ -43351,12 +43358,12 @@
  <title>ERT3 (1080p) (ell1)  (Greek) (Entertainment)</title>
  <desc>ERT3.gr@SD</desc>
  </programme>
- <channel id="ERT3.gr@HD">
- <display-name>ERT3 HD (1080p) (ell1)  (Greek) (Entertainment)</display-name>
+ <channel id="ERTNews.gr@HD">
+ <display-name>ERT News HD (1080p) (ell1)  (Greek) (News)</display-name>
  </channel>
- <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="ERT3.gr@HD">
- <title>ERT3 HD (1080p) (ell1)  (Greek) (Entertainment)</title>
- <desc>ERT3.gr@HD</desc>
+ <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="ERTNews.gr@HD">
+ <title>ERT News HD (1080p) (ell1)  (Greek) (News)</title>
+ <desc>ERTNews.gr@HD</desc>
  </programme>
  <channel id="ERTSports1.gr@HD">
  <display-name>ERT Sports 1 (1080p) (ell1)  (Greek) (Sports)</display-name>
@@ -43730,10 +43737,10 @@
  <desc>TopChannel.gr@SD</desc>
  </programme>
  <channel id="TRT.gr@SD">
- <display-name>TRT (360p) (ell1)  (Greek) (News)</display-name>
+ <display-name>TRT (720p) (ell1)  (Greek) (News)</display-name>
  </channel>
  <programme start="20260501000000 +0000" stop="20260503000000 +0000" channel="TRT.gr@SD">
- <title>TRT (360p) (ell1)  (Greek) (News)</title>
+ <title>TRT (720p) (ell1)  (Greek) (News)</title>
  <desc>TRT.gr@SD</desc>
  </programme>
  <channel id="TV100.gr@SD">
