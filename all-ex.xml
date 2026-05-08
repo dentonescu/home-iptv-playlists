@@ -34048,13 +34048,6 @@
  <title>TV Gideoes (1080p) [Not 24/7] (por2)  (Portuguese) (Religious)</title>
  <desc>TVGideoes.br@SD</desc>
  </programme>
- <channel id="TVGrandeNatal.br@SD">
- <display-name>TV Grande Natal (1080p) (por2)  (Portuguese) (Entertainment)</display-name>
- </channel>
- <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="TVGrandeNatal.br@SD">
- <title>TV Grande Natal (1080p) (por2)  (Portuguese) (Entertainment)</title>
- <desc>TVGrandeNatal.br@SD</desc>
- </programme>
  <channel id="TVGraoPara.br@SD">
  <display-name>TV Grao Pará (720p) (por2)  (Portuguese) (General)</display-name>
  </channel>
@@ -40054,6 +40047,13 @@
  <title>STS Love (576i) (rus1)  (Russian) (Family)</title>
  <desc>STSLove.ru@SD</desc>
  </programme>
+ <channel id="Subbota.ru@SD">
+ <display-name>Subbota! (1080p) (rus1)  (Russian) (Undefined)</display-name>
+ </channel>
+ <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="Subbota.ru@SD">
+ <title>Subbota! (1080p) (rus1)  (Russian) (Undefined)</title>
+ <desc>Subbota.ru@SD</desc>
+ </programme>
  <channel id="TBNBaltia.ee@SD">
  <display-name>TBN Baltia (1080p) (rus1)  (Russian) (Religious)</display-name>
  </channel>
@@ -40179,6 +40179,13 @@
  <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="ViasatKinoAction.ua@SD">
  <title>Viasat Kino Action (576p) (rus1)  (Russian) (Movies)</title>
  <desc>ViasatKinoAction.ua@SD</desc>
+ </programme>
+ <channel id="vijuHistory.ru@SD">
+ <display-name>viju History (576p) (rus1)  (Russian) (Documentary)</display-name>
+ </channel>
+ <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="vijuHistory.ru@SD">
+ <title>viju History (576p) (rus1)  (Russian) (Documentary)</title>
+ <desc>vijuHistory.ru@SD</desc>
  </programme>
  <channel id="vijuTV1000russkoe.ru@SD">
  <display-name>viju TV1000 Русское (rus1)  (Russian) (Movies)</display-name>
@@ -40993,17 +41000,17 @@
  <desc>Nano.ru@HD</desc>
  </programme>
  <channel id="Nauka.ru@SD">
- <display-name>НАУКА (1080p) (rus1)  (Russian) (Documentary)</display-name>
+ <display-name>НАУКА (1080p) (rus2)  (Russian) (Documentary)</display-name>
  </channel>
  <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="Nauka.ru@SD">
- <title>НАУКА (1080p) (rus1)  (Russian) (Documentary)</title>
+ <title>НАУКА (1080p) (rus2)  (Russian) (Documentary)</title>
  <desc>Nauka.ru@SD</desc>
  </programme>
  <channel id="NVKSakha.ru@SD">
- <display-name>НВК Саха (1080p) [Not 24/7] (rus1)  (Russian) (General)</display-name>
+ <display-name>НВК Саха (1080p) [Not 24/7] (rus2)  (Russian) (General)</display-name>
  </channel>
  <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="NVKSakha.ru@SD">
- <title>НВК Саха (1080p) [Not 24/7] (rus1)  (Russian) (General)</title>
+ <title>НВК Саха (1080p) [Not 24/7] (rus2)  (Russian) (General)</title>
  <desc>NVKSakha.ru@SD</desc>
  </programme>
  <channel id="UnknownRussia.ru@SD">
@@ -41818,13 +41825,6 @@
  <title>Студия Факт (rus2)  (Russian) (Undefined)</title>
  <desc>StudiyaFakt.ru@SD</desc>
  </programme>
- <channel id="Subbota.ru@SD">
- <display-name>Суббота! (576p) (rus2)  (Russian) (Undefined)</display-name>
- </channel>
- <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="Subbota.ru@SD">
- <title>Суббота! (576p) (rus2)  (Russian) (Undefined)</title>
- <desc>Subbota.ru@SD</desc>
- </programme>
  <channel id="Surgut24.ru@SD">
  <display-name>Сургут 24 (720p) [Not 24/7] (rus2)  (Russian) (Undefined)</display-name>
  </channel>
@@ -42350,26 +42350,19 @@
  <title>Skrypin.ua (1080p) [Not 24/7] (ukr1)  (Ukrainian) (Undefined)</title>
  <desc>Skrypinua.ua@SD</desc>
  </programme>
- <channel id="SuspilneKrym.ua@SD">
+ <channel id="SuspilneKrym.ua">
  <display-name>Suspilne. Krym (1080p) [Geo-blocked] (ukr1)  (Ukrainian) (General)</display-name>
  </channel>
- <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="SuspilneKrym.ua@SD">
+ <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="SuspilneKrym.ua">
  <title>Suspilne. Krym (1080p) [Geo-blocked] (ukr1)  (Ukrainian) (General)</title>
- <desc>SuspilneKrym.ua@SD</desc>
+ <desc>SuspilneKrym.ua</desc>
  </programme>
- <channel id="SuspilneKultura.ua@SD">
+ <channel id="SuspilneKultura.ua">
  <display-name>Suspilne. Kultura (1080p) [Geo-blocked] (ukr1)  (Ukrainian) (Culture)</display-name>
  </channel>
- <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="SuspilneKultura.ua@SD">
+ <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="SuspilneKultura.ua">
  <title>Suspilne. Kultura (1080p) [Geo-blocked] (ukr1)  (Ukrainian) (Culture)</title>
- <desc>SuspilneKultura.ua@SD</desc>
- </programme>
- <channel id="SuspilneSport.ua@SD">
- <display-name>Suspilne. Sport (1080p) [Geo-blocked] (ukr1)  (Ukrainian) (Sports)</display-name>
- </channel>
- <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="SuspilneSport.ua@SD">
- <title>Suspilne. Sport (1080p) [Geo-blocked] (ukr1)  (Ukrainian) (Sports)</title>
- <desc>SuspilneSport.ua@SD</desc>
+ <desc>SuspilneKultura.ua</desc>
  </programme>
  <channel id="TelekanalRAI.ua@SD">
  <display-name>Telekanal RAI (480p) (ukr1)  (Ukrainian) (General)</display-name>
@@ -42377,6 +42370,13 @@
  <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="TelekanalRAI.ua@SD">
  <title>Telekanal RAI (480p) (ukr1)  (Ukrainian) (General)</title>
  <desc>TelekanalRAI.ua@SD</desc>
+ </programme>
+ <channel id="Televsesvit.ua@SD">
+ <display-name>Televsesvit (1080p) (ukr1)  (Ukrainian) (Undefined)</display-name>
+ </channel>
+ <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="Televsesvit.ua@SD">
+ <title>Televsesvit (1080p) (ukr1)  (Ukrainian) (Undefined)</title>
+ <desc>Televsesvit.ua@SD</desc>
  </programme>
  <channel id="TISTV.ua@SD">
  <display-name>TIS TV (720p) (ukr1)  (Ukrainian) (Undefined)</display-name>
@@ -43399,6 +43399,13 @@
  <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="CenterTV.gr@SD">
  <title>Center TV (1080p) (ell1)  (Greek) (General)</title>
  <desc>CenterTV.gr@SD</desc>
+ </programme>
+ <channel id="Channel8.gr@HD">
+ <display-name>Channel 8 (1080p) (ell1)  (Greek) (Undefined)</display-name>
+ </channel>
+ <programme start="20260507000000 +0000" stop="20260509000000 +0000" channel="Channel8.gr@HD">
+ <title>Channel 8 (1080p) (ell1)  (Greek) (Undefined)</title>
+ <desc>Channel8.gr@HD</desc>
  </programme>
  <channel id="CityChannel.cy@SD">
  <display-name>City Channel (720p) [Not 24/7] (ell1)  (Greek) (Undefined)</display-name>
