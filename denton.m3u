@@ -27,7 +27,7 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="1026" tvg-id="VAMTV.cw@SD" tvg-logo="https://i.imgur.com/CD1PffA.png" group-title="English;Music",VAM Vid's & More (720p) (eng9)  (English) (Music)
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
-#EXTINF:-1 tvg-chno="1027" tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="English;Music",Vevo 2K (1080p) (eng9)  (English) (Music)
+#EXTINF:-1 tvg-chno="1027" tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="English;Music",Vevo 2K (1080p) (eng10)  (English) (Music)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-chno="1028" tvg-id="Vevo70s.us@SD" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="English;Music",Vevo 70s (1080p) (eng10)  (English) (Music)
 https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
@@ -570,7 +570,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="13002" tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Russian;Classic;Music",BRIDGE Classic (576p) (rus1)  (Russian) (Classic) (Music)
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-chno="13003" tvg-id="BRIDGEDeluxe.ru@SD" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russian;Music",BRIDGE Deluxe (1080p) (rus1)  (Russian) (Music)
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
+http://tmptv.sunduk.tv/CH257/index.m3u8
+#EXTINF:-1 tvg-chno="13004" tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Russian;Education",Da Vinci (576p) (rus1)  (Russian) (Education)
+http://tmptv.sunduk.tv/CH205/index.m3u8
 #EXTINF:-1 tvg-chno="13005" tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Russian;News",DW Russian (1080p) (rus1)  (Russian) (News)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-chno="13007" tvg-id="EuropaPlusTV.ru@SD" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Russian;Music",Europa Plus TV (1080p) (rus1)  (Russian) (Music)
@@ -583,11 +585,11 @@ http://rtmp.one.by:2300
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-chno="13011" tvg-id="MaturTV.ru@SD" tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="Russian;Music",Матур ТВ (1080p) (rus1)  (Russian) (Music)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-chno="13012" tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russian;Music;Religious",Муз союз (576p) (rus1)  (Russian) (Music) (Religious)
+#EXTINF:-1 tvg-chno="13012" tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russian;Music;Religious",Муз союз (576p) (rus2)  (Russian) (Music) (Religious)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-chno="13013" tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Russian;Music",Муз ТВ (450p) [Geo-blocked] (rus1)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13013" tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Russian;Music",Муз ТВ (450p) [Geo-blocked] (rus2)  (Russian) (Music)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-#EXTINF:-1 tvg-chno="13014" tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russian;Music",Музыка Первого (1080p) (rus1)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13014" tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russian;Music",Музыка Первого (1080p) (rus2)  (Russian) (Music)
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-chno="13015" tvg-id="MuzzOne.kz@SD" tvg-logo="https://i.imgur.com/nHVABXh.png" http-referrer="https://muzzone.tv/" group-title="English;Music",MuzzOne (eng6)  (English) (Music)
 #EXTVLCOPT:http-referrer=https://muzzone.tv/
