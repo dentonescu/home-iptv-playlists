@@ -29282,10 +29282,10 @@
  <desc>SuperChannel12.mx@SD</desc>
  </programme>
  <channel id="SuperDigitalTV.do@SD">
- <display-name>Super Digital TV (720p) [Not 24/7] (spa6)  (Spanish) (General)</display-name>
+ <display-name>Super Digital TV (1080p) [Not 24/7] (spa6)  (Spanish) (General)</display-name>
  </channel>
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="SuperDigitalTV.do@SD">
- <title>Super Digital TV (720p) [Not 24/7] (spa6)  (Spanish) (General)</title>
+ <title>Super Digital TV (1080p) [Not 24/7] (spa6)  (Spanish) (General)</title>
  <desc>SuperDigitalTV.do@SD</desc>
  </programme>
  <channel id="SuperQPanama.pa@SD">
@@ -39592,6 +39592,13 @@
  <title>ATR (720p) (rus1)  (Russian) (Culture)</title>
  <desc>ATR.ua@SD</desc>
  </programme>
+ <channel id="AutoPlus.ru@SD">
+ <display-name>Auto Plus (576p) (rus1)  (Russian) (Auto)</display-name>
+ </channel>
+ <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="AutoPlus.ru@SD">
+ <title>Auto Plus (576p) (rus1)  (Russian) (Auto)</title>
+ <desc>AutoPlus.ru@SD</desc>
+ </programme>
  <channel id="BaltiTV.md@SD">
  <display-name>Bălţi TV (1080p) [Geo-blocked] (rus1)  (Russian) (General)</display-name>
  </channel>
@@ -39858,6 +39865,34 @@
  <title>Kino 24 (720p) (rus1)  (Russian) (Movies)</title>
  <desc>Kino24.ru@SD</desc>
  </programme>
+ <channel id="KinoHit.ru@SD">
+ <display-name>KinoHit (576p) (rus1)  (Russian) (Movies)</display-name>
+ </channel>
+ <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="KinoHit.ru@SD">
+ <title>KinoHit (576p) (rus1)  (Russian) (Movies)</title>
+ <desc>KinoHit.ru@SD</desc>
+ </programme>
+ <channel id="Kinokomedija.ru@SD">
+ <display-name>Kinokomedija (576p) (rus1)  (Russian) (Comedy)</display-name>
+ </channel>
+ <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Kinokomedija.ru@SD">
+ <title>Kinokomedija (576p) (rus1)  (Russian) (Comedy)</title>
+ <desc>Kinokomedija.ru@SD</desc>
+ </programme>
+ <channel id="Kinosemja.ru@SD">
+ <display-name>Kinosemja (576p) (rus1)  (Russian) (Movies)</display-name>
+ </channel>
+ <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Kinosemja.ru@SD">
+ <title>Kinosemja (576p) (rus1)  (Russian) (Movies)</title>
+ <desc>Kinosemja.ru@SD</desc>
+ </programme>
+ <channel id="Kinosvidanie.ru@SD">
+ <display-name>Kinosvidanie (576p) (rus1)  (Russian) (Movies)</display-name>
+ </channel>
+ <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Kinosvidanie.ru@SD">
+ <title>Kinosvidanie (576p) (rus1)  (Russian) (Movies)</title>
+ <desc>Kinosvidanie.ru@SD</desc>
+ </programme>
  <channel id="Leomax24.ru@SD">
  <display-name>Leomax 24 (1080p) (rus1)  (Russian) (Shop)</display-name>
  </channel>
@@ -40067,6 +40102,13 @@
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="RadaTV.ua@SD">
  <title>Rada TV (720p) (rus1)  (Russian) (Legislative)</title>
  <desc>RadaTV.ua@SD</desc>
+ </programme>
+ <channel id="RodnoeKino.ru@SD">
+ <display-name>Rodnoe Kino (576p) (rus1)  (Russian) (Movies)</display-name>
+ </channel>
+ <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="RodnoeKino.ru@SD">
+ <title>Rodnoe Kino (576p) (rus1)  (Russian) (Movies)</title>
+ <desc>RodnoeKino.ru@SD</desc>
  </programme>
  <channel id="RTDocumentary.ru@Russian">
  <display-name>RT Documentary Russian (1080p) (rus1)  (Russian) (Documentary)</display-name>
@@ -40424,13 +40466,6 @@
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="AbazaTV.ru@SD">
  <title>АБАЗА-ТВ (1080p) (rus1)  (Russian) (General)</title>
  <desc>AbazaTV.ru@SD</desc>
- </programme>
- <channel id="AutoPlus.ru@SD">
- <display-name>Авто Плюс (576p) (rus1)  (Russian) (Auto)</display-name>
- </channel>
- <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="AutoPlus.ru@SD">
- <title>Авто Плюс (576p) (rus1)  (Russian) (Auto)</title>
- <desc>AutoPlus.ru@SD</desc>
  </programme>
  <channel id="AISTTV.ru@SD">
  <display-name>Аист ТВ (1080p) (rus1)  (Russian) (General)</display-name>
@@ -41014,38 +41049,38 @@
  <desc>Mir.ru@SD</desc>
  </programme>
  <channel id="Mir24.ru@SD">
- <display-name>Мир 24 (1080p) (rus1)  (Russian) (News)</display-name>
+ <display-name>Мир 24 (1080p) (rus2)  (Russian) (News)</display-name>
  </channel>
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Mir24.ru@SD">
- <title>Мир 24 (1080p) (rus1)  (Russian) (News)</title>
+ <title>Мир 24 (1080p) (rus2)  (Russian) (News)</title>
  <desc>Mir24.ru@SD</desc>
  </programme>
  <channel id="Mir.ru@Plus4">
- <display-name>Мир (+4) (576p) (rus1)  (Russian) (General)</display-name>
+ <display-name>Мир (+4) (576p) (rus2)  (Russian) (General)</display-name>
  </channel>
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Mir.ru@Plus4">
- <title>Мир (+4) (576p) (rus1)  (Russian) (General)</title>
+ <title>Мир (+4) (576p) (rus2)  (Russian) (General)</title>
  <desc>Mir.ru@Plus4</desc>
  </programme>
  <channel id="Mir.ru@Plus2">
- <display-name>Мир +2 (540p) [Not 24/7] (rus1)  (Russian) (General)</display-name>
+ <display-name>Мир +2 (540p) [Not 24/7] (rus2)  (Russian) (General)</display-name>
  </channel>
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Mir.ru@Plus2">
- <title>Мир +2 (540p) [Not 24/7] (rus1)  (Russian) (General)</title>
+ <title>Мир +2 (540p) [Not 24/7] (rus2)  (Russian) (General)</title>
  <desc>Mir.ru@Plus2</desc>
  </programme>
  <channel id="Mir.ru@Plus7">
- <display-name>Мир +7 (540p) (rus1)  (Russian) (General)</display-name>
+ <display-name>Мир +7 (540p) (rus2)  (Russian) (General)</display-name>
  </channel>
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="Mir.ru@Plus7">
- <title>Мир +7 (540p) (rus1)  (Russian) (General)</title>
+ <title>Мир +7 (540p) (rus2)  (Russian) (General)</title>
  <desc>Mir.ru@Plus7</desc>
  </programme>
  <channel id="MirBelogorya.ru@SD">
- <display-name>Мир Белагорья (720p) [Geo-blocked] (rus1)  (Russian) (Undefined)</display-name>
+ <display-name>Мир Белагорья (720p) [Geo-blocked] (rus2)  (Russian) (Undefined)</display-name>
  </channel>
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="MirBelogorya.ru@SD">
- <title>Мир Белагорья (720p) [Geo-blocked] (rus1)  (Russian) (Undefined)</title>
+ <title>Мир Белагорья (720p) [Geo-blocked] (rus2)  (Russian) (Undefined)</title>
  <desc>MirBelogorya.ru@SD</desc>
  </programme>
  <channel id="MirSeriala.ru@SD">
@@ -41537,13 +41572,6 @@
  <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="RZDTV.ru@SD">
  <title>РЖД ТВ (1080p) [Geo-blocked] (rus2)  (Russian) (Undefined)</title>
  <desc>RZDTV.ru@SD</desc>
- </programme>
- <channel id="RodnoeKino.ru@SD">
- <display-name>Родное Кино (576p) (rus2)  (Russian) (Movies)</display-name>
- </channel>
- <programme start="20260510000000 +0000" stop="20260512000000 +0000" channel="RodnoeKino.ru@SD">
- <title>Родное Кино (576p) (rus2)  (Russian) (Movies)</title>
- <desc>RodnoeKino.ru@SD</desc>
  </programme>
  <channel id="Russia1.ru@SD">
  <display-name>Россия 1 (1080p) (rus2)  (Russian) (General)</display-name>
