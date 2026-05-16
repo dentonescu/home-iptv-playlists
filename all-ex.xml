@@ -4522,13 +4522,6 @@
  <title>DHA (720p) [Not 24/7] (eng3)  (English) (News)</title>
  <desc>DHA.tr@SD</desc>
  </programme>
- <channel id="DIJIT.us@HD">
- <display-name>DIJIT (720p) (eng3)  (English) (Entertainment)</display-name>
- </channel>
- <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="DIJIT.us@HD">
- <title>DIJIT (720p) (eng3)  (English) (Entertainment)</title>
- <desc>DIJIT.us@HD</desc>
- </programme>
  <channel id="DijlahTV.iq@SD">
  <display-name>Dijlah TV (1080p) (eng3)  (English) (News)</display-name>
  </channel>
@@ -4591,6 +4584,13 @@
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="DisneyInternationalHD.in@SD">
  <title>Disney International HD (1080p) (eng3)  (English) (Kids)</title>
  <desc>DisneyInternationalHD.in@SD</desc>
+ </programme>
+ <channel id="DisneyJunior.in@SD">
+ <display-name>Disney Junior (576p) (eng3)  (English) (Kids)</display-name>
+ </channel>
+ <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="DisneyJunior.in@SD">
+ <title>Disney Junior (576p) (eng3)  (English) (Kids)</title>
+ <desc>DisneyJunior.in@SD</desc>
  </programme>
  <channel id="DisneyJunior.us@East">
  <display-name>Disney Junior (1080i) (eng3)  (English) (Kids)</display-name>
@@ -5004,6 +5004,13 @@
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="EntrepreneurTV.us@SD">
  <title>Entrepreneur TV [Geo-blocked] (eng4)  (English) (Business)</title>
  <desc>EntrepreneurTV.us@SD</desc>
+ </programme>
+ <channel id="EpicTV.in@SD">
+ <display-name>Epic TV (576p) (eng4)  (English) (Entertainment)</display-name>
+ </channel>
+ <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="EpicTV.in@SD">
+ <title>Epic TV (576p) (eng4)  (English) (Entertainment)</title>
+ <desc>EpicTV.in@SD</desc>
  </programme>
  <channel id="EquinoxeTV.cm@SD">
  <display-name>Equinoxe TV (720p) (eng4)  (English) (General)</display-name>
@@ -6623,10 +6630,10 @@
  <desc>HumorMill.us@SD</desc>
  </programme>
  <channel id="Hungry.us@SD">
- <display-name>Hungry (720p) (eng4)  (English) (Cooking)</display-name>
+ <display-name>Hungry (720p) (eng5)  (English) (Cooking)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="Hungry.us@SD">
- <title>Hungry (720p) (eng4)  (English) (Cooking)</title>
+ <title>Hungry (720p) (eng5)  (English) (Cooking)</title>
  <desc>Hungry.us@SD</desc>
  </programme>
  <channel id="Hunter.us@UK">
@@ -8275,10 +8282,10 @@
  <desc>MBC.uk@HD</desc>
  </programme>
  <channel id="MBC1USA.us@SD">
- <display-name>MBC 1 USA (1080p) [Geo-blocked] (eng5)  (English) (General)</display-name>
+ <display-name>MBC 1 USA (1080p) [Geo-blocked] (eng6)  (English) (General)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="MBC1USA.us@SD">
- <title>MBC 1 USA (1080p) [Geo-blocked] (eng5)  (English) (General)</title>
+ <title>MBC 1 USA (1080p) [Geo-blocked] (eng6)  (English) (General)</title>
  <desc>MBC1USA.us@SD</desc>
  </programme>
  <channel id="MBC3USA.us@SD">
@@ -8568,12 +8575,12 @@
  <title>MNCTV (720p) (eng6)  (English) (General)</title>
  <desc>MNCTV.id@SD</desc>
  </programme>
- <channel id="MNX.in@SD">
- <display-name>MNX (576p) (eng6)  (English) (Movies)</display-name>
+ <channel id="MNX.in@HD">
+ <display-name>MNX HD (1080p) (eng6)  (English) (Movies)</display-name>
  </channel>
- <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="MNX.in@SD">
- <title>MNX (576p) (eng6)  (English) (Movies)</title>
- <desc>MNX.in@SD</desc>
+ <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="MNX.in@HD">
+ <title>MNX HD (1080p) (eng6)  (English) (Movies)</title>
+ <desc>MNX.in@HD</desc>
  </programme>
  <channel id="MCPSSTV.us@SD">
  <display-name>Mobile County Public Schools TV Network (MCPSS) (eng6)  (English) (Education)</display-name>
@@ -9724,10 +9731,10 @@
  <desc>Nickelodeon.us@East</desc>
  </programme>
  <channel id="NickelodeonAsia.sg@Indonesia">
- <display-name>Nickelodeon Asia Indonesia (1080p) (eng6)  (English) (Kids)</display-name>
+ <display-name>Nickelodeon Asia Indonesia (720p) (eng6)  (English) (Kids)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="NickelodeonAsia.sg@Indonesia">
- <title>Nickelodeon Asia Indonesia (1080p) (eng6)  (English) (Kids)</title>
+ <title>Nickelodeon Asia Indonesia (720p) (eng6)  (English) (Kids)</title>
  <desc>NickelodeonAsia.sg@Indonesia</desc>
  </programme>
  <channel id="NickelodeonGlobal.uk@SD">
@@ -9899,10 +9906,10 @@
  <desc>NTDTVCanada.us@West</desc>
  </programme>
  <channel id="NTDTVEnglish.us@USA">
- <display-name>NTD TV English (1080p) (eng6)  (English) (General) (News)</display-name>
+ <display-name>NTD TV English (1080p) (eng7)  (English) (General) (News)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="NTDTVEnglish.us@USA">
- <title>NTD TV English (1080p) (eng6)  (English) (General) (News)</title>
+ <title>NTD TV English (1080p) (eng7)  (English) (General) (News)</title>
  <desc>NTDTVEnglish.us@USA</desc>
  </programme>
  <channel id="NTDTVEnglish.us@UK">
@@ -11565,10 +11572,10 @@
  <desc>RedemptionTelevisionMinistry.za@SD</desc>
  </programme>
  <channel id="RedseatTheFirst.us@SD">
- <display-name>Redseat The First (720p) (eng7)  (English) (News)</display-name>
+ <display-name>Redseat The First (720p) (eng8)  (English) (News)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="RedseatTheFirst.us@SD">
- <title>Redseat The First (720p) (eng7)  (English) (News)</title>
+ <title>Redseat The First (720p) (eng8)  (English) (News)</title>
  <desc>RedseatTheFirst.us@SD</desc>
  </programme>
  <channel id="Reelz.us@SD">
@@ -12439,13 +12446,6 @@
  <title>So… Real (720p) (eng8)  (English) (Lifestyle)</title>
  <desc>SoReal.us@UK</desc>
  </programme>
- <channel id="SonyBBCEarth.in@HD">
- <display-name>Sony BBC Earth HD English (1080p) [Geo-blocked] (eng8)  (English) (Documentary)</display-name>
- </channel>
- <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="SonyBBCEarth.in@HD">
- <title>Sony BBC Earth HD English (1080p) [Geo-blocked] (eng8)  (English) (Documentary)</title>
- <desc>SonyBBCEarth.in@HD</desc>
- </programme>
  <channel id="SonyCanalEscapePerfecto.us@SD">
  <display-name>Sony Canal Escape Perfecto (eng8)  (English) (Undefined)</display-name>
  </channel>
@@ -12634,6 +12634,13 @@
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="StarMovies.in@HD">
  <title>Star Movies HD (1080p) (eng8)  (English) (Movies)</title>
  <desc>StarMovies.in@HD</desc>
+ </programme>
+ <channel id="StarMoviesSelect.in@HD">
+ <display-name>Star Movies Select HD (1080p) (eng8)  (English) (Movies)</display-name>
+ </channel>
+ <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="StarMoviesSelect.in@HD">
+ <title>Star Movies Select HD (1080p) (eng8)  (English) (Movies)</title>
+ <desc>StarMoviesSelect.in@HD</desc>
  </programme>
  <channel id="StarSports1.in@HD">
  <display-name>Star Sports 1 HD (1080p) (eng8)  (English) (Sports)</display-name>
@@ -13203,10 +13210,10 @@
  <desc>Telearuba.aw@SD</desc>
  </programme>
  <channel id="TelemundoTelenovelasClasicas.us@SD">
- <display-name>Telemundo telenovelas clásicas (eng8)  (English) (Series)</display-name>
+ <display-name>Telemundo telenovelas clásicas (eng9)  (English) (Series)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="TelemundoTelenovelasClasicas.us@SD">
- <title>Telemundo telenovelas clásicas (eng8)  (English) (Series)</title>
+ <title>Telemundo telenovelas clásicas (eng9)  (English) (Series)</title>
  <desc>TelemundoTelenovelasClasicas.us@SD</desc>
  </programme>
  <channel id="Telepace2.it@SD">
@@ -14862,10 +14869,10 @@
  <desc>VegasLifeTV.us@HD</desc>
  </programme>
  <channel id="VenusHD.pk@SD">
- <display-name>Venus HD (1080p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>Venus HD (1080p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="VenusHD.pk@SD">
- <title>Venus HD (1080p) (eng9)  (English) (Undefined)</title>
+ <title>Venus HD (1080p) (eng10)  (English) (Undefined)</title>
  <desc>VenusHD.pk@SD</desc>
  </programme>
  <channel id="Vevo2K.us@SD">
@@ -31732,10 +31739,10 @@
  <desc>UNAHUTV.hn@SD</desc>
  </programme>
  <channel id="UNETV.hn@SD">
- <display-name>UNE TV (720p) [Not 24/7] (spa7)  (Spanish) (Undefined)</display-name>
+ <display-name>UNE TV (720p) (spa7)  (Spanish) (Undefined)</display-name>
  </channel>
  <programme start="20260515000000 +0000" stop="20260517000000 +0000" channel="UNETV.hn@SD">
- <title>UNE TV (720p) [Not 24/7] (spa7)  (Spanish) (Undefined)</title>
+ <title>UNE TV (720p) (spa7)  (Spanish) (Undefined)</title>
  <desc>UNETV.hn@SD</desc>
  </programme>
  <channel id="UneVinalopo.es@SD">
