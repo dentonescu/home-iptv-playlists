@@ -1722,6 +1722,13 @@
  <title>BBC News Europe (1080p) (eng2)  (English) (News)</title>
  <desc>BBCNews.uk@Europe</desc>
  </programme>
+ <channel id="BBCNews.uk@NorthAmerica">
+ <display-name>BBC News North America (1080p) (eng2)  (English) (News)</display-name>
+ </channel>
+ <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="BBCNews.uk@NorthAmerica">
+ <title>BBC News North America (1080p) (eng2)  (English) (News)</title>
+ <desc>BBCNews.uk@NorthAmerica</desc>
+ </programme>
  <channel id="BBCOne.uk@ChannelIslands">
  <display-name>BBC One Channel Islands (1080p) [Geo-blocked] (eng2)  (English) (General)</display-name>
  </channel>
@@ -3305,10 +3312,10 @@
  <desc>CFMTVChannel98.us@SD</desc>
  </programme>
  <channel id="CatholicFaithNetwork.us@SD">
- <display-name>CFN Catholic Faith Network (720p) (eng2)  (English) (Religious)</display-name>
+ <display-name>CFN Catholic Faith Network (720p) (eng3)  (English) (Religious)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="CatholicFaithNetwork.us@SD">
- <title>CFN Catholic Faith Network (720p) (eng2)  (English) (Religious)</title>
+ <title>CFN Catholic Faith Network (720p) (eng3)  (English) (Religious)</title>
  <desc>CatholicFaithNetwork.us@SD</desc>
  </programme>
  <channel id="CGTN.cn@SD">
@@ -3926,13 +3933,6 @@
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="ColorBlindTV.bz@SD">
  <title>Color Blind TV (1080p) (eng3)  (English) (Entertainment)</title>
  <desc>ColorBlindTV.bz@SD</desc>
- </programme>
- <channel id="ColorsInfinity.in@SD">
- <display-name>Colors Infinity (576p) (eng3)  (English) (Entertainment)</display-name>
- </channel>
- <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="ColorsInfinity.in@SD">
- <title>Colors Infinity (576p) (eng3)  (English) (Entertainment)</title>
- <desc>ColorsInfinity.in@SD</desc>
  </programme>
  <channel id="ColorsInfinity.in@HD">
  <display-name>Colors Infinity HD (1080p) (eng3)  (English) (Entertainment)</display-name>
@@ -9122,10 +9122,10 @@
  <desc>NatickPublicAccessChannel.us@SD</desc>
  </programme>
  <channel id="NationalGeographic.in@HD">
- <display-name>National Geographic HD (1080p) (eng6)  (English) (Documentary)</display-name>
+ <display-name>National Geographic HD (576p) (eng6)  (English) (Documentary)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="NationalGeographic.in@HD">
- <title>National Geographic HD (1080p) (eng6)  (English) (Documentary)</title>
+ <title>National Geographic HD (576p) (eng6)  (English) (Documentary)</title>
  <desc>NationalGeographic.in@HD</desc>
  </programme>
  <channel id="NationalGeographic.us@HDEast">
@@ -12593,6 +12593,20 @@
  <title>SportsTVPlus (1080p) (eng8)  (English) (Sports)</title>
  <desc>SportsTVPlus.us@SD</desc>
  </programme>
+ <channel id="SPOTV.id@SD">
+ <display-name>SPOTV (720p) (eng8)  (English) (Sports)</display-name>
+ </channel>
+ <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="SPOTV.id@SD">
+ <title>SPOTV (720p) (eng8)  (English) (Sports)</title>
+ <desc>SPOTV.id@SD</desc>
+ </programme>
+ <channel id="SPOTV2.id@SD">
+ <display-name>SPOTV 2 (1080p) (eng8)  (English) (Sports)</display-name>
+ </channel>
+ <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="SPOTV2.id@SD">
+ <title>SPOTV 2 (1080p) (eng8)  (English) (Sports)</title>
+ <desc>SPOTV2.id@SD</desc>
+ </programme>
  <channel id="SRFinfo.ch@HD">
  <display-name>SRF info HD (1080p) [Geo-Blocked] (eng8)  (English) (Undefined)</display-name>
  </channel>
@@ -13196,17 +13210,17 @@
  <desc>TeleHaiti.ht@SD</desc>
  </programme>
  <channel id="TelePam.us@SD">
- <display-name>Tele Pam (1080p) (eng8)  (English) (General)</display-name>
+ <display-name>Tele Pam (1080p) (eng9)  (English) (General)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="TelePam.us@SD">
- <title>Tele Pam (1080p) (eng8)  (English) (General)</title>
+ <title>Tele Pam (1080p) (eng9)  (English) (General)</title>
  <desc>TelePam.us@SD</desc>
  </programme>
  <channel id="Telearuba.aw@SD">
- <display-name>Telearuba (1080p) [Not 24/7] (eng8)  (English) (General)</display-name>
+ <display-name>Telearuba (1080p) [Not 24/7] (eng9)  (English) (General)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="Telearuba.aw@SD">
- <title>Telearuba (1080p) [Not 24/7] (eng8)  (English) (General)</title>
+ <title>Telearuba (1080p) [Not 24/7] (eng9)  (English) (General)</title>
  <desc>Telearuba.aw@SD</desc>
  </programme>
  <channel id="TelemundoTelenovelasClasicas.us@SD">
@@ -14855,17 +14869,17 @@
  <desc>VantageRock.ee@HD</desc>
  </programme>
  <channel id="Vasantham.sg@SD">
- <display-name>Vasantham (eng9)  (English) (Undefined)</display-name>
+ <display-name>Vasantham (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="Vasantham.sg@SD">
- <title>Vasantham (eng9)  (English) (Undefined)</title>
+ <title>Vasantham (eng10)  (English) (Undefined)</title>
  <desc>Vasantham.sg@SD</desc>
  </programme>
  <channel id="VegasLifeTV.us@HD">
- <display-name>Vegas Life TV (1080p) (eng9)  (English) (General)</display-name>
+ <display-name>Vegas Life TV (1080p) (eng10)  (English) (General)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="VegasLifeTV.us@HD">
- <title>Vegas Life TV (1080p) (eng9)  (English) (General)</title>
+ <title>Vegas Life TV (1080p) (eng10)  (English) (General)</title>
  <desc>VegasLifeTV.us@HD</desc>
  </programme>
  <channel id="VenusHD.pk@SD">
@@ -35659,10 +35673,10 @@
  <desc>Rai1.it@SD</desc>
  </programme>
  <channel id="Rai1.it@HD">
- <display-name>Rai 1 HD (720p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</display-name>
+ <display-name>Rai 1 HD (1080p) (ita1)  (Italian) (Undefined)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="Rai1.it@HD">
- <title>Rai 1 HD (720p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</title>
+ <title>Rai 1 HD (1080p) (ita1)  (Italian) (Undefined)</title>
  <desc>Rai1.it@HD</desc>
  </programme>
  <channel id="Rai2.it@SD">
@@ -35673,17 +35687,17 @@
  <desc>Rai2.it@SD</desc>
  </programme>
  <channel id="Rai2.it@HD">
- <display-name>Rai 2 HD (720p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</display-name>
+ <display-name>Rai 2 HD (1080p) (ita1)  (Italian) (Undefined)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="Rai2.it@HD">
- <title>Rai 2 HD (720p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</title>
+ <title>Rai 2 HD (1080p) (ita1)  (Italian) (Undefined)</title>
  <desc>Rai2.it@HD</desc>
  </programme>
  <channel id="Rai3.it@HD">
- <display-name>Rai 3 (720p) (ita1)  (Italian) (Undefined)</display-name>
+ <display-name>Rai 3 (1080p) (ita1)  (Italian) (Undefined)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="Rai3.it@HD">
- <title>Rai 3 (720p) (ita1)  (Italian) (Undefined)</title>
+ <title>Rai 3 (1080p) (ita1)  (Italian) (Undefined)</title>
  <desc>Rai3.it@HD</desc>
  </programme>
  <channel id="Rai4.it@SD">
@@ -35708,10 +35722,10 @@
  <desc>RaiGulp.it@SD</desc>
  </programme>
  <channel id="RaiGulp.it@HD">
- <display-name>Rai Gulp HD (720p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</display-name>
+ <display-name>Rai Gulp HD (1080p) (ita1)  (Italian) (Undefined)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="RaiGulp.it@HD">
- <title>Rai Gulp HD (720p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</title>
+ <title>Rai Gulp HD (1080p) (ita1)  (Italian) (Undefined)</title>
  <desc>RaiGulp.it@HD</desc>
  </programme>
  <channel id="RaiMovie.it@SD">
@@ -35750,17 +35764,17 @@
  <desc>RaiScuola.it@SD</desc>
  </programme>
  <channel id="RaiScuola.it@HD">
- <display-name>Rai Scuola HD (720p) [Geo-Blocked] (ita1)  (Italian) (Education)</display-name>
+ <display-name>Rai Scuola HD (1080p) (ita1)  (Italian) (Education)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="RaiScuola.it@HD">
- <title>Rai Scuola HD (720p) [Geo-Blocked] (ita1)  (Italian) (Education)</title>
+ <title>Rai Scuola HD (1080p) (ita1)  (Italian) (Education)</title>
  <desc>RaiScuola.it@HD</desc>
  </programme>
  <channel id="RaiSport.it@HD">
- <display-name>Rai Sport HD (720p) [Geo-Blocked] (ita1)  (Italian) (Sports)</display-name>
+ <display-name>Rai Sport HD (1080p) (ita1)  (Italian) (Sports)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="RaiSport.it@HD">
- <title>Rai Sport HD (720p) [Geo-Blocked] (ita1)  (Italian) (Sports)</title>
+ <title>Rai Sport HD (1080p) (ita1)  (Italian) (Sports)</title>
  <desc>RaiSport.it@HD</desc>
  </programme>
  <channel id="RaiStoria.it@SD">
@@ -35771,10 +35785,10 @@
  <desc>RaiStoria.it@SD</desc>
  </programme>
  <channel id="RaiStoria.it@HD">
- <display-name>Rai Storia HD (1080p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</display-name>
+ <display-name>Rai Storia HD (1080p) (ita1)  (Italian) (Undefined)</display-name>
  </channel>
  <programme start="20260516000000 +0000" stop="20260518000000 +0000" channel="RaiStoria.it@HD">
- <title>Rai Storia HD (1080p) [Geo-Blocked] (ita1)  (Italian) (Undefined)</title>
+ <title>Rai Storia HD (1080p) (ita1)  (Italian) (Undefined)</title>
  <desc>RaiStoria.it@HD</desc>
  </programme>
  <channel id="RaiYoyo.it@SD">
