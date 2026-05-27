@@ -3682,6 +3682,13 @@
  <title>City 41 (576p) (eng3)  (English) (News)</title>
  <desc>City41.pk@SD</desc>
  </programme>
+ <channel id="CityofMonroeGovernmentChannel.us@SD">
+ <display-name>City of Monroe Government Channel (eng3)  (English) (Legislative)</display-name>
+ </channel>
+ <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="CityofMonroeGovernmentChannel.us@SD">
+ <title>City of Monroe Government Channel (eng3)  (English) (Legislative)</title>
+ <desc>CityofMonroeGovernmentChannel.us@SD</desc>
+ </programme>
  <channel id="KTOP.us@SD">
  <display-name>City of Oakland (KTOP) (480p) (eng3)  (English) (Legislative)</display-name>
  </channel>
@@ -4542,13 +4549,6 @@
  <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="DisneyChannel.bg@SD">
  <title>Disney Channel (576p) (eng3)  (English) (Kids)</title>
  <desc>DisneyChannel.bg@SD</desc>
- </programme>
- <channel id="DisneyChannel.pl@SD">
- <display-name>Disney Channel (1080p) (eng3)  (English) (Kids)</display-name>
- </channel>
- <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="DisneyChannel.pl@SD">
- <title>Disney Channel (1080p) (eng3)  (English) (Kids)</title>
- <desc>DisneyChannel.pl@SD</desc>
  </programme>
  <channel id="DisneyChannel.us@East">
  <display-name>Disney Channel East (720p) [Not 24/7] (eng3)  (English) (Kids)</display-name>
@@ -7392,6 +7392,13 @@
  <title>KSAZ-DT1 (1080p) (eng5)  (English) (General)</title>
  <desc>KSAZTV101.us@HD</desc>
  </programme>
+ <channel id="KSCNTV221.us@HD">
+ <display-name>KSCN-DT1 (eng5)  (English) (Undefined)</display-name>
+ </channel>
+ <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="KSCNTV221.us@HD">
+ <title>KSCN-DT1 (eng5)  (English) (Undefined)</title>
+ <desc>KSCNTV221.us@HD</desc>
+ </programme>
  <channel id="KSHBTV411.us@HD">
  <display-name>KSHB 41 (Kansas City MO) (720p) (eng5)  (English) (General)</display-name>
  </channel>
@@ -8275,10 +8282,10 @@
  <desc>MinikaGo.tr@SD</desc>
  </programme>
  <channel id="MinimaxCEE.cz@SD">
- <display-name>Minimax (576p) (576p) (eng5)  (English) (Kids)</display-name>
+ <display-name>Minimax (576p) (576p) (eng6)  (English) (Kids)</display-name>
  </channel>
  <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="MinimaxCEE.cz@SD">
- <title>Minimax (576p) (576p) (eng5)  (English) (Kids)</title>
+ <title>Minimax (576p) (576p) (eng6)  (English) (Kids)</title>
  <desc>MinimaxCEE.cz@SD</desc>
  </programme>
  <channel id="MiracleTV.uk@SD">
@@ -9554,13 +9561,6 @@
  <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="NickPlutoTV.us@US">
  <title>Nickelodeon Pluto TV (720p) (eng6)  (English) (Kids)</title>
  <desc>NickPlutoTV.us@US</desc>
- </programme>
- <channel id="Nicktoons.pl@SD">
- <display-name>Nicktoons (1080p) (eng6)  (English) (Kids)</display-name>
- </channel>
- <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="Nicktoons.pl@SD">
- <title>Nicktoons (1080p) (eng6)  (English) (Kids)</title>
- <desc>Nicktoons.pl@SD</desc>
  </programme>
  <channel id="Nigbati.ng@SD">
  <display-name>Nigbati TV (1080p) (eng6)  (English) (Culture)</display-name>
@@ -16807,13 +16807,6 @@
  <title>N24 Doku (deu1)  (German) (Documentary)</title>
  <desc>N24Doku.de@SD</desc>
  </programme>
- <channel id="ntv.de@SD">
- <display-name>n-tv (1080p) [Geo-Blocked] (deu1)  (German) (General)</display-name>
- </channel>
- <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="ntv.de@SD">
- <title>n-tv (1080p) [Geo-Blocked] (deu1)  (German) (General)</title>
- <desc>ntv.de@SD</desc>
- </programme>
  <channel id="Nachrichten360.de@HD">
  <display-name>Nachrichten 360 (1080p) [Geo-blocked] (deu1)  (German) (News)</display-name>
  </channel>
@@ -17669,10 +17662,10 @@
  <desc>SchladmingDachsteinTV.at@SD</desc>
  </programme>
  <channel id="Seenluft24.de@SD">
- <display-name>Seenluft24 (1080p) (deu2)  (German) (Undefined)</display-name>
+ <display-name>Seenluft24 (1080p) (deu1)  (German) (Undefined)</display-name>
  </channel>
  <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="Seenluft24.de@SD">
- <title>Seenluft24 (1080p) (deu2)  (German) (Undefined)</title>
+ <title>Seenluft24 (1080p) (deu1)  (German) (Undefined)</title>
  <desc>Seenluft24.de@SD</desc>
  </programme>
  <channel id="SenderNeuJerusalem.de@SD">
@@ -42077,13 +42070,6 @@
  <title>Micto (360p) (ukr1)  (Ukrainian) (General)</title>
  <desc>MistoPlus.ua@SD</desc>
  </programme>
- <channel id="Nickelodeon.pl@SD">
- <display-name>Nickelodeon (1080p) (ukr1)  (Ukrainian) (Kids)</display-name>
- </channel>
- <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="Nickelodeon.pl@SD">
- <title>Nickelodeon (1080p) (ukr1)  (Ukrainian) (Kids)</title>
- <desc>Nickelodeon.pl@SD</desc>
- </programme>
  <channel id="ObozrevatelTV.ua@SD">
  <display-name>Obozrevatel TV (1080p) (ukr1)  (Ukrainian) (News)</display-name>
  </channel>
@@ -42630,13 +42616,6 @@
  <title>Car City Adventures (pol1)  (Polish) (Undefined)</title>
  <desc>CarCityAdventures.pl@SD</desc>
  </programme>
- <channel id="DisneyChannel.pl@SD">
- <display-name>Disney Channel (1080p) (pol1)  (Polish) (Kids)</display-name>
- </channel>
- <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="DisneyChannel.pl@SD">
- <title>Disney Channel (1080p) (pol1)  (Polish) (Kids)</title>
- <desc>DisneyChannel.pl@SD</desc>
- </programme>
  <channel id="dlaCiebietv.pl@SD">
  <display-name>dlaCiebie.tv (1080p) [Not 24/7] (pol1)  (Polish) (General)</display-name>
  </channel>
@@ -42699,13 +42678,6 @@
  <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="NewTV.pl@SD">
  <title>NewTV (1080p) (pol1)  (Polish) (General)</title>
  <desc>NewTV.pl@SD</desc>
- </programme>
- <channel id="Nickelodeon.pl@SD">
- <display-name>Nickelodeon (1080p) (pol1)  (Polish) (Kids)</display-name>
- </channel>
- <programme start="20260526000000 +0000" stop="20260528000000 +0000" channel="Nickelodeon.pl@SD">
- <title>Nickelodeon (1080p) (pol1)  (Polish) (Kids)</title>
- <desc>Nickelodeon.pl@SD</desc>
  </programme>
  <channel id="NutaTV.pl@SD">
  <display-name>Nuta TV (pol1)  (Polish) (Music)</display-name>
