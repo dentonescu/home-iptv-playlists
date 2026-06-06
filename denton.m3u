@@ -493,7 +493,7 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="10036" tvg-id="RTILa3.ci@SD" tvg-logo="https://i.imgur.com/HdNshgF.png" group-title="French;Music;Sports",RTI La 3 (1080p) [Not 24/7] (fra2)  (French) (Music) (Sports)
 http://69.64.57.208/la3/index.m3u8
-#EXTINF:-1 tvg-chno="10037" tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="English;Music",Stingray Classica (1080p) (eng8)  (English) (Music)
+#EXTINF:-1 tvg-chno="10037" tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="English;Music",Stingray Classica (1080p) (eng7)  (English) (Music)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-chno="10038" tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="English;Music",Trace Urban (Australia) (1080p) (eng8)  (English) (Music)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -545,7 +545,7 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 tvg-chno="13000" tvg-id="A1.ru@SD" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="English;Music",Amedia 1 (576p) (eng1)  (English) (Music)
 http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-chno="13001" tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="English;News",Беларусь 24 (1080p) (eng10)  (English) (News)
+#EXTINF:-1 tvg-chno="13001" tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="English;News",Беларусь 24 (1080p) (eng9)  (English) (News)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="13002" tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Russian;Classic;Music",BRIDGE Classic (576p) (rus1)  (Russian) (Classic) (Music)
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
@@ -567,7 +567,7 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-chno="13013" tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" group-title="Russian;Music",Муз ТВ (450p) [Geo-blocked] (rus1)  (Russian) (Music)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-#EXTINF:-1 tvg-chno="13014" tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russian;Music",Музыка Первого (1080p) (rus1)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13014" tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russian;Music",Музыка Первого (1080p) (rus2)  (Russian) (Music)
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-chno="13015" tvg-id="MuzzOne.kz@SD" tvg-logo="https://i.imgur.com/nHVABXh.png" http-referrer="https://muzzone.tv/" group-title="English;Music",MuzzOne (eng6)  (English) (Music)
 #EXTVLCOPT:http-referrer=https://muzzone.tv/
@@ -587,8 +587,6 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-chno="14006" tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Polish;News",Polsat News Polityka (1080p) [Geo-blocked] (pol1)  (Polish) (News)
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-chno="14008" tvg-id="SuperExpressTV.pl@FAST" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="Polish;News",Super Express TV (1080i) (pol1)  (Polish) (News)
-https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1 tvg-chno="15000" tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Croatian;Music",CMC TV (1080p) (hrv1)  (Croatian) (Music)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-chno="15001" tvg-id="HRT4.hr@HD" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="Croatian;News",HRT 4 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (News)
