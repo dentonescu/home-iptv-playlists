@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1001" tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="English;News",ABC News Live (1080p) [Geo-blocked] (eng1)  (English) (News)
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
-#EXTINF:-1 tvg-chno="1002" tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News North America (1080p) (eng1)  (English) (News)
+#EXTINF:-1 tvg-chno="1002" tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News North America (1080p) (eng2)  (English) (News)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-chno="1003" tvg-id="CBSNewsNewYork.us@SD" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="English;News",CBS News New York (720p) (eng2)  (English) (News)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
@@ -125,8 +125,8 @@ http://78.96.33.89:8080
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="2046" tvg-id="TVPlusSuceava.ro@SD" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Romanian;Undefined",TVPlus Suceava (576p) (ron1)  (Romanian) (Undefined)
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1 tvg-chno="2047" tvg-id="TVRInternational.ro@SD" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romanian;General",TVR International (576p) [Geo-Blocked] (ron1)  (Romanian) (General)
-https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
+#EXTINF:-1 tvg-chno="2047" tvg-id="TVRInternational.ro@SD" tvg-logo="https://i.imgur.com/w28wcHs.png" group-title="Romanian;General",TVR International (ron1)  (Romanian) (General)
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-chno="2048" tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="Romanian;Undefined",Vocea Basarabiei TV (720p) [Not 24/7] (ron1)  (Romanian) (Undefined)
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 #EXTINF:-1 tvg-chno="3000" tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="English;Comedy;Series",Anger Management Channel (1080p) (eng1)  (English) (Comedy) (Series)
@@ -161,16 +161,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-chno="3021" tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="" group-title="German;Music",Radio Weser TV Bremen (576p) (deu1)  (German) (Music)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="German;Undefined",RTL Super (720p) [Geo-Blocked] (deu1)  (German) (Undefined)
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-#EXTINF:-1 tvg-chno="3024" tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="German;News",WELT (1080p) [Geo-Blocked] (deu2)  (German) (News)
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1 tvg-chno="3025" tvg-id="ZDF.de@HD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="German;Undefined",ZDF HD (720p) [Geo-Blocked] (deu2)  (German) (Undefined)
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:-1 tvg-chno="3026" tvg-id="ZDFinfo.de@HD" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="German;Undefined",ZDFinfo HD (720p) [Geo-Blocked] (deu2)  (German) (Undefined)
-https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:-1 tvg-chno="3027" tvg-id="ZDFneo.de@HD" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="German;Undefined",ZDFneo HD (720p) [Geo-Blocked] (deu2)  (German) (Undefined)
-https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-chno="3024" tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="German;News",WELT (576p) (deu2)  (German) (News)
+https://s6.hopslan.com/n24X/index.m3u8
 #EXTINF:-1 tvg-chno="4000" tvg-id="AT5.nl@SD" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="Dutch;General",AT5 (nld1)  (Dutch) (General)
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-chno="4001" tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Dutch;Entertainment;Music",BE@TTV (1080p) (nld1)  (Dutch) (Entertainment) (Music)
@@ -447,8 +439,8 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-chno="10011" tvg-id="CFTUDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="French;Education",Canal Savoir (360p) (fra1)  (French) (Education)
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-chno="10012" tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="French;News",CNews (1080p) [Geo-Blocked] (fra1)  (French) (News)
-https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 tvg-chno="10012" tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="French;News",CNews (1080p) [Geo-blocked] (fra1)  (French) (News)
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-chno="10013" tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="French;Music",D3 TV (480p) (fra1)  (French) (Music)
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-chno="10014" tvg-id="DBMTV.fr@SD" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="French;Music",DBM TV (1080p) (fra1)  (French) (Music)
@@ -485,7 +477,7 @@ https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-chno="10031" tvg-id="MonacoInfo.mc@SD" tvg-logo="https://i.imgur.com/dIrKYH7.png" group-title="French;News",Monaco Info (1080p) (fra1)  (French) (News)
 https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:-1 tvg-chno="10032" tvg-id="NWInfo.tg@SD" tvg-logo="https://i.imgur.com/UDEY91v.png" group-title="French;News",NW Info FR (576p) (fra2)  (French) (News)
+#EXTINF:-1 tvg-chno="10032" tvg-id="NWInfo.tg@SD" tvg-logo="https://i.imgur.com/UDEY91v.png" group-title="French;News",NW Info FR (576p) (fra1)  (French) (News)
 https://hls.newworldtv.com/nw-info/video/live.m3u8
 #EXTINF:-1 tvg-chno="10033" tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="French;Music",P2M TV (720p) (fra2)  (French) (Music)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
@@ -523,8 +515,6 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playli
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-chno="11012" tvg-id="RadioPiterPanTV.it@SD" tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="Italian;Music",Radio Piter Pan TV (720p) [Not 24/7] (ita1)  (Italian) (Music)
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="11013" tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italian;News",Rai News 24 HD (720p) [Geo-Blocked] (ita1)  (Italian) (News)
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:-1 tvg-chno="11014" tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Italian;Education",Rai Scuola HD (1080p) (ita1)  (Italian) (Education)
 https://srv1.adriatelekom.com/RaiScuola/index.m3u8
 #EXTINF:-1 tvg-chno="11015" tvg-id="tv9Telemaremma.it@HD" tvg-logo="https://i.imgur.com/3WAyf6H.png" group-title="Italian;News",tv9 Telemaremma (576p) (ita2)  (Italian) (News)
