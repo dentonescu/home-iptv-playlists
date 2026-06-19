@@ -3,7 +3,7 @@
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:-1 tvg-chno="1002" tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News North America (1080p) (eng2)  (English) (News)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:-1 tvg-chno="1003" tvg-id="CBSNewsNewYork.us@SD" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="English;News",CBS News New York (720p) (eng2)  (English) (News)
+#EXTINF:-1 tvg-chno="1003" tvg-id="CBSNewsNewYork.us@SD" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="English;News",CBS News New York (720p) (eng3)  (English) (News)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-chno="1004" tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="English;News",Euronews English (720p) (eng4)  (English) (News)
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
@@ -271,6 +271,8 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
 #EXTINF:-1 tvg-chno="8007" tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Spanish;Music",BTA TV (720p) (spa1)  (Spanish) (Music)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-chno="8008" tvg-id="CanalI.ve@SD" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="Spanish;News",Canal I (1080p) (spa2)  (Spanish) (News)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-chno="8009" tvg-id="CanalSurNoticias.es@SD" tvg-logo="https://i.imgur.com/A3JscwS.png" group-title="Spanish;News;Public",Canal Sur Noticias (spa2)  (Spanish) (News) (Public)
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="8010" tvg-id="Carivision.do@SD" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Spanish;News",Carivision (1080p) [Geo-blocked] (spa2)  (Spanish) (News)
@@ -301,7 +303,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 tvg-chno="8028" tvg-id="HermanasMirabalTV.do@SD" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Spanish;News",Hermanas Mirabal TV (720p) [Not 24/7] (spa4)  (Spanish) (News)
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-#EXTINF:-1 tvg-chno="8029" tvg-id="AyenehTV.us@SD" tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="English;Culture;Education",Ayeneh TV (eng1)  (English) (Culture) (Education)
+#EXTINF:-1 tvg-chno="8029" tvg-id="AyenehTV.us@SD" tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="English;Culture;Education",Ayeneh TV (eng2)  (English) (Culture) (Education)
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="8030" tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Spanish;Education",Canal 15 ILCE Summa Sabres (720p) (spa2)  (Spanish) (Education)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
@@ -365,8 +367,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-chno="8065" tvg-id="TVN24.do@SD" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="Spanish;News",TVN24 (720p) (spa8)  (Spanish) (News)
 https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
-#EXTINF:-1 tvg-chno="8066" tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png" http-referrer="http://www.tvperu.gob.pe/noticias" group-title="Spanish;News",TV Peru Noticias (360p) (spa8)  (Spanish) (News)
-#EXTVLCOPT:http-referrer=http://www.tvperu.gob.pe/noticias
 #EXTINF:-1 tvg-chno="8067" tvg-id="TVUNO.pe@SD" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Spanish;Music",TVUNO (720p) (spa8)  (Spanish) (Music)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="8068" tvg-id="TVUJAT.mx@SD" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Spanish;Education",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7] (spa8)  (Spanish) (Education)
@@ -555,8 +555,8 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 tvg-chno="13000" tvg-id="A1.ru@SD" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="English;Music",Amedia 1 (576p) (eng1)  (English) (Music)
 http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-chno="13001" tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="English;News",Беларусь 24 (1080p) (eng11)  (English) (News)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="13001" tvg-id="Belarus24.by@HD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="English;News",Belarus-24 HD (1080p) (eng2)  (English) (News)
+http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-chno="13002" tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Russian;Classic;Music",BRIDGE Classic (576p) (rus1)  (Russian) (Classic) (Music)
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-chno="13003" tvg-id="BRIDGEDeluxe.ru@SD" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russian;Music",BRIDGE Deluxe (1080p) (rus1)  (Russian) (Music)
