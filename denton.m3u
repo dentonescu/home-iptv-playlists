@@ -23,7 +23,7 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_ch
 http://206.212.244.63/669/index.m3u8
 #EXTINF:-1 tvg-chno="1020" tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="English;Education;Kids",PBS Kids Eastern/Central (720p) (eng9)  (English) (Education) (Kids)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-chno="1021" tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="English;Documentary;Science",Pluto TV Science (eng10)  (English) (Documentary) (Science)
+#EXTINF:-1 tvg-chno="1021" tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="English;Documentary;Science",Pluto TV Science (eng9)  (English) (Documentary) (Science)
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:-1 tvg-chno="1022" tvg-id="RedApple21.us@SD" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="English;Education",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7] (eng10)  (English) (Education)
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
@@ -101,6 +101,8 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-chno="2025" tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Romanian;General",Moldova TV (1080p) (ron1)  (Romanian) (General)
 https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-chno="2026" tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" http-referrer="https://mooz.tv/live-ro/#MoozDance" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Romanian;Music",Mooz Dance (ron1)  (Romanian) (Music)
+#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
 #EXTINF:-1 tvg-chno="2028" tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Romanian;General",Nova TV Brasov (576p) [Not 24/7] (ron1)  (Romanian) (General)
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-chno="2029" tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romanian;News",Observator News (720p) (ron1)  (Romanian) (News)
@@ -257,8 +259,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.is
 http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-chno="8000" tvg-id="13Festival.cl@SD" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Spanish;Music",13 Festival (1080p) (spa1)  (Spanish) (Music)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-chno="8001" tvg-id="24Horas.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spanish;News;Public",Canal 24 Horas (720p) (spa2)  (Spanish) (News) (Public)
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-chno="8001" tvg-id="24Horas.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spanish;News;Public",24 Horas (1080p) (spa1)  (Spanish) (News) (Public)
+http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-chno="8002" tvg-id="88Stereo.cr@SD" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Spanish;Music",88 Stereo (720p) [Not 24/7] (spa1)  (Spanish) (Music)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-chno="8003" tvg-id="ActivaTV.es@SD" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Spanish;Music",Activa TV (720p) (spa1)  (Spanish) (Music)
@@ -369,7 +371,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-chno="8070" tvg-id="UMSATVULP.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="Spanish;Culture;Education;News",UMSA TVU LP (720p) (spa10)  (Spanish) (Culture) (Education) (News)
 https://edge.enhdtv.com/8190/index.m3u8
-#EXTINF:-1 tvg-chno="8072" tvg-id="VisionTelevision.mx@SD" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Spanish;Music",Visión Televisión (720p) (spa10)  (Spanish) (Music)
+#EXTINF:-1 tvg-chno="8072" tvg-id="VisionTelevision.mx@SD" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Spanish;Music",Visión Televisión (720p) (spa11)  (Spanish) (Music)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-chno="8073" tvg-id="XEIPNTDT.mx@SD" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Spanish;Education",Once México (1080p) (spa6)  (Spanish) (Education)
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
