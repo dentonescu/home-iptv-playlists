@@ -539,8 +539,8 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-chno="12001" tvg-id="Cherniveckiypromin.ua@SD" tvg-logo="https://i.imgur.com/O9nQ5po.png" group-title="Ukrainian;News",Cherniveckiy promin (720p) (ukr1)  (Ukrainian) (News)
 https://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 tvg-chno="12002" tvg-id="M2.ua@SD" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukrainian;Music",M2 (540p) (ukr1)  (Ukrainian) (Music)
-https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-chno="12002" tvg-id="M2.ua@SD" tvg-logo="https://i.imgur.com/AfcBWCg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukrainian;Music",M2 (1080p) (ukr1)  (Ukrainian) (Music)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="12003" tvg-id="PershiyXTVMedia.ua@SD" tvg-logo="https://i.imgur.com/M7oDym3.png" group-title="Ukrainian;News",Pershiy XTV Media (576p) (ukr1)  (Ukrainian) (News)
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
 #EXTINF:-1 tvg-chno="12004" tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Ukrainian;News",PTV (720p) (ukr1)  (Ukrainian) (News)
@@ -556,7 +556,7 @@ http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-chno="13001" tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="English;News",Belarus-24 (576p) (eng2)  (English) (News)
 http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-chno="13002" tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Russian;Classic;Music",BRIDGE Classic (576p) (rus1)  (Russian) (Classic) (Music)
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 tvg-chno="13003" tvg-id="BRIDGEDeluxe.ru@SD" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russian;Music",BRIDGE Deluxe (1080p) (rus1)  (Russian) (Music)
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-chno="13004" tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Russian;Education",Da Vinci (576p) (rus1)  (Russian) (Education)
@@ -571,13 +571,13 @@ http://rtmp.one.by:1300
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 #EXTINF:-1 tvg-chno="13010" tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="Russian;News",Freedom (FREEДOM) (UATV) (720p) (rus1)  (Russian) (News)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 tvg-chno="13011" tvg-id="MaturTV.ru@SD" tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="Russian;Music",Матур ТВ (1080p) (rus2)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13011" tvg-id="MaturTV.ru@SD" tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="Russian;Music",Матур ТВ (1080p) (rus3)  (Russian) (Music)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-chno="13012" tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russian;Music;Religious",Муз союз (576p) (rus2)  (Russian) (Music) (Religious)
+#EXTINF:-1 tvg-chno="13012" tvg-id="MuzSoyuz.ru@SD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russian;Music;Religious",Муз союз (576p) (rus3)  (Russian) (Music) (Religious)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-chno="13013" tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Russian;Music",Muz-TV (576p) (rus1)  (Russian) (Music)
 http://46.32.176.50/muztv/index.m3u8
-#EXTINF:-1 tvg-chno="13014" tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russian;Music",Музыка Первого (1080p) (rus2)  (Russian) (Music)
+#EXTINF:-1 tvg-chno="13014" tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Russian;Music",Музыка Первого (1080p) (rus3)  (Russian) (Music)
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-chno="13015" tvg-id="MuzzOne.kz@SD" tvg-logo="https://i.imgur.com/nHVABXh.png" http-referrer="https://muzzone.tv/" group-title="English;Music",MuzzOne (eng8)  (English) (Music)
 #EXTVLCOPT:http-referrer=https://muzzone.tv/
@@ -586,7 +586,7 @@ http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="13017" tvg-id="RUTV.ru@SD" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Russian;Music",RU.TV (1080p) (rus2)  (Russian) (Music)
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-chno="13018" tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Russian;Science",.sci-fi (576p) (rus1)  (Russian) (Science)
-http://31.148.48.15/SONY_SCI_FI/index.m3u8
+http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-chno="13019" tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Russian;Music",Страна FM (720p) [Not 24/7] (rus3)  (Russian) (Music)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="13020" tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Russian;Music",SONGTV Russia (rus2)  (Russian) (Music)
