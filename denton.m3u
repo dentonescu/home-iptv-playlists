@@ -241,8 +241,16 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/play
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-chno="6001" tvg-id="TVOstfold.no@SD" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="Norwegian;General",TV Østfold (1080p) (nor1)  (Norwegian) (General)
 https://streamnorge.com:8088/hls/tvo.m3u8
+#EXTINF:-1 tvg-chno="7000" tvg-id="DRTV.dk@SD" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" group-title="Danish;General",DRTV (1080p) (dan1)  (Danish) (General)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-chno="7001" tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="English;Legislative",Folketinget (1080p) [Not 24/7] (eng5)  (English) (Legislative)
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-chno="7002" tvg-id="KanalHovedstaden.dk@SD" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="Danish;General",Kanal Hovedstaden (720p) [Not 24/7] (dan1)  (Danish) (General)
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-chno="7003" tvg-id="TV2Bornholm.dk@SD" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Danish;Undefined",TV 2/Bornholm (1080p) [Not 24/7] (dan1)  (Danish) (Undefined)
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-chno="7004" tvg-id="TVMarineret.dk@SD" tvg-logo="https://i.imgur.com/r1Caske.jpg" group-title="Danish;General",TVMarineret (1080p) (dan1)  (Danish) (General)
+http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-chno="8000" tvg-id="13Festival.cl@SD" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Spanish;Music",13 Festival (1080p) (spa1)  (Spanish) (Music)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-chno="8001" tvg-id="24Horas.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Spanish;News;Public",24 Horas (1080p) (spa1)  (Spanish) (News) (Public)
