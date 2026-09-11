@@ -366,7 +366,7 @@ https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-chno="9003" tvg-id="Famatv.pt@SD" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="Portuguese;Music",Famatv (1080p) [Not 24/7] (por1)  (Portuguese) (Music)
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-chno="9004" tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="Portuguese;News",Jovem Pan News (720p) (por1)  (Portuguese) (News)
-http://45.190.28.50/JP_NEWS/index.m3u8
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 #EXTINF:-1 tvg-chno="9005" tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Portuguese;Music",KpopTV Play (576p) (por1)  (Portuguese) (Music)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-chno="9006" tvg-id="KuriakosMusic.pt@SD" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Portuguese;Music",Kuriakos Music (1080p) (por1)  (Portuguese) (Music)
@@ -390,7 +390,7 @@ https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-chno="9017" tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Portuguese;News",TCM 10 HD (1080p) (por2)  (Portuguese) (News)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-chno="9018" tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png" group-title="Portuguese;News",Times Brasil (720p) (por2)  (Portuguese) (News)
-http://45.190.28.50/CNBC/index.m3u8
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-chno="9019" tvg-id="TVAFolha.br@SD" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Portuguese;News",TV A Folha (720p) (por2)  (Portuguese) (News)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-chno="9020" tvg-id="TVBrusque.br@SD" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Portuguese;News",TV Brusque (720p) (por2)  (Portuguese) (News)
@@ -429,7 +429,7 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-chno="10012" tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="French;News",CNews (1080p) (fra1)  (French) (News)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-chno="10013" tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="French;Music",D3 TV (720p) (fra1)  (French) (Music)
+#EXTINF:-1 tvg-chno="10013" tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="French;Entertainment",D3 TV (720p) (fra1)  (French) (Entertainment)
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-chno="10014" tvg-id="DBMTV.fr@SD" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="French;Music",DBM TV (1080p) (fra1)  (French) (Music)
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
@@ -553,8 +553,8 @@ http://stream.mcquack.net/180/index.m3u8
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="13020" tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Russian;Music",SONGTV Russia (rus2)  (Russian) (Music)
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:-1 tvg-chno="14002" tvg-id="Euronews.pl@FAST" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="Polish;News",Euronews (720p) (pol1)  (Polish) (News)
-https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-chno="14002" tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="English;Series",Europa Europa (1080p) (eng4)  (English) (Series)
 #EXTINF:-1 tvg-chno="14005" tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="Polish;News",Polsat News (1080p) [Geo-blocked] (pol1)  (Polish) (News)
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-chno="14006" tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Polish;News",Polsat News Polityka (1080p) [Geo-blocked] (pol1)  (Polish) (News)
