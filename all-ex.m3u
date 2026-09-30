@@ -555,6 +555,10 @@ https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="English;Entertainment",BBC America (720p) (eng2)  (English) (Entertainment)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" tvg-logo="https://i.imgur.com/i4remZo.png" group-title="English;Entertainment",BBC Brit (1080p) (eng2)  (English) (Entertainment)
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="English;Documentary",BBC Earth (1080p) (eng2)  (English) (Documentary)
+http://57.128.231.171:8080/307/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-logo="https://i.imgur.com/nGSsUd4.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="English;Documentary",BBC Earth Romania (eng2)  (English) (Documentary)
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -585,6 +589,8 @@ https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="English;Lifestyle",BBC Lifestyle Asia (720p) (eng2)  (English) (Lifestyle)
 http://58.8.186.128:10003/bysid/2333
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="English;Lifestyle",BBC Lifestyle Poland (1080p) (eng2)  (English) (Lifestyle)
+http://57.128.231.171:8080/305/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News (1080p) (eng2)  (English) (News)
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="English;News",BBC News Africa (1080p) (eng2)  (English) (News)
@@ -709,8 +715,8 @@ http://193.46.58.239:8080/BBCTwoHD/index.m3u8
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English;General",BBC Two Northern Ireland HD (720p) [Geo-blocked] (eng2)  (English) (General)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCTwo.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English;General",BBC Two Wales (720p) [Geo-blocked] (eng2)  (English) (General)
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="English;General",BBC Two Wales (eng2)  (English) (General)
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCUHD1.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="English;General",BBC UHD 1 (1080p) (eng2)  (English) (General)
 https://xemzi.short.gy/1000001
 #EXTINF:-1 tvg-id="BBCUHD2.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="English;General",BBC UHD 2 (1080p) (eng2)  (English) (General)
@@ -786,11 +792,13 @@ https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
 https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us@CA" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" group-title="English;Entertainment",Best of The Drew Barrymore Show (United States) (eng2)  (English) (Entertainment)
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
-#EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="English;Series",BET (eng2)  (English) (Series)
+#EXTINF:-1 tvg-id="BET.ca@SD" tvg-logo="https://i.imgur.com/KG3CzsF.png" group-title="English;Undefined",BET (Canada) (1080p) (eng2)  (English) (Undefined)
+https://sra72yz.s.gy/BET_CANADA_HD.m3u8
+#EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="English;Series",BET (Sweden) (eng2)  (English) (Series)
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
-#EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="English;Series",BET DK (eng2)  (English) (Series)
+#EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="English;Series",BET (Sweden) DK (eng2)  (English) (Series)
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-#EXTINF:-1 tvg-id="BET.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="English;Series",BET NO (eng2)  (English) (Series)
+#EXTINF:-1 tvg-id="BET.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="English;Series",BET (Sweden) NO (eng2)  (English) (Series)
 https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us@SD" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" group-title="English;Movies",BET Cinema (eng2)  (English) (Movies)
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
@@ -950,13 +958,13 @@ https://btmug.zerocdn.org/hls/stream.m3u8
 https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BukeddeTV2.ug@SD" tvg-logo="https://i.imgur.com/ukwPZeY.png" group-title="English;General",Bukedde TV 2 (576p) [Not 24/7] (eng2)  (English) (General)
 https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
-#EXTINF:-1 tvg-id="Bull.se@SE" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="English;Series",Bull (eng2)  (English) (Series)
+#EXTINF:-1 tvg-id="Bull.se@SE" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="English;Series",Bull (eng3)  (English) (Series)
 https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
-#EXTINF:-1 tvg-id="Bull.se@DK" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="English;Series",Bull DK (eng2)  (English) (Series)
+#EXTINF:-1 tvg-id="Bull.se@DK" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="English;Series",Bull DK (eng3)  (English) (Series)
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
-#EXTINF:-1 tvg-id="Bull.se@NO" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="English;Series",Bull NO (eng2)  (English) (Series)
+#EXTINF:-1 tvg-id="Bull.se@NO" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" group-title="English;Series",Bull NO (eng3)  (English) (Series)
 https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8
-#EXTINF:-1 tvg-id="BusinessRockstars.us@SD" tvg-logo="https://i.imgur.com/vfAMWLJ.png" group-title="English;Business",Business Rockstars (720p) (eng2)  (English) (Business)
+#EXTINF:-1 tvg-id="BusinessRockstars.us@SD" tvg-logo="https://i.imgur.com/vfAMWLJ.png" group-title="English;Business",Business Rockstars (720p) (eng3)  (English) (Business)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
 #EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="English;Education",BUTV10 (1080p) [Not 24/7] (eng3)  (English) (Education)
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
@@ -1257,6 +1265,8 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my@SD" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="English;Movies",CinemaWorld (720p) (eng3)  (English) (Movies)
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png" group-title="English;Movies",Cinemax Action East HD (1080p) (eng3)  (English) (Movies)
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png" group-title="English;Movies",Cinemax Classics (1080p) (eng3)  (English) (Movies)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png" group-title="English;Movies",Cinemax Hits (1080p) (eng3)  (English) (Movies)
@@ -1428,15 +1438,15 @@ http://185.246.209.113/CottageLife/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="CozaTV.ng@SD" tvg-logo="https://i.imgur.com/QVBdpuF.png" group-title="English;Religious",Coza TV (576p) (eng3)  (English) (Religious)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="English;News",CP24 (720p) (eng3)  (English) (News)
+#EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="English;News",CP24 (720p) (eng4)  (English) (News)
 http://107.167.16.138/cp24/index.m3u8?token=test
-#EXTINF:-1 tvg-id="CPACEnglish.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" group-title="English;Legislative",CPAC English (720p) (eng3)  (English) (Legislative)
+#EXTINF:-1 tvg-id="CPACEnglish.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" group-title="English;Legislative",CPAC English (720p) (eng4)  (English) (Legislative)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CrazyExGirlfriend.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="English;Comedy",Crazy Ex-Girlfriend (eng3)  (English) (Comedy)
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="English;Comedy",Crazy Ex-Girlfriend (eng4)  (English) (Comedy)
 https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
-#EXTINF:-1 tvg-id="CrazyExGirlfriend.se@DK" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="English;Comedy",Crazy Ex-Girlfriend DK (eng3)  (English) (Comedy)
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se@DK" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="English;Comedy",Crazy Ex-Girlfriend DK (eng4)  (English) (Comedy)
 https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
-#EXTINF:-1 tvg-id="CrazyExGirlfriend.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="English;Comedy",Crazy Ex-Girlfriend NO (eng3)  (English) (Comedy)
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="English;Comedy",Crazy Ex-Girlfriend NO (eng4)  (English) (Comedy)
 https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8
 #EXTINF:-1 tvg-id="Create.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest/smart/width/386/height/259?cb=20240205233457" group-title="English;Education",Create (1080p) (eng4)  (English) (Education)
 https://create.lls.pbs.org/index.m3u8
@@ -1638,6 +1648,8 @@ https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="English;Culture;Documentary",Discovering China (1080p) (eng4)  (English) (Culture) (Documentary)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="English;Auto",Discovery Turbo (1080p) (eng4)  (English) (Auto)
+https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="English;Kids",Disney Channel (Bulgaria) (eng4)  (English) (Kids)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a059
@@ -1763,7 +1775,7 @@ https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="Dynasty.us@SD" tvg-logo="https://images.pluto.tv/channels/62e919ca865c590007ecd0bd/colorLogoPNG.png" group-title="English;Series",Dynasty (eng4)  (English) (Series)
 https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
-#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="English;Entertainment",E! East (1080p) (eng4)  (English) (Entertainment)
+#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="English;Entertainment",E! (United States) East (1080p) (eng4)  (English) (Entertainment)
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="EKeepingUp.us@SD" tvg-logo="https://i.imgur.com/9F7VYDM.png" group-title="English;Entertainment",E! Keeping Up (1080p) (eng4)  (English) (Entertainment)
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
@@ -1906,17 +1918,17 @@ https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 #EXTINF:-1 tvg-id="FastTV.us@SD" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" group-title="English;Undefined",Fast TV (720p) (eng4)  (English) (Undefined)
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
-#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="English;Sports",Fast&FunBox (Netherlands) (eng4)  (English) (Sports)
+#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="English;Sports",Fast&FunBox (Netherlands) (eng5)  (English) (Sports)
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="English;Religious",Fazal TV (1080p) (eng4)  (English) (Religious)
+#EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="English;Religious",Fazal TV (1080p) (eng5)  (English) (Religious)
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="English;Sports",FB TV (eng4)  (English) (Sports)
+#EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="English;Sports",FB TV (eng5)  (English) (Sports)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="English;Documentary",FBI Files (eng4)  (English) (Documentary)
+#EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="English;Documentary",FBI Files (eng5)  (English) (Documentary)
 https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
-#EXTINF:-1 tvg-id="FBoyIsland.se@DK" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="English;Series",FBoy Island (eng4)  (English) (Series)
+#EXTINF:-1 tvg-id="FBoyIsland.se@DK" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="English;Series",FBoy Island (eng5)  (English) (Series)
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
-#EXTINF:-1 tvg-id="FCPublicMedia.us@SD" tvg-logo="https://i.imgur.com/naLbZuo.png" group-title="English;General",FC Public Media (1080p) (eng4)  (English) (General)
+#EXTINF:-1 tvg-id="FCPublicMedia.us@SD" tvg-logo="https://i.imgur.com/naLbZuo.png" group-title="English;General",FC Public Media (1080p) (eng5)  (English) (General)
 https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="FCKLovinderne.se@DK" tvg-logo="https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png" group-title="English;Sports",FCK Lovinderne (eng5)  (English) (Sports)
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
@@ -2011,6 +2023,8 @@ https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-id="FoursquareTV.ng@SD" tvg-logo="https://i.imgur.com/ORer9ag.png" group-title="English;Religious",Foursquare TV (360p) [Not 24/7] (eng5)  (English) (Religious)
 https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="English;Entertainment",Fox (Poland) (1080p) (eng5)  (English) (Entertainment)
+http://57.128.231.171:8080/249/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="English;General",Fox (United States) (720p) (eng5)  (English) (General)
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KBSI" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="English;General",Fox (United States) KBSI (720p) [Not 24/7] (eng5)  (English) (General)
@@ -2293,6 +2307,10 @@ https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-id="HBODrama.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png" group-title="English;Movies;Series",HBO Drama (1080p) (eng5)  (English) (Movies) (Series)
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us@West" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png" group-title="English;Movies;Series",HBO Drama West (1080p) (eng5)  (English) (Movies) (Series)
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@WestHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="English;Movies;Series",HBO Hits West HD (1080p) (eng5)  (English) (Movies) (Series)
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="English;Movies;Series",HBO Movies (720p) (eng5)  (English) (Movies) (Series)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HBTV.us@SD" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="English;General",HBTV (720p) (eng5)  (English) (General)
@@ -2381,23 +2399,23 @@ https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
 https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us@SD" tvg-logo="https://i.imgur.com/2qXqajS.png" group-title="English;Religious",Hope Channel North America (1080p) (eng5)  (English) (Religious)
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
-#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="English;Religious",Hope Channel Philippines (1080p) (eng5)  (English) (Religious)
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="English;Religious",Hope Channel Philippines (1080p) (eng6)  (English) (Religious)
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
-#EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" group-title="English;News",Hornbill TV (576p) (eng5)  (English) (News)
+#EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" group-title="English;News",Hornbill TV (576p) (eng6)  (English) (News)
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
-#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="English;Outdoor",Horse & Country TV (1080p) (eng5)  (English) (Outdoor)
+#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="English;Outdoor",Horse & Country TV (1080p) (eng6)  (English) (Outdoor)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="HosannaTV.in@Global" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="English;Religious",Hosanna TV Global (eng5)  (English) (Religious)
+#EXTINF:-1 tvg-id="HosannaTV.in@Global" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="English;Religious",Hosanna TV Global (eng6)  (English) (Religious)
 https://ktismaservers.in:3349/live/hosannatvlive.m3u8
-#EXTINF:-1 tvg-id="HotBench.us@SD" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png" group-title="English;Entertainment",Hot Bench (720p) (eng5)  (English) (Entertainment)
+#EXTINF:-1 tvg-id="HotBench.us@SD" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG_1731835667408.png" group-title="English;Entertainment",Hot Bench (720p) (eng6)  (English) (Entertainment)
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
-#EXTINF:-1 tvg-id="HouseofLies.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="English;Series",House of Lies (eng5)  (English) (Series)
+#EXTINF:-1 tvg-id="HouseofLies.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="English;Series",House of Lies (eng6)  (English) (Series)
 https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
-#EXTINF:-1 tvg-id="HouseofLies.se@DK" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="English;Series",House of Lies DK (eng5)  (English) (Series)
+#EXTINF:-1 tvg-id="HouseofLies.se@DK" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="English;Series",House of Lies DK (eng6)  (English) (Series)
 https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
-#EXTINF:-1 tvg-id="HouseofLies.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="English;Series",House of Lies NO (eng5)  (English) (Series)
+#EXTINF:-1 tvg-id="HouseofLies.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" group-title="English;Series",House of Lies NO (eng6)  (English) (Series)
 https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
-#EXTINF:-1 tvg-id="HSN2.us@SD" tvg-logo="https://i.imgur.com/uXBPJHZ.png" group-title="English;Shop",HSN2 (720p) (eng5)  (English) (Shop)
+#EXTINF:-1 tvg-id="HSN2.us@SD" tvg-logo="https://i.imgur.com/uXBPJHZ.png" group-title="English;Shop",HSN2 (720p) (eng6)  (English) (Shop)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="HSN.us@East" tvg-logo="https://m.media-amazon.com/images/I/419RyCp4+WL.png" group-title="English;Shop",HSN (720p) (eng6)  (English) (Shop)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
@@ -2860,23 +2878,23 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD" tvg-logo="https://i.imgur.com/CXjo8kn.png" group-title="English;Movies;Shop",Magnificent Movies Network (eng6)  (English) (Movies) (Shop)
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
-#EXTINF:-1 tvg-id="MahaasinTV.tz@SD" tvg-logo="https://i.imgur.com/wdfdKvC.png" group-title="English;Religious",Mahaasin TV (eng6)  (English) (Religious)
+#EXTINF:-1 tvg-id="MahaasinTV.tz@SD" tvg-logo="https://i.imgur.com/wdfdKvC.png" group-title="English;Religious",Mahaasin TV (eng7)  (English) (Religious)
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
-#EXTINF:-1 tvg-id="MaldivesTV.mv@SD" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="English;Travel",Maldives TV (720p) (eng6)  (English) (Travel)
+#EXTINF:-1 tvg-id="MaldivesTV.mv@SD" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="English;Travel",Maldives TV (720p) (eng7)  (English) (Travel)
 https://lana.psm.mv/live/mtv.m3u8
-#EXTINF:-1 tvg-id="ManwithaPlan.se@SE" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="English;Comedy",Man with a Plan (eng6)  (English) (Comedy)
+#EXTINF:-1 tvg-id="ManwithaPlan.se@SE" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="English;Comedy",Man with a Plan (eng7)  (English) (Comedy)
 https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
-#EXTINF:-1 tvg-id="ManwithaPlan.se@DK" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="English;Comedy",Man with a Plan DK (eng6)  (English) (Comedy)
+#EXTINF:-1 tvg-id="ManwithaPlan.se@DK" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="English;Comedy",Man with a Plan DK (eng7)  (English) (Comedy)
 https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
-#EXTINF:-1 tvg-id="ManwithaPlan.se@NO" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="English;Comedy",Man with a Plan NO (eng6)  (English) (Comedy)
+#EXTINF:-1 tvg-id="ManwithaPlan.se@NO" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="English;Comedy",Man with a Plan NO (eng7)  (English) (Comedy)
 https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8
-#EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="English;Religious",Mana Church Online (1080p) [Not 24/7] (eng6)  (English) (Religious)
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="English;Religious",Mana Church Online (1080p) [Not 24/7] (eng7)  (English) (Religious)
 https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Mangystay.kz@SD" tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="English;General",Mangystay (540p) [Not 24/7] (eng6)  (English) (General)
+#EXTINF:-1 tvg-id="Mangystay.kz@SD" tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="English;General",Mangystay (540p) [Not 24/7] (eng7)  (English) (General)
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 tvg-id="MariaVisionUSA.us@SD" tvg-logo="https://i.imgur.com/eaVt8R1.png" group-title="English;Religious",Maria Vision USA (1080p) (eng6)  (English) (Religious)
+#EXTINF:-1 tvg-id="MariaVisionUSA.us@SD" tvg-logo="https://i.imgur.com/eaVt8R1.png" group-title="English;Religious",Maria Vision USA (1080p) (eng7)  (English) (Religious)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
-#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq@SD" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="English;Religious",Marjaeyat TV English (1080p) (eng6)  (English) (Religious)
+#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq@SD" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="English;Religious",Marjaeyat TV English (1080p) (eng7)  (English) (Religious)
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 #EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="English;Series",Married with Children (eng7)  (English) (Series)
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
@@ -3217,6 +3235,8 @@ https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
 https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
 #EXTINF:-1 tvg-id="Munnaaru.mv@SD" tvg-logo="https://i.imgur.com/Adhr5xq.png" group-title="English;Religious",Munnaaru (eng7)  (English) (Religious)
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-id="MusicBox80s.cz@SD" tvg-logo="https://musicboxtv.net/logo_music_box_80s.png" group-title="English;Music",Music Box 80s (1080p) (eng7)  (English) (Music)
+http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-title="English;Music",Music Box Classic (eng7)  (English) (Music)
 http://88.212.15.19/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxDance.cz@SD" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" group-title="English;Music",Music Box Dance (eng7)  (English) (Music)
@@ -3338,25 +3358,25 @@ https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playl
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WJACTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WJAC-TV (1080p) (eng7)  (English) (General)
 https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WJAR" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WJAR (1080p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WJAR" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WJAR (1080p) (eng8)  (English) (General)
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WLIO" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WLIO (720p) [Not 24/7] (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WLIO" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WLIO (720p) [Not 24/7] (eng8)  (English) (General)
 https://live.field59.com/wlio/wlio1/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WMAQTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WMAQ-TV (1080p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WMAQTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WMAQ-TV (1080p) (eng8)  (English) (General)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
-#EXTINF:-1 tvg-id="NBC.us@WMGTTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WMGT-TV (720p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WMGTTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WMGT-TV (720p) (eng8)  (English) (General)
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WNYT" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WNYT (1080p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WNYT" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WNYT (1080p) (eng8)  (English) (General)
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WOAITV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WOAI-TV (1080p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WOAITV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WOAI-TV (1080p) (eng8)  (English) (General)
 https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WPTVTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WPTV-TV (720p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WPTVTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WPTV-TV (720p) (eng8)  (English) (General)
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WPXI" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WPXI (1080p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WPXI" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WPXI (1080p) (eng8)  (English) (General)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WRDELD" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WRDE-LD (720p) [Not 24/7] (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WRDELD" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WRDE-LD (720p) [Not 24/7] (eng8)  (English) (General)
 https://live.field59.com/wrde/wrde1/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WTMJTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WTMJ-TV (720p) (eng7)  (English) (General)
+#EXTINF:-1 tvg-id="NBC.us@WTMJTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WTMJ-TV (720p) (eng8)  (English) (General)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WTOVTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="English;General",NBC WTOV-TV (1080p) (eng8)  (English) (General)
 https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
@@ -3818,25 +3838,25 @@ https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
 #EXTINF:-1 tvg-id="PimpMyRide.se@DK" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="English;Entertainment",Pimp My Ride DK (eng8)  (English) (Entertainment)
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
-#EXTINF:-1 tvg-id="PimpMyRide.se@NO" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="English;Entertainment",Pimp My Ride NO (eng8)  (English) (Entertainment)
+#EXTINF:-1 tvg-id="PimpMyRide.se@NO" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="English;Entertainment",Pimp My Ride NO (eng9)  (English) (Entertainment)
 https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
-#EXTINF:-1 tvg-id="PixLTV.us@SD" tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="English;Undefined",PixL TV (eng8)  (English) (Undefined)
+#EXTINF:-1 tvg-id="PixLTV.us@SD" tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="English;Undefined",PixL TV (eng9)  (English) (Undefined)
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-id="Placid.us@EastHD" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" group-title="English;Animation",Placid (1080p) [Not 24/7] (eng8)  (English) (Animation)
+#EXTINF:-1 tvg-id="Placid.us@EastHD" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" group-title="English;Animation",Placid (1080p) [Not 24/7] (eng9)  (English) (Animation)
 https://toy.vcdn.fyi/placid/index.m3u8
-#EXTINF:-1 tvg-id="PlanetFun.uk@SD" tvg-logo="https://i.imgur.com/5U1iKUq.png" group-title="English;Comedy",Planet Fun (1080p) (eng8)  (English) (Comedy)
+#EXTINF:-1 tvg-id="PlanetFun.uk@SD" tvg-logo="https://i.imgur.com/5U1iKUq.png" group-title="English;Comedy",Planet Fun (1080p) (eng9)  (English) (Comedy)
 http://66.102.126.10:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="English;Lifestyle",Plous TV (1080p) (eng8)  (English) (Lifestyle)
+#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="English;Lifestyle",Plous TV (1080p) (eng9)  (English) (Lifestyle)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlusTLT.bo@SD" tvg-logo="" group-title="English;Undefined",Plus TLT (720p) (eng8)  (English) (Undefined)
+#EXTINF:-1 tvg-id="PlusTLT.bo@SD" tvg-logo="" group-title="English;Undefined",Plus TLT (720p) (eng9)  (English) (Undefined)
 http://15.204.246.24:8080/PlusTLTHD/index.m3u8
-#EXTINF:-1 tvg-id="PlusTVAfrica.ng@SD" tvg-logo="https://i.imgur.com/6RT3yao.png" group-title="English;Undefined",Plus TV Africa (720p) [Not 24/7] (eng8)  (English) (Undefined)
+#EXTINF:-1 tvg-id="PlusTVAfrica.ng@SD" tvg-logo="https://i.imgur.com/6RT3yao.png" group-title="English;Undefined",Plus TV Africa (720p) [Not 24/7] (eng9)  (English) (Undefined)
 https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="English;Movies;Series",Pluto Classic Movie Westerns (eng8)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="English;Movies;Series",Pluto Classic Movie Westerns (eng9)  (English) (Movies) (Series)
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se@SE" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="English;Movies;Series",Pluto TV Action (Sweden) (eng8)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="PlutoTVAction.se@SE" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="English;Movies;Series",Pluto TV Action (Sweden) (eng9)  (English) (Movies) (Series)
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se@DK" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="English;Movies;Series",Pluto TV Action (Sweden) DK (eng8)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="PlutoTVAction.se@DK" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="English;Movies;Series",Pluto TV Action (Sweden) DK (eng9)  (English) (Movies) (Series)
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.se@NO" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="English;Movies;Series",Pluto TV Action (Sweden) NO (eng9)  (English) (Movies) (Series)
 https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
@@ -4298,25 +4318,25 @@ https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 #EXTINF:-1 tvg-id="RaveTV.ng@SD" tvg-logo="https://i.imgur.com/pXKQE0G.png" group-title="English;Undefined",Rave TV (576p) (eng9)  (English) (Undefined)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="English;Classic;Series",Rawhide (Sweden) (eng9)  (English) (Classic) (Series)
+#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="English;Classic;Series",Rawhide (Sweden) (eng10)  (English) (Classic) (Series)
 https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="English;Classic;Series",Rawhide (Sweden) DK (eng9)  (English) (Classic) (Series)
+#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="English;Classic;Series",Rawhide (Sweden) DK (eng10)  (English) (Classic) (Series)
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@NO" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="English;Classic;Series",Rawhide (Sweden) NO (eng9)  (English) (Classic) (Series)
+#EXTINF:-1 tvg-id="Rawhide.se@NO" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="English;Classic;Series",Rawhide (Sweden) NO (eng10)  (English) (Classic) (Series)
 https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-#EXTINF:-1 tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="English;Movies;Series",Rawhide (United States) (eng9)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="Rawhide.us@SD" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="English;Movies;Series",Rawhide (United States) (eng10)  (English) (Movies) (Series)
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="English;Movies;Series",Rawhide (United States) CA (eng9)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="English;Movies;Series",Rawhide (United States) CA (eng10)  (English) (Movies) (Series)
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
-#EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="English;General",RCTV3 (480p) (eng9)  (English) (General)
+#EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="English;General",RCTV3 (480p) (eng10)  (English) (General)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="RCTV.us@SD" tvg-logo="https://i.imgur.com/DWwequ0.png" group-title="English;Undefined",RCTV (United States) (720p) (eng9)  (English) (Undefined)
+#EXTINF:-1 tvg-id="RCTV.us@SD" tvg-logo="https://i.imgur.com/DWwequ0.png" group-title="English;Undefined",RCTV (United States) (720p) (eng10)  (English) (Undefined)
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" group-title="English;Undefined",Real America's Voice (1080p) (eng9)  (English) (Undefined)
+#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" group-title="English;Undefined",Real America's Voice (1080p) (eng10)  (English) (Undefined)
 https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
-#EXTINF:-1 tvg-id="RealAmericasVoice.us@KPVMLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" group-title="English;Undefined",Real America's Voice KPVM-LD (eng9)  (English) (Undefined)
+#EXTINF:-1 tvg-id="RealAmericasVoice.us@KPVMLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" group-title="English;Undefined",Real America's Voice KPVM-LD (eng10)  (English) (Undefined)
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="English;Sports",Real Madrid TV English (eng9)  (English) (Sports)
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="English;Sports",Real Madrid TV English (eng10)  (English) (Sports)
 http://88.212.15.19/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="English;Undefined",Real Wild (1080p) (eng10)  (English) (Undefined)
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
@@ -4779,25 +4799,25 @@ https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
 https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
 #EXTINF:-1 tvg-id="SouthParkKennyCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kenny Collection (Sweden) DK (eng10)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kenny Collection (Sweden) NO (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kenny Collection (Sweden) NO (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kenny Collection (United States) (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kenny Collection (United States) (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (Sweden) (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (Sweden) (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (Sweden) DK (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (Sweden) DK (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (Sweden) NO (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (Sweden) NO (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (United States) (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Kyle Collection (United States) (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (Sweden) (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se@SE" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (Sweden) (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (Sweden) DK (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se@DK" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (Sweden) DK (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (Sweden) NO (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se@NO" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (Sweden) NO (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (United States) (eng10)  (English) (Animation) (Comedy)
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Stan Collection (United States) (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 #EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png" group-title="English;Animation;Comedy",South Park: Welcome to Canada! (eng11)  (English) (Animation) (Comedy)
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
@@ -5258,25 +5278,25 @@ https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 tvg-id="TheTwilightZone.se@SE" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="English;Movies;Series",The Twilight Zone (eng11)  (English) (Movies) (Series)
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
-#EXTINF:-1 tvg-id="TheTwilightZone.se@DK" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="English;Movies;Series",The Twilight Zone DK (eng11)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="TheTwilightZone.se@DK" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="English;Movies;Series",The Twilight Zone DK (eng12)  (English) (Movies) (Series)
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
-#EXTINF:-1 tvg-id="TheTwilightZone.se@NO" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="English;Movies;Series",The Twilight Zone NO (eng11)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="TheTwilightZone.se@NO" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="English;Movies;Series",The Twilight Zone NO (eng12)  (English) (Movies) (Series)
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
-#EXTINF:-1 tvg-id="TheWalkTV.us@SD" tvg-logo="https://i.imgur.com/p3RAxjp.png" group-title="English;Undefined",The Walk TV (eng11)  (English) (Undefined)
+#EXTINF:-1 tvg-id="TheWalkTV.us@SD" tvg-logo="https://i.imgur.com/p3RAxjp.png" group-title="English;Undefined",The Walk TV (eng12)  (English) (Undefined)
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="English;Series",The Walking Dead Universe (720p) (eng11)  (English) (Series)
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="English;Series",The Walking Dead Universe (720p) (eng12)  (English) (Series)
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
-#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="English;Weather",The Weather Network (720p) (eng11)  (English) (Weather)
+#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="English;Weather",The Weather Network (720p) (eng12)  (English) (Weather)
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@SE" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="English;Classic;Series",The Wild Wild West (Sweden) (eng11)  (English) (Classic) (Series)
+#EXTINF:-1 tvg-id="TheWildWildWest.se@SE" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="English;Classic;Series",The Wild Wild West (Sweden) (eng12)  (English) (Classic) (Series)
 https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="English;Classic;Series",The Wild Wild West (Sweden) DK (eng11)  (English) (Classic) (Series)
+#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="English;Classic;Series",The Wild Wild West (Sweden) DK (eng12)  (English) (Classic) (Series)
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@NO" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="English;Classic;Series",The Wild Wild West (Sweden) NO (eng11)  (English) (Classic) (Series)
+#EXTINF:-1 tvg-id="TheWildWildWest.se@NO" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="English;Classic;Series",The Wild Wild West (Sweden) NO (eng12)  (English) (Classic) (Series)
 https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="English;Movies;Series",The Wild Wild West (United States) (eng11)  (English) (Movies) (Series)
+#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="English;Movies;Series",The Wild Wild West (United States) (eng12)  (English) (Movies) (Series)
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
-#EXTINF:-1 tvg-id="TheWordNetwork.us@SD" tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="English;Religious",The Word Network (1080p) (eng11)  (English) (Religious)
+#EXTINF:-1 tvg-id="TheWordNetwork.us@SD" tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="English;Religious",The Word Network (1080p) (eng12)  (English) (Religious)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TheYellowCouchwithJeremyLynch.de@GB" tvg-logo="https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png" group-title="English;Entertainment",The Yellow Couch with Jeremy Lynch (eng12)  (English) (Entertainment)
 https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
@@ -5633,6 +5653,8 @@ https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="English;Undefined",UniMas Central (720p) (eng12)  (English) (Undefined)
 http://190.197.41.183/Unimas/mono.m3u8
+#EXTINF:-1 tvg-id="UniMas.us@WAMIDT" tvg-logo="https://i.imgur.com/UpnzXnr.png" group-title="English;Undefined",UniMas WAMI-DT (1080p) (eng12)  (English) (Undefined)
+http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@WFUTDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png" group-title="English;Undefined",UniMas WFUT-DT (1080p) (eng12)  (English) (Undefined)
 http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="UniMas.us@WXTVDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="English;Undefined",UniMas WXTV-DT (eng12)  (English) (Undefined)
@@ -5737,27 +5759,27 @@ http://88.212.15.19/live/viasat6/index.m3u8
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.se@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="English;Documentary",Viasat History (Sweden) [Not 24/7] (eng12)  (English) (Documentary)
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="English;Movies",Viasat Kino (576p) (eng12)  (English) (Movies)
+#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="English;Movies",Viasat Kino (576p) (eng13)  (English) (Movies)
 http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="English;Movies",Viasat Kino Balkan (1080p) (eng12)  (English) (Movies)
+#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="English;Movies",Viasat Kino Balkan (1080p) (eng13)  (English) (Movies)
 http://176.61.157.250/TV1000/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="English;Movies",Viasat Kino Action (576p) (eng12)  (English) (Movies)
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="English;Movies",Viasat Kino Action (576p) (eng13)  (English) (Movies)
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="English;Comedy;Movies",Viasat Kino Comedy (eng12)  (English) (Comedy) (Movies)
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="English;Comedy;Movies",Viasat Kino Comedy (eng13)  (English) (Comedy) (Movies)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
-#EXTINF:-1 tvg-id="ViasatNature.se@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="English;Documentary",Viasat Nature (Sweden) [Not 24/7] (eng12)  (English) (Documentary)
+#EXTINF:-1 tvg-id="ViasatNature.se@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="English;Documentary",Viasat Nature (Sweden) [Not 24/7] (eng13)  (English) (Documentary)
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
-#EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="English;Undefined",VICE TV (1080p) (eng12)  (English) (Undefined)
+#EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="English;Undefined",VICE TV (1080p) (eng13)  (English) (Undefined)
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 tvg-id="VideoMixTV.us@SD" tvg-logo="https://i.imgur.com/nyLrIPP.png" group-title="English;Music",Video Mix TV (eng12)  (English) (Music)
+#EXTINF:-1 tvg-id="VideoMixTV.us@SD" tvg-logo="https://i.imgur.com/nyLrIPP.png" group-title="English;Music",Video Mix TV (eng13)  (English) (Music)
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
-#EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="English;Undefined",Vietnam Today (1080p) (eng12)  (English) (Undefined)
+#EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="English;Undefined",Vietnam Today (1080p) (eng13)  (English) (Undefined)
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:-1 tvg-id="VIPTV.aw@SD" tvg-logo="https://i.imgur.com/6N0qITv.png" group-title="English;Music",VIP TV (720p) (eng12)  (English) (Music)
+#EXTINF:-1 tvg-id="VIPTV.aw@SD" tvg-logo="https://i.imgur.com/6N0qITv.png" group-title="English;Music",VIP TV (720p) (eng13)  (English) (Music)
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
-#EXTINF:-1 tvg-id="VoATV.us@SD" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="English;News",VoA TV (1080p) (eng12)  (English) (News)
+#EXTINF:-1 tvg-id="VoATV.us@SD" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="English;News",VoA TV (1080p) (eng13)  (English) (News)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="VSCTV.us@SD" tvg-logo="https://i.imgur.com/cn6pAEZ.png" group-title="English;General",VSCTV (1080p) (eng13)  (English) (General)
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
@@ -6693,6 +6715,8 @@ http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Dutch;Kids",Disney Channel (Netherlands) (nld1)  (Dutch) (Kids)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://86.87.15.10:8004/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Dutch;Kids",Disney Channel (Netherlands) HD (1080i) (nld1)  (Dutch) (Kids)
+https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl@SD" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="Dutch;General",Dit is Helmond (480p) (nld1)  (Dutch) (General)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DTVDenBosch.nl@SD" tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="Dutch;General",DTV Den Bosch (1080p) (nld1)  (Dutch) (General)
@@ -7071,7 +7095,7 @@ https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
 https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se@SE" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="Swedish;Entertainment",Best of The Drew Barrymore Show (Sweden) (swe1)  (Swedish) (Entertainment)
 https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
-#EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Swedish;Series",BET (swe1)  (Swedish) (Series)
+#EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Swedish;Series",BET (Sweden) (swe1)  (Swedish) (Series)
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 #EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" group-title="Swedish;Series",Bondi Rescue (Sweden) (720p) (swe1)  (Swedish) (Series)
 https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
@@ -7329,7 +7353,7 @@ https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
 https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se@NO" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="Norwegian;Entertainment",Best of The Drew Barrymore Show (Sweden) NO (nor1)  (Norwegian) (Entertainment)
 https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
-#EXTINF:-1 tvg-id="BET.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Norwegian;Series",BET NO (nor1)  (Norwegian) (Series)
+#EXTINF:-1 tvg-id="BET.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Norwegian;Series",BET (Sweden) NO (nor1)  (Norwegian) (Series)
 https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 #EXTINF:-1 tvg-id="Boligjakten.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1dc21b9587d0007e3fc15/colorLogoPNG.png" group-title="Norwegian;Entertainment",Boligjakten (nor1)  (Norwegian) (Entertainment)
 https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
@@ -7567,7 +7591,7 @@ https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
 https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
 #EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se@DK" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="Danish;Entertainment",Best of The Drew Barrymore Show (Sweden) DK (dan1)  (Danish) (Entertainment)
 https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
-#EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Danish;Series",BET DK (dan1)  (Danish) (Series)
+#EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" group-title="Danish;Series",BET (Sweden) DK (dan1)  (Danish) (Series)
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
 #EXTINF:-1 tvg-id="Boligkobiblinde.se@DK" tvg-logo="https://images.pluto.tv/channels/63c6a27a4faf1c0007b48f7b/colorLogoPNG.png" group-title="Danish;Cooking;Lifestyle",Boligkob i blinde (dan1)  (Danish) (Cooking) (Lifestyle)
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
@@ -8115,6 +8139,10 @@ https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Romanian;Music",Radio Romania Antena Satelor (720p) [Not 24/7] (ron1)  (Romanian) (Music)
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="Romanian;General;Music",Radio Romania Oltenia-Craiova (576p) [Not 24/7] (ron1)  (Romanian) (General) (Music)
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="Romanian;General;Music",Radio Romania Targu Mures (576p) (ron1)  (Romanian) (General) (Music)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Romanian;Undefined",Realitatea Plus (720p) (ron1)  (Romanian) (Undefined)
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Romanian;Sports",Realitatea Sportiva (720p) (ron1)  (Romanian) (Sports)
@@ -8306,9 +8334,8 @@ https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="A7TV.do@HD" tvg-logo="https://a7tvjarabacoa.netlify.app/IMG_1968.PNG" group-title="Spanish;General",A7 TV (1080p) (spa1)  (Spanish) (General)
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Spanish;News",A24 (720p) (spa1)  (Spanish) (News)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Spanish;News",A24 (1080p) (spa1)  (Spanish) (News)
+http://138.59.227.20:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="APunt.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Spanish;General;Public",A Punt (720p) (spa1)  (Spanish) (General) (Public)
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Spanish;Entertainment",A&E Latin America (1080p) (spa1)  (Spanish) (Entertainment)
@@ -8714,7 +8741,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe@SD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Spanish;Undefined",Cadena TV SD (spa1)  (Spanish) (Undefined)
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CajamarcaTV.pe@SD" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="Spanish;General",Cajamarca TV (720p) (spa2)  (Spanish) (General)
+#EXTINF:-1 tvg-id="CajamarcaTV.pe@SD" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="Spanish;General",Cajamarca TV (720p) (spa1)  (Spanish) (General)
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CalderaVision.cl@SD" tvg-logo="https://i.imgur.com/A3Jiffe.png" group-title="Spanish;General",Caldera Vision (spa2)  (Spanish) (General)
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
@@ -9194,7 +9221,7 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CartagoMediosTV.cr@SD" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="Spanish;General",Cartago Medios TV (720p) [Not 24/7] (spa2)  (Spanish) (General)
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Spanish;General",Cascara TV (720p) (spa3)  (Spanish) (General)
+#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Spanish;General",Cascara TV (720p) (spa2)  (Spanish) (General)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CasmaTV.pe@SD" tvg-logo="https://i.imgur.com/42aE0nm.jpeg" group-title="Spanish;General",Casma TV (720p) (spa3)  (Spanish) (General)
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
@@ -9292,12 +9319,16 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Spanish;Movies",Cine Western (Spain) (1080p) (spa3)  (Spanish) (Movies)
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Spanish;Movies",Cine.Ar (1080p) (spa3)  (Spanish) (Movies)
+http://181.209.105.115:2525/play/cinear/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Spanish;Movies",Cinecanal (1080p) (spa3)  (Spanish) (Movies)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Spanish;Movies",Cinecanal Pacific (1080p) (spa3)  (Spanish) (Movies)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Spanish;Movies",CineLatino (720p) (spa3)  (Spanish) (Movies)
 http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png" group-title="Spanish;Movies",Cinemax Action East HD (1080p) (spa3)  (Spanish) (Movies)
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png" group-title="Spanish;Movies",Cinemax Hits (1080p) (spa3)  (Spanish) (Movies)
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinePride.us@SD" tvg-logo="https://i.imgur.com/Y4Wgq8I.png" group-title="Spanish;Lifestyle",CinePride (720p) (spa3)  (Spanish) (Lifestyle)
@@ -9454,6 +9485,8 @@ https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision3
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 #EXTINF:-1 tvg-id="CromTV.do@SD" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="Spanish;General",CromTV (1080p) [Not 24/7] (spa3)  (Spanish) (General)
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Spanish;News",Cronica TV (1080p) (spa3)  (Spanish) (News)
+http://181.209.105.115:2525/play/cronica/index.m3u8
 #EXTINF:-1 tvg-id="CRTV.cl@SD" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Spanish;Sports",CRTV (Chile) (720p) (spa3)  (Spanish) (Sports)
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-id="CruzTV.us@SD" tvg-logo="https://i.imgur.com/qOO2SaH.png" group-title="Spanish;Legislative",Cruz TV (spa3)  (Spanish) (Legislative)
@@ -9536,6 +9569,8 @@ https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Spanish;Sports",Deportes TVC (1080p) (spa3)  (Spanish) (Sports)
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Spanish;Sports",DeporTV (1080p) (spa3)  (Spanish) (Sports)
+http://181.209.105.115:2525/play/deportv/index.m3u8
 #EXTINF:-1 tvg-id="DespiertaTV.mx@SD" tvg-logo="https://i.imgur.com/hywjKNo.jpg" group-title="Spanish;General",Despierta TV (1080p) [Not 24/7] (spa3)  (Spanish) (General)
 https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us@Spain" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512" group-title="Spanish;Animation;Kids",Detective Conan (spa3)  (Spanish) (Animation) (Kids)
@@ -9612,8 +9647,8 @@ http://45.162.193.35/DOCU/index.m3u8
 https://xyktmobile00.s.gy/PPV913_DREAMWO
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Spanish;Animation",Dreiko TV (720p) [Not 24/7] (spa3)  (Spanish) (Animation)
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Spanish;Sports",DSports 2 (spa3)  (Spanish) (Sports)
-http://138.121.113.175:8000/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Spanish;Sports",DSports 2 (1080p) (spa3)  (Spanish) (Sports)
+http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Spanish;Sports",DSports (1080p) (spa3)  (Spanish) (Sports)
 http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="DTV.pe@SD" tvg-logo="https://i.imgur.com/OSvegAq.png" group-title="Spanish;General",DTV (Peru) (720p) (spa3)  (Spanish) (General)
@@ -9667,13 +9702,13 @@ https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="El3deConce.cl@SD" tvg-logo="https://i.imgur.com/KvsrWyE.png" group-title="Spanish;General",El 3 de Conce (spa3)  (Spanish) (General)
 https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
-#EXTINF:-1 tvg-id="El15TV.sv@SD" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="Spanish;General",El 15 TV (720p) [Not 24/7] (spa3)  (Spanish) (General)
+#EXTINF:-1 tvg-id="El15TV.sv@SD" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="Spanish;General",El 15 TV (720p) [Not 24/7] (spa4)  (Spanish) (General)
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
-#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="Spanish;Religious",El Camino TV (480p) (spa3)  (Spanish) (Religious)
+#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="Spanish;Religious",El Camino TV (480p) (spa4)  (Spanish) (Religious)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElCanalFeliz.cl@SD" tvg-logo="https://i.imgur.com/UlmYraS.png" group-title="Spanish;Entertainment",El Canal Feliz (720p) (spa3)  (Spanish) (Entertainment)
+#EXTINF:-1 tvg-id="ElCanalFeliz.cl@SD" tvg-logo="https://i.imgur.com/UlmYraS.png" group-title="Spanish;Entertainment",El Canal Feliz (720p) (spa4)  (Spanish) (Entertainment)
 http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
-#EXTINF:-1 tvg-id="ElCentroTV.cl@SD" tvg-logo="https://i.imgur.com/2KqGHvA.png" group-title="Spanish;News",El Centro TV (720p) (spa3)  (Spanish) (News)
+#EXTINF:-1 tvg-id="ElCentroTV.cl@SD" tvg-logo="https://i.imgur.com/2KqGHvA.png" group-title="Spanish;News",El Centro TV (720p) (spa4)  (Spanish) (News)
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Spanish;Kids",El Chavo TV (720p) (spa4)  (Spanish) (Kids)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -9738,6 +9773,8 @@ https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
 #EXTINF:-1 tvg-id="EnLineaMaule.cl@SD" tvg-logo="https://enlineamaule.cl/wp-content/uploads/2025/08/En-linea-Maule841351465.png" group-title="Spanish;General",En Linea Maule (720p) (spa4)  (Spanish) (General)
 https://v2.tustreaming.cl/enlineamauletv/index.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Spanish;Culture",Encuentro (720p) (spa4)  (Spanish) (Culture)
+http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Spanish;Animation",EnerGeek FAN (1080p) (spa4)  (Spanish) (Animation)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="Spanish;Music",EnerGeek Radio (1080p) (spa4)  (Spanish) (Music)
@@ -10018,6 +10055,10 @@ https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HBODrama.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png" group-title="Spanish;Movies;Series",HBO Drama (1080p) (spa4)  (Spanish) (Movies) (Series)
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us@West" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png" group-title="Spanish;Movies;Series",HBO Drama West (1080p) (spa4)  (Spanish) (Movies) (Series)
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@WestHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Spanish;Movies;Series",HBO Hits West HD (1080p) (spa4)  (Spanish) (Movies) (Series)
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="Spanish;Movies;Series",HBO Movies (720p) (spa4)  (Spanish) (Movies) (Series)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Spanish;News",HCH (720p) (spa4)  (Spanish) (News)
@@ -10141,19 +10182,19 @@ https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="Italianissimo.ve@SD" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="Spanish;Music",Italianissimo (360p) [Not 24/7] (spa4)  (Spanish) (Music)
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 tvg-id="ItelTVCanal2.ar@SD" tvg-logo="https://i.imgur.com/OxmpRDx.png" group-title="Spanish;General",Itel TV Canal 2 (spa4)  (Spanish) (General)
+#EXTINF:-1 tvg-id="ItelTVCanal2.ar@SD" tvg-logo="https://i.imgur.com/OxmpRDx.png" group-title="Spanish;General",Itel TV Canal 2 (spa5)  (Spanish) (General)
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Spanish;Entertainment;Sports",ITV Deportes (720p) (spa4)  (Spanish) (Entertainment) (Sports)
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Spanish;Entertainment;Sports",ITV Deportes (720p) (spa5)  (Spanish) (Entertainment) (Sports)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="ITVPatagonia.cl@SD" tvg-logo="https://rhk91h.infiniteuploads.cloud/2025/08/Logo-ITV-Patagonia.jpg" group-title="Spanish;General",ITV Patagonia (720p) (spa4)  (Spanish) (General)
+#EXTINF:-1 tvg-id="ITVPatagonia.cl@SD" tvg-logo="https://rhk91h.infiniteuploads.cloud/2025/08/Logo-ITV-Patagonia.jpg" group-title="Spanish;General",ITV Patagonia (720p) (spa5)  (Spanish) (General)
 https://redirector.dps.live/hls/itv/playlist.m3u8
-#EXTINF:-1 tvg-id="JacalCanal5.gt@SD" tvg-logo="https://i.imgur.com/k1oW0C6.png" group-title="Spanish;General",Jacal Canal 5 (720p) [Not 24/7] (spa4)  (Spanish) (General)
+#EXTINF:-1 tvg-id="JacalCanal5.gt@SD" tvg-logo="https://i.imgur.com/k1oW0C6.png" group-title="Spanish;General",Jacal Canal 5 (720p) [Not 24/7] (spa5)  (Spanish) (General)
 https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Spanish;Culture;Education",Jalisco TV (720p) (spa4)  (Spanish) (Culture) (Education)
+#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Spanish;Culture;Education",Jalisco TV (720p) (spa5)  (Spanish) (Culture) (Education)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-id="JARABACOATV.do@HD" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="Spanish;Entertainment",JARABACOA TV (1080p) [Not 24/7] (spa4)  (Spanish) (Entertainment)
+#EXTINF:-1 tvg-id="JARABACOATV.do@HD" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="Spanish;Entertainment",JARABACOA TV (1080p) [Not 24/7] (spa5)  (Spanish) (Entertainment)
 https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JBN.ni@SD" tvg-logo="https://i.imgur.com/vFi0FMZ.png" group-title="Spanish;Religious",JBN (720p) [Not 24/7] (spa4)  (Spanish) (Religious)
+#EXTINF:-1 tvg-id="JBN.ni@SD" tvg-logo="https://i.imgur.com/vFi0FMZ.png" group-title="Spanish;Religious",JBN (720p) [Not 24/7] (spa5)  (Spanish) (Religious)
 https://hdbox.chunklistv.com/live?stream=jbn39
 #EXTINF:-1 tvg-id="JBNTV.hn@SD" tvg-logo="https://i.imgur.com/4EbHIvf.png" group-title="Spanish;Religious",JBN TV (1080p) (spa5)  (Spanish) (Religious)
 https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
@@ -10621,19 +10662,19 @@ http://45.4.1.201:8000/play/a13e/index.m3u8
 http://45.4.1.201:8000/play/a19y/index.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Spanish;Animation;Kids",Mr Bean Animated ES (1080p) (spa5)  (Spanish) (Animation) (Kids)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Spanish;Sports",MSG (720p) (spa5)  (Spanish) (Sports)
+#EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="Spanish;Sports",MSG (720p) (spa6)  (Spanish) (Sports)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 tvg-id="MTNATV.cl@SD" tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Spanish;Religious",MTNA TV (spa5)  (Spanish) (Religious)
+#EXTINF:-1 tvg-id="MTNATV.cl@SD" tvg-logo="https://i.imgur.com/v7SA92F.png" group-title="Spanish;Religious",MTNA TV (spa6)  (Spanish) (Religious)
 https://live.mtna.tv/hls/mtna/mtna.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="Spanish;Entertainment",MTV2 (720p) (spa5)  (Spanish) (Entertainment)
+#EXTINF:-1 tvg-id="MTV2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="Spanish;Entertainment",MTV2 (720p) (spa6)  (Spanish) (Entertainment)
 http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Spanish;Music",MTV Biggest Pop LatAm (1080p) (spa5)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Spanish;Music",MTV Biggest Pop LatAm (1080p) (spa6)  (Spanish) (Music)
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="MTVCatfish.us@LatAm" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Spanish;Entertainment",MTV Catfish (United States) LatAm (720p) (spa5)  (Spanish) (Entertainment)
+#EXTINF:-1 tvg-id="MTVCatfish.us@LatAm" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Spanish;Entertainment",MTV Catfish (United States) LatAm (720p) (spa6)  (Spanish) (Entertainment)
 https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
-#EXTINF:-1 tvg-id="MTVChontales.ni@SD" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="Spanish;General",MTV Chontales (720p) [Not 24/7] (spa5)  (Spanish) (General)
+#EXTINF:-1 tvg-id="MTVChontales.ni@SD" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="Spanish;General",MTV Chontales (720p) [Not 24/7] (spa6)  (Spanish) (General)
 https://altair.hostingnica.net/hls/mtv_stream/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Spanish;Music",MTV Classic LatAm (720p) (spa5)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="MTVClassic.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Spanish;Music",MTV Classic LatAm (720p) (spa6)  (Spanish) (Music)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="MTVConMiEx.us@LatAm" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="Spanish;Entertainment",MTV Con Mi Ex (spa6)  (Spanish) (Entertainment)
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
@@ -10911,8 +10952,8 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="OzonoTV.pe@SD" tvg-logo="https://i.imgur.com/Wkdibpv.png" group-title="Spanish;General",Ozono TV (720p) (spa6)  (Spanish) (General)
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Spanish;Kids",Pakapaka (spa6)  (Spanish) (Kids)
-https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
+#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Spanish;Kids",Pakapaka (1080p) (spa6)  (Spanish) (Kids)
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo@SD" tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="Spanish;General",Palenque TV (576p) (spa6)  (Spanish) (General)
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 #EXTINF:-1 tvg-id="PalmarTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="Spanish;General",Palmar TV [Not 24/7] (spa6)  (Spanish) (General)
@@ -11101,19 +11142,19 @@ https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
 https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us@SD" tvg-logo="https://i.imgur.com/1WDFKF0.png" group-title="Spanish;Series",Pluto TV Misterios Medicos (spa6)  (Spanish) (Series)
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMotor.de@ES" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Spanish;Auto",Pluto TV Motor (Germany) (spa6)  (Spanish) (Auto)
+#EXTINF:-1 tvg-id="PlutoTVMotor.de@ES" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Spanish;Auto",Pluto TV Motor (Germany) (spa7)  (Spanish) (Auto)
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Spanish;Documentary;Outdoor",Pluto TV Naturaleza (spa6)  (Spanish) (Documentary) (Outdoor)
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Spanish;Documentary;Outdoor",Pluto TV Naturaleza (spa7)  (Spanish) (Documentary) (Outdoor)
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNovelas.us@US" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Spanish;Series",Pluto TV Novelas (spa6)  (Spanish) (Series)
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us@US" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Spanish;Series",Pluto TV Novelas (spa7)  (Spanish) (Series)
 https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNovelas.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Spanish;Series",Pluto TV Novelas LatAm (spa6)  (Spanish) (Series)
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="Spanish;Series",Pluto TV Novelas LatAm (spa7)  (Spanish) (Series)
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="Spanish;Series",Pluto TV Novelas de Mexico (spa6)  (Spanish) (Series)
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" group-title="Spanish;Series",Pluto TV Novelas de Mexico (spa7)  (Spanish) (Series)
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNovelasdeOtrosContinentes.us@LatAm" tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png" group-title="Spanish;Series",Pluto TV Novelas de Otros Continentes (spa6)  (Spanish) (Series)
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeOtrosContinentes.us@LatAm" tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png" group-title="Spanish;Series",Pluto TV Novelas de Otros Continentes (spa7)  (Spanish) (Series)
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNovelasdeVenezuela.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png" group-title="Spanish;Series",Pluto TV Novelas de Venezuela (spa6)  (Spanish) (Series)
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeVenezuela.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png" group-title="Spanish;Series",Pluto TV Novelas de Venezuela (spa7)  (Spanish) (Series)
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNuestroCine.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Spanish;Movies",Pluto TV Nuestro Cine (spa7)  (Spanish) (Movies)
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
@@ -11581,19 +11622,19 @@ https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Rugrats.de@ES" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Spanish;Kids",Rugrats (Germany) (spa7)  (Spanish) (Kids)
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Spanish;Kids",Rugrats (United States) (spa7)  (Spanish) (Kids)
+#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Spanish;Kids",Rugrats (United States) (spa8)  (Spanish) (Kids)
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Spanish;Music",Rumba TV (1080p) (spa7)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Spanish;Music",Rumba TV (1080p) (spa8)  (Spanish) (Music)
 http://45.162.193.35/RUMBATV/index.m3u8
-#EXTINF:-1 tvg-id="RumbaMixTV.pe@SD" tvg-logo="https://i.imgur.com/rwA3HIp.png" group-title="Spanish;Music",RumbaMix TV (720p) (spa7)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="RumbaMixTV.pe@SD" tvg-logo="https://i.imgur.com/rwA3HIp.png" group-title="Spanish;Music",RumbaMix TV (720p) (spa8)  (Spanish) (Music)
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" group-title="Spanish;General",Rumbo Minero TV (1080p) (spa7)  (Spanish) (General)
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" group-title="Spanish;General",Rumbo Minero TV (1080p) (spa8)  (Spanish) (General)
 http://45.70.201.81:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Spanish;Movies",Runtime Espanol (720p) (spa7)  (Spanish) (Movies)
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Spanish;Movies",Runtime Espanol (720p) (spa8)  (Spanish) (Movies)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 tvg-id="Ruta66TV.do@SD" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="Spanish;General",Ruta 66 TV (1080p) [Not 24/7] (spa7)  (Spanish) (General)
+#EXTINF:-1 tvg-id="Ruta66TV.do@SD" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="Spanish;General",Ruta 66 TV (1080p) [Not 24/7] (spa8)  (Spanish) (General)
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
-#EXTINF:-1 tvg-id="SaborTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" group-title="Spanish;Music",Sabor TV (720p) (spa7)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="SaborTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" group-title="Spanish;Music",Sabor TV (720p) (spa8)  (Spanish) (Music)
 https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Spanish;Music",Salsa Gorda Television (1080p) [Not 24/7] (spa8)  (Spanish) (Music)
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
@@ -12061,19 +12102,19 @@ https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenorte.pr@SD" tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="Spanish;General",Telenorte (720p) (spa8)  (Spanish) (General)
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" group-title="Spanish;Classic",TeleNostalgia (1080p) (spa8)  (Spanish) (Classic)
+#EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" group-title="Spanish;Classic",TeleNostalgia (1080p) (spa9)  (Spanish) (Classic)
 http://38.134.250.110:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="Telenovisa43.do@SD" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Spanish;Family;General",Telenovisa43 (720p) [Not 24/7] (spa8)  (Spanish) (Family) (General)
+#EXTINF:-1 tvg-id="Telenovisa43.do@SD" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Spanish;Family;General",Telenovisa43 (720p) [Not 24/7] (spa9)  (Spanish) (Family) (General)
 https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Spanish;Undefined",TeleOnce (1080p) (spa8)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="Spanish;Undefined",TeleOnce (1080p) (spa9)  (Spanish) (Undefined)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleonuba.es@SD" tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="Spanish;Undefined",Teleonuba (1080p) (spa8)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="Teleonuba.es@SD" tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="Spanish;Undefined",Teleonuba (1080p) (spa9)  (Spanish) (Undefined)
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Spanish;General",Telepacifico (1080p) (spa8)  (Spanish) (General)
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Spanish;General",Telepacifico (1080p) (spa9)  (Spanish) (General)
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
-#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Spanish;Entertainment",Teleplay Sureste (720p) (spa8)  (Spanish) (Entertainment)
+#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Spanish;Entertainment",Teleplay Sureste (720p) (spa9)  (Spanish) (Entertainment)
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleQuindio.co@SD" tvg-logo="https://i.imgur.com/bJWj5ja.png" group-title="Spanish;General",TeleQuindio (1080p) (spa8)  (Spanish) (General)
+#EXTINF:-1 tvg-id="TeleQuindio.co@SD" tvg-logo="https://i.imgur.com/bJWj5ja.png" group-title="Spanish;General",TeleQuindio (1080p) (spa9)  (Spanish) (General)
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRadioNorte.do@SD" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="Spanish;General",TeleRadioNorte (720p) (spa9)  (Spanish) (General)
 https://angelistic.live:3785/live/tvoficiallive.m3u8
@@ -12199,8 +12240,12 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.cr@SD" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Spanish;Sports",Tigo Sports (Costa Rica) (720p) [Geo-blocked] (spa9)  (Spanish) (Sports)
 https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Spanish;Sports",Tigo Sports (El Salvador) (1080p) (spa9)  (Spanish) (Sports)
+http://45.167.2.101:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Spanish;Sports",Tigo Sports (Guatemala) (1080p) (spa9)  (Spanish) (Sports)
 http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Spanish;Sports",Tigo Sports (Honduras) (1080p) (spa9)  (Spanish) (Sports)
+http://168.196.127.137:6001/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Spanish;Sports",Tigo Sports (Paraguay) (1080p) (spa9)  (Spanish) (Sports)
 http://45.170.130.224:8000/play/a04k/index.m3u8?hls
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" http-referrer="https://www.tigosports.com.py/" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" group-title="Spanish;Sports",Tigo Sports+ (1280p) (spa9)  (Spanish) (Sports)
@@ -12219,6 +12264,8 @@ https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Spanish;Series",Tlnovelas Latin America (1080p) (spa9)  (Spanish) (Series)
 http://209.14.115.253:8081/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Spanish;Series",Tlnovelas Mexico (1080p) (spa9)  (Spanish) (Series)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="Spanish;General",TN8 (1080p) (spa9)  (Spanish) (General)
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-id="TN23.gt@SD" tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Spanish;News",TN23 (720p) (spa9)  (Spanish) (News)
@@ -12536,24 +12583,24 @@ https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVO.do@SD" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="Spanish;General",TVO (720p) [Not 24/7] (spa9)  (Spanish) (General)
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
-#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="Spanish;General",TVO Canal 23 (720p) (spa9)  (Spanish) (General)
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="Spanish;General",TVO Canal 23 (720p) (spa10)  (Spanish) (General)
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOJesus.es@SD" tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Spanish;Undefined",TVO Jesus (720p) (spa9)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="TVOJesus.es@SD" tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Spanish;Undefined",TVO Jesus (720p) (spa10)  (Spanish) (Undefined)
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
-#EXTINF:-1 tvg-id="TVOSanVicente.cl@SD" tvg-logo="https://i.imgur.com/PCVWtHd.png" http-referrer="http://www.tvosanvicente.cl/" group-title="Spanish;Undefined",TVO San Vicente (720p) (spa9)  (Spanish) (Undefined)
+#EXTINF:-1 tvg-id="TVOSanVicente.cl@SD" tvg-logo="https://i.imgur.com/PCVWtHd.png" http-referrer="http://www.tvosanvicente.cl/" group-title="Spanish;Undefined",TVO San Vicente (720p) (spa10)  (Spanish) (Undefined)
 #EXTVLCOPT:http-referrer=http://www.tvosanvicente.cl/
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOMIX.es@HD" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="Spanish;Music",TVOMIX (1080p) (spa9)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="TVOMIX.es@HD" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="Spanish;Music",TVOMIX (1080p) (spa10)  (Spanish) (Music)
 https://cloud.tvomix.com/TVOMIX/index.m3u8
-#EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Spanish;Music",TVONE Nicaragua (720p) [Not 24/7] (spa9)  (Spanish) (Music)
+#EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Spanish;Music",TVONE Nicaragua (720p) [Not 24/7] (spa10)  (Spanish) (Music)
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-id="TvOro.ec@SD" tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="Spanish;General",TvOro (1080p) (spa9)  (Spanish) (General)
+#EXTINF:-1 tvg-id="TvOro.ec@SD" tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="Spanish;General",TvOro (1080p) (spa10)  (Spanish) (General)
 http://45.187.0.19:9090/tvusa/index.m3u8
-#EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Culiacan (720p) [Not 24/7] (spa9)  (Spanish) (General)
+#EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Culiacan (720p) [Not 24/7] (spa10)  (Spanish) (General)
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Los Mochis (720p) [Not 24/7] (spa9)  (Spanish) (General)
+#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Los Mochis (720p) [Not 24/7] (spa10)  (Spanish) (General)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Mazatlan (720p) [Not 24/7] (spa9)  (Spanish) (General)
+#EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Mazatlan (720p) [Not 24/7] (spa10)  (Spanish) (General)
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Spanish;General",TVP Obregon (720p) [Not 24/7] (spa10)  (Spanish) (General)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
@@ -12923,6 +12970,8 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-id="ZonaPlayTV.cl@SD" tvg-logo="https://i.imgur.com/GewcpHv.png" group-title="Spanish;Entertainment",Zona Play TV (720p) (spa10)  (Spanish) (Entertainment)
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
+#EXTINF:-1 tvg-id="ZonaSurTV.cl@SD" tvg-logo="https://i.imgur.com/b1OtwDg.png" group-title="Spanish;General",Zona Sur TV (1080p) (spa10)  (Spanish) (General)
+http://170.79.235.133:8002/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="Spanish;General",Zonavision TV [Not 24/7] (spa10)  (Spanish) (General)
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Spanish;Education",Zoom (Colombia) (1080p) (spa10)  (Spanish) (Education)
@@ -13611,6 +13660,8 @@ http://zntx.dyndns.org:8085/hls/stv7.m3u8
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="Portuguese;Sports",SporTV 3 (720p) (por2)  (Portuguese) (Sports)
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+#EXTINF:-1 tvg-id="SporTV.br@SD" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Portuguese;Sports",SporTV (1080p) (por2)  (Portuguese) (Sports)
+http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Portuguese;Entertainment",Star Channel (Portugal) (por2)  (Portuguese) (Entertainment)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/fox.m3u8
@@ -13892,7 +13943,7 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="UniTVPortoAlegre.br@SD" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Portuguese;Education",UniTV Porto Alegre (480p) (por2)  (Portuguese) (Education)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portuguese;General",V+ TVI (720p) (por2)  (Portuguese) (General)
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portuguese;General",V+ TVI (720p) (por3)  (Portuguese) (General)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
 #EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="Portuguese;News",VEJA+ TV (1080p) (por3)  (Portuguese) (News)
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
@@ -15512,16 +15563,16 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 tvg-id="555.ru@SD" tvg-logo="https://i.imgur.com/JQZkxeA.png" group-title="Russian;General",555 (720p) (rus1)  (Russian) (General)
 http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="PlusTV.by@SD" tvg-logo="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" group-title="Russian;General",+TV (576p) [Geo-blocked] (rus1)  (Russian) (General)
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Russian;Entertainment",.black (576p) (rus1)  (Russian) (Entertainment)
-http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-id="red.ru@SD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russian;Entertainment",.red (576p) (rus1)  (Russian) (Entertainment)
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@HD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russian;Entertainment",.red HD (1080p) (rus1)  (Russian) (Entertainment)
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Russian;Science",.sci-fi (576p) (rus1)  (Russian) (Science)
-http://31.148.48.15/SONY_SCI_FI/index.m3u8
-#EXTINF:-1 tvg-id="PlusTV.by@SD" tvg-logo="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" group-title="Russian;General",+TV (576p) [Geo-blocked] (rus1)  (Russian) (General)
-https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
-#EXTINF:-1 tvg-id="red.ru@SD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russian;Entertainment",.red (576p) (rus1)  (Russian) (Entertainment)
-http://5.188.159.128:8070/RED/index.m3u8
+http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="A1.ru@SD" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Russian;Music",A1 (576p) (rus1)  (Russian) (Music)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Russian;Series",A2 (576p) (rus1)  (Russian) (Series)
@@ -17400,10 +17451,16 @@ http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Polish;Music",4 Fun TV (576i) [Not 24/7] (pol1)  (Polish) (Music)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="13Ulica.pl@SD" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="Polish;Entertainment",13 Ulica (1080p) (pol1)  (Polish) (Entertainment)
+http://57.128.231.171:8080/325/index.m3u8
+#EXTINF:-1 tvg-id="AdventureTV.pl@SD" tvg-logo="https://i.imgur.com/VQVr4Nk.png" group-title="Polish;Undefined",Adventure TV (1080p) (pol1)  (Polish) (Undefined)
+http://57.128.231.171:8080/320/index.m3u8
 #EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl@HD" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" group-title="Polish;Entertainment",ATM Rozrywka REWORK (720p) (pol1)  (Polish) (Entertainment)
 https://grupaatmrr.org.pl:8888/fallback/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Poland" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Polish;Movies",AXN Black Poland (576p) (pol1)  (Polish) (Movies)
 http://185.227.34.179:8080/axn-black/index.m3u8
+#EXTINF:-1 tvg-id="AXNPoland.pl@SD" tvg-logo="https://i.imgur.com/i5wOhkf.png" group-title="Polish;Movies",AXN Poland (pol1)  (Polish) (Movies)
+https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 tvg-id="AXNSpin.hu@SD" tvg-logo="https://i.imgur.com/uVFenKm.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Polish;Entertainment",AXN Spin (pol1)  (Polish) (Entertainment)
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -17432,6 +17489,8 @@ https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Polish;Kids",CBeebies (Poland) (576p) (pol1)  (Polish) (Kids)
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="Polish;Entertainment",Crime + Investigation Polsat (1080p) (pol1)  (Polish) (Entertainment)
+http://57.128.231.171:8080/285/index.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="Polish;Music",Disco Polo Music (1080p) (pol1)  (Polish) (Music)
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Polish;Kids",Disney Channel (Poland) HD (1080p) (pol1)  (Polish) (Kids)
@@ -17440,6 +17499,8 @@ http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl@HD" tvg-logo="" group-title="Polish;General",Dr G Medical Examiner (pol1)  (Polish) (General)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+#EXTINF:-1 tvg-id="E.pl@SD" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Polish;Entertainment",E! (Poland) (1080p) (pol1)  (Polish) (Entertainment)
+http://57.128.231.171:8080/273/index.m3u8
 #EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Polish;Legislative",EbS (1080p) (pol1)  (Polish) (Legislative)
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Polish;Legislative",EbS+ (1080p) (pol1)  (Polish) (Legislative)
@@ -17477,12 +17538,10 @@ https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="KanalZEROTV.pl@HD" tvg-logo="https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg" http-user-agent="Enigma2" group-title="Polish;News",Kanal ZERO TV (pol1)  (Polish) (News)
 #EXTVLCOPT:http-user-agent=Enigma2
 https://racitonsen.s.gy/ZERO_PL
-#EXTINF:-1 tvg-id="KinoPolska.pl@SD" tvg-logo="https://i.imgur.com/lbl8K23.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Polish;Movies",Kino Polska (pol1)  (Polish) (Movies)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://racitonsen.s.gy/KINO_POLSKA
-#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl@SD" tvg-logo="https://i.imgur.com/lE1IlPQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Polish;Music",Kino Polska Muzyka (pol1)  (Polish) (Music)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://racitonsen.s.gy/KINO_POLSKA_MUZYKA
+#EXTINF:-1 tvg-id="KinoPolska.pl@SD" tvg-logo="https://i.imgur.com/lbl8K23.png" group-title="Polish;Movies",Kino Polska (1080p) (pol1)  (Polish) (Movies)
+http://57.128.231.171:8080/238/index.m3u8
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl@SD" tvg-logo="https://i.imgur.com/lE1IlPQ.png" group-title="Polish;Music",Kino Polska Muzyka (1080p) (pol1)  (Polish) (Music)
+http://57.128.231.171:8080/237/index.m3u8
 #EXTINF:-1 tvg-id="Mango.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" group-title="Polish;Shop",Mango (Poland) (1080p) [Geo-blocked] (pol1)  (Polish) (Shop)
 https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-id="Moconomy.pl@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="Polish;Undefined",Moconomy (pol1)  (Polish) (Undefined)
@@ -17498,6 +17557,8 @@ https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatCafe.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/500px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="Polish;Undefined",Polsat Cafe (720p) (pol1)  (Polish) (Undefined)
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl@SD" tvg-logo="https://i.imgur.com/6GOWgtE.png" group-title="Polish;Comedy",Polsat Comedy Central Extra (1080p) (pol1)  (Polish) (Comedy)
+http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1 tvg-id="PolsatFilm2.pl@SD" tvg-logo="https://i.imgur.com/19aDJjn.png" group-title="Polish;Movies",Polsat Film 2 (720p) (pol1)  (Polish) (Movies)
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PolsatGames.pl@HD" tvg-logo="https://i.imgur.com/OSCrBvh.png" group-title="Polish;Undefined",Polsat Games HD (1080p) (pol1)  (Polish) (Undefined)
