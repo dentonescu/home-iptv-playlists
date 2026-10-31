@@ -59,7 +59,7 @@ https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-chno="2003" tvg-id="ArgesTV.ro@SD" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="Romanian;General",Arges TV (720p) (ron1)  (Romanian) (General)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
-#EXTINF:-1 tvg-chno="2004" tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="English;Music",Atomic TV (360p) (eng1)  (English) (Music)
+#EXTINF:-1 tvg-chno="2004" tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="English;Music",Atomic TV (360p) (eng2)  (English) (Music)
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-chno="2005" tvg-id="BanatTV.ro@SD" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romanian;General",Banat TV (ron1)  (Romanian) (General)
 https://www.btv.ro/hls/banat-tv.m3u8
@@ -177,7 +177,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-chno="3021" tvg-id="RadioWeserTVBremen.de@SD" tvg-logo="" group-title="German;Music",Radio Weser TV Bremen (576p) (deu1)  (German) (Music)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="German;Undefined",RTL Super (deu1)  (German) (Undefined)
+#EXTINF:-1 tvg-chno="3023" tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="German;Undefined",RTL Super (deu2)  (German) (Undefined)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="3024" tvg-id="WELT.de@SD" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="German;News",WELT (deu2)  (German) (News)
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
@@ -303,9 +303,9 @@ https://stream.farra.com.py/live/farra_low.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-chno="8025" tvg-id="France24.fr@Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Spanish;News",France 24 Spanish (1080p) (spa4)  (Spanish) (News)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-chno="8026" tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Spanish;News",HCH (720p) (spa5)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8026" tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Spanish;News",HCH (720p) (spa4)  (Spanish) (News)
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:-1 tvg-chno="8028" tvg-id="HermanasMirabalTV.do@SD" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Spanish;News",Hermanas Mirabal TV (720p) [Not 24/7] (spa5)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8028" tvg-id="HermanasMirabalTV.do@SD" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Spanish;News",Hermanas Mirabal TV (720p) [Not 24/7] (spa4)  (Spanish) (News)
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-chno="8029" tvg-id="BetterHealthTV.us@SD" tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="English;Lifestyle",Better Health TV (480p) (eng2)  (English) (Lifestyle)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
@@ -339,15 +339,15 @@ https://videohd.live:19360/8076/8076.m3u8
 https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-chno="8049" tvg-id="OndaValenciaTV.es@SD" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Spanish;Music;News",Onda Valencia TV (720p) (spa6)  (Spanish) (Music) (News)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-chno="8050" tvg-id="Pequeradio.es@SD" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="Spanish;Music",Pequeradio (720p) [Not 24/7] (spa7)  (Spanish) (Music)
+#EXTINF:-1 tvg-chno="8050" tvg-id="Pequeradio.es@SD" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="Spanish;Music",Pequeradio (720p) [Not 24/7] (spa6)  (Spanish) (Music)
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno="8051" tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Spanish;Education",Platzi TV (1080p) (spa7)  (Spanish) (Education)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-chno="8055" tvg-id="PrensaLatinaTV.cu@SD" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="Spanish;News",Prensa Latina TV (1080p) (spa7)  (Spanish) (News)
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-chno="8056" tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Spanish;News",RCV TV (712p) (spa8)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8056" tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Spanish;News",RCV TV (712p) (spa7)  (Spanish) (News)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 tvg-chno="8057" tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Spanish;News",RDN (1080p) [Not 24/7] (spa8)  (Spanish) (News)
+#EXTINF:-1 tvg-chno="8057" tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Spanish;News",RDN (1080p) [Not 24/7] (spa7)  (Spanish) (News)
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="8058" tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" group-title="Spanish;Music",Reyali (614p) (spa8)  (Spanish) (Music)
 https://eu1.servers10.com:8081/8090/index.m3u8
