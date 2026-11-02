@@ -99,10 +99,8 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-chno="2025" tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="Romanian;General",Moldova TV (1080p) (ron1)  (Romanian) (General)
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-chno="2026" tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Romanian;Music",Mooz Dance (ron1)  (Romanian) (Music)
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-chno="2027" tvg-id="MoozHits.ro@SD" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Romanian;Music",Mooz Hits (ron1)  (Romanian) (Music)
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-chno="2026" tvg-id="MoozDance.ro@HD" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Romanian;Music",Mooz Dance HD (1080i) [Geo-blocked] (ron1)  (Romanian) (Music)
+https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-chno="2028" tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Romanian;General",Nova TV Brasov (576p) [Not 24/7] (ron1)  (Romanian) (General)
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-chno="2029" tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Romanian;News",Observator News (360p) (ron1)  (Romanian) (News)
@@ -273,7 +271,7 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-chno="8006" tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Spanish;News",ATV+ (1080p) (spa1)  (Spanish) (News)
 http://45.171.108.253:8888/ATV/index.m3u8
-#EXTINF:-1 tvg-chno="8007" tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Spanish;Music",BTA TV (720p) (spa2)  (Spanish) (Music)
+#EXTINF:-1 tvg-chno="8007" tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Spanish;Music",BTA TV (720p) (spa1)  (Spanish) (Music)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-chno="8008" tvg-id="CanalI.ve@SD" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="Spanish;News",Canal I (1080p) (spa2)  (Spanish) (News)
 https://streaming.canal-i.com/canal-i/live/master.m3u8
@@ -577,6 +575,8 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-chno="14006" tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Polish;News",Polsat News Polityka (1080p) [Geo-blocked] (pol1)  (Polish) (News)
 https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
+#EXTINF:-1 tvg-chno="14008" tvg-id="SuperExpressTV.pl@FAST" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="Polish;News",Super Express TV (1080p) (pol1)  (Polish) (News)
+https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 #EXTINF:-1 tvg-chno="15000" tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Croatian;Music",CMC TV (1080p) (hrv1)  (Croatian) (Music)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-chno="15001" tvg-id="HRT4.hr@HD" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="Croatian;News",HRT 4 HD (720p) [Geo-blocked] (hrv1)  (Croatian) (News)
