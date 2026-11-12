@@ -2745,10 +2745,10 @@
  <desc>BeyondtheGates.us@SD</desc>
  </programme>
  <channel id="BharatExpress.in@SD">
- <display-name>Bharat Express (576p) (eng2)  (English) (News)</display-name>
+ <display-name>Bharat Express (1080p) (eng2)  (English) (News)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="BharatExpress.in@SD">
- <title>Bharat Express (576p) (eng2)  (English) (News)</title>
+ <title>Bharat Express (1080p) (eng2)  (English) (News)</title>
  <desc>BharatExpress.in@SD</desc>
  </programme>
  <channel id="BHTV10.us@SD">
@@ -2862,6 +2862,13 @@
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="BlazeLive.us@SD">
  <title>Blaze Live (720p) (eng2)  (English) (News)</title>
  <desc>BlazeLive.us@SD</desc>
+ </programme>
+ <channel id="BlessTV.jm@SD">
+ <display-name>Bless TV (1080p) (eng2)  (English) (Religious)</display-name>
+ </channel>
+ <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="BlessTV.jm@SD">
+ <title>Bless TV (1080p) (eng2)  (English) (Religious)</title>
+ <desc>BlessTV.jm@SD</desc>
  </programme>
  <channel id="BloombergOriginals.us@US">
  <display-name>Bloomberg Originals (1080p) (eng2)  (English) (Business) (Documentary)</display-name>
@@ -3298,10 +3305,10 @@
  <desc>BXArts.us@SD</desc>
  </programme>
  <channel id="BXCulture.us@SD">
- <display-name>BX Culture (720p) (eng2)  (English) (Culture)</display-name>
+ <display-name>BX Culture (720p) (eng3)  (English) (Culture)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="BXCulture.us@SD">
- <title>BX Culture (720p) (eng2)  (English) (Culture)</title>
+ <title>BX Culture (720p) (eng3)  (English) (Culture)</title>
  <desc>BXCulture.us@SD</desc>
  </programme>
  <channel id="BXInform.us@SD">
@@ -3536,11 +3543,18 @@
  <desc>CartoonNetwork.pk@SD</desc>
  </programme>
  <channel id="CartoonNetwork.us@East">
- <display-name>Cartoon Network (United States) (720p) [Geo-blocked] (eng3)  (English) (Animation) (Kids)</display-name>
+ <display-name>Cartoon Network (United States) [Not 24/7;Geo-blocked] (eng3)  (English) (Animation) (Kids)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="CartoonNetwork.us@East">
- <title>Cartoon Network (United States) (720p) [Geo-blocked] (eng3)  (English) (Animation) (Kids)</title>
+ <title>Cartoon Network (United States) [Not 24/7;Geo-blocked] (eng3)  (English) (Animation) (Kids)</title>
  <desc>CartoonNetwork.us@East</desc>
+ </programme>
+ <channel id="CartoonNetwork.us@West">
+ <display-name>Cartoon Network (United States) West (1080p) [Geo-blocked] (eng3)  (English) (Animation) (Kids)</display-name>
+ </channel>
+ <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="CartoonNetwork.us@West">
+ <title>Cartoon Network (United States) West (1080p) [Geo-blocked] (eng3)  (English) (Animation) (Kids)</title>
+ <desc>CartoonNetwork.us@West</desc>
  </programme>
  <channel id="CartoonNetworkAsia.sg@SD">
  <display-name>Cartoon Network Asia (720p) (eng3)  (English) (Animation) (Kids)</display-name>
@@ -4012,10 +4026,10 @@
  <desc>CCTV.us@SD</desc>
  </programme>
  <channel id="CCTV4America.cn@SD">
- <display-name>CCTV-4 America (1080p) (eng3)  (English) (General)</display-name>
+ <display-name>CCTV-4 America (eng3)  (English) (General)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="CCTV4America.cn@SD">
- <title>CCTV-4 America (1080p) (eng3)  (English) (General)</title>
+ <title>CCTV-4 America (eng3)  (English) (General)</title>
  <desc>CCTV4America.cn@SD</desc>
  </programme>
  <channel id="CCTV4Asia.cn@SD">
@@ -4957,17 +4971,17 @@
  <desc>ComedyCentralPlutoTV.us@US</desc>
  </programme>
  <channel id="ComedyCentralRoast.se@DK">
- <display-name>Comedy Central Roast (eng3)  (English) (Comedy)</display-name>
+ <display-name>Comedy Central Roast (eng4)  (English) (Comedy)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="ComedyCentralRoast.se@DK">
- <title>Comedy Central Roast (eng3)  (English) (Comedy)</title>
+ <title>Comedy Central Roast (eng4)  (English) (Comedy)</title>
  <desc>ComedyCentralRoast.se@DK</desc>
  </programme>
  <channel id="ComedyDynamics.us@SD">
- <display-name>Comedy Dynamics (1080p) (eng3)  (English) (Comedy)</display-name>
+ <display-name>Comedy Dynamics (1080p) (eng4)  (English) (Comedy)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="ComedyDynamics.us@SD">
- <title>Comedy Dynamics (1080p) (eng3)  (English) (Comedy)</title>
+ <title>Comedy Dynamics (1080p) (eng4)  (English) (Comedy)</title>
  <desc>ComedyDynamics.us@SD</desc>
  </programme>
  <channel id="ComedyTV.us@SD">
@@ -5929,13 +5943,6 @@
  <title>Disney Channel (Bulgaria) (576i) (eng4)  (English) (Kids)</title>
  <desc>DisneyChannel.bg@SD</desc>
  </programme>
- <channel id="DisneyChannel.in@HD">
- <display-name>Disney Channel (India) HD (1080p) (eng4)  (English) (Kids)</display-name>
- </channel>
- <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="DisneyChannel.in@HD">
- <title>Disney Channel (India) HD (1080p) (eng4)  (English) (Kids)</title>
- <desc>DisneyChannel.in@HD</desc>
- </programme>
  <channel id="DisneyChannel.us@East">
  <display-name>Disney Channel (United States) (720p) (eng4)  (English) (Kids)</display-name>
  </channel>
@@ -6609,10 +6616,10 @@
  <desc>Eurochannel.uk@SD</desc>
  </programme>
  <channel id="EuronewsEnglish.fr@SD">
- <display-name>Euronews English (720p) (eng4)  (English) (News)</display-name>
+ <display-name>Euronews English (720p) (eng5)  (English) (News)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="EuronewsEnglish.fr@SD">
- <title>Euronews English (720p) (eng4)  (English) (News)</title>
+ <title>Euronews English (720p) (eng5)  (English) (News)</title>
  <desc>EuronewsEnglish.fr@SD</desc>
  </programme>
  <channel id="EuronewsEnglish.fr@HD">
@@ -7463,10 +7470,10 @@
  <desc>FoxSportsNews.au@SD</desc>
  </programme>
  <channel id="FoxWeather.us@SD">
- <display-name>Fox Weather (720p) (eng5)  (English) (Weather)</display-name>
+ <display-name>Fox Weather (1080p) (eng5)  (English) (Weather)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="FoxWeather.us@SD">
- <title>Fox Weather (720p) (eng5)  (English) (Weather)</title>
+ <title>Fox Weather (1080p) (eng5)  (English) (Weather)</title>
  <desc>FoxWeather.us@SD</desc>
  </programme>
  <channel id="France24.fr@English">
@@ -8233,10 +8240,10 @@
  <desc>HarvestUSA.in@SD</desc>
  </programme>
  <channel id="HasbroLegends.us@SD">
- <display-name>Hasbro Legends (1080p) [Geo-blocked] (eng5)  (English) (Animation) (Kids)</display-name>
+ <display-name>Hasbro Legends (1080p) [Geo-blocked] (eng6)  (English) (Animation) (Kids)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="HasbroLegends.us@SD">
- <title>Hasbro Legends (1080p) [Geo-blocked] (eng5)  (English) (Animation) (Kids)</title>
+ <title>Hasbro Legends (1080p) [Geo-blocked] (eng6)  (English) (Animation) (Kids)</title>
  <desc>HasbroLegends.us@SD</desc>
  </programme>
  <channel id="HauntTV.ca@SD">
@@ -8947,10 +8954,10 @@
  <desc>IndiaAhead.in@SD</desc>
  </programme>
  <channel id="IndiaToday.in@SD">
- <display-name>India Today (720p) (eng6)  (English) (News)</display-name>
+ <display-name>India Today (1080p) (eng6)  (English) (News)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="IndiaToday.in@SD">
- <title>India Today (720p) (eng6)  (English) (News)</title>
+ <title>India Today (1080p) (eng6)  (English) (News)</title>
  <desc>IndiaToday.in@SD</desc>
  </programme>
  <channel id="IndywoodTV.in@SD">
@@ -9892,10 +9899,10 @@
  <desc>LatinoChannelTV.us@HD</desc>
  </programme>
  <channel id="LATV.us@SD">
- <display-name>LATV (1080p) [Geo-blocked] (eng6)  (English) (Entertainment)</display-name>
+ <display-name>LATV (1080p) [Geo-blocked] (eng7)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="LATV.us@SD">
- <title>LATV (1080p) [Geo-blocked] (eng6)  (English) (Entertainment)</title>
+ <title>LATV (1080p) [Geo-blocked] (eng7)  (English) (Entertainment)</title>
  <desc>LATV.us@SD</desc>
  </programme>
  <channel id="LawCrime.us@SD">
@@ -10060,10 +10067,10 @@
  <desc>LiveMusic.us@SD</desc>
  </programme>
  <channel id="LiveNOWfromFOX.us@SD">
- <display-name>LiveNOW from FOX (720p) (eng7)  (English) (News)</display-name>
+ <display-name>LiveNOW from FOX (1080p) (eng7)  (English) (News)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="LiveNOWfromFOX.us@SD">
- <title>LiveNOW from FOX (720p) (eng7)  (English) (News)</title>
+ <title>LiveNOW from FOX (1080p) (eng7)  (English) (News)</title>
  <desc>LiveNOWfromFOX.us@SD</desc>
  </programme>
  <channel id="LIVExLIVE.us@SD">
@@ -10766,6 +10773,13 @@
  <title>meWATCH LIVE 1 (1080p) (eng7)  (English) (Entertainment)</title>
  <desc>meWATCHLIVE1.sg@SD</desc>
  </programme>
+ <channel id="Mezzo.fr@SD">
+ <display-name>Mezzo (eng7)  (English) (Music)</display-name>
+ </channel>
+ <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="Mezzo.fr@SD">
+ <title>Mezzo (eng7)  (English) (Music)</title>
+ <desc>Mezzo.fr@SD</desc>
+ </programme>
  <channel id="MezzoLive.fr@SD">
  <display-name>Mezzo Live (1080p) (eng7)  (English) (Music)</display-name>
  </channel>
@@ -11187,18 +11201,11 @@
  <desc>MoviesAction.sa@SD</desc>
  </programme>
  <channel id="MoviesNow.in@HD">
- <display-name>Movies Now HD (1080p) (eng7)  (English) (Movies)</display-name>
+ <display-name>Movies Now HD (576p) (eng7)  (English) (Movies)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="MoviesNow.in@HD">
- <title>Movies Now HD (1080p) (eng7)  (English) (Movies)</title>
+ <title>Movies Now HD (576p) (eng7)  (English) (Movies)</title>
  <desc>MoviesNow.in@HD</desc>
- </programme>
- <channel id="MoviesNowPlus.in@HD">
- <display-name>Movies Now + (1080p) (eng7)  (English) (Movies)</display-name>
- </channel>
- <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="MoviesNowPlus.in@HD">
- <title>Movies Now + (1080p) (eng7)  (English) (Movies)</title>
- <desc>MoviesNowPlus.in@HD</desc>
  </programme>
  <channel id="MoviesThriller.sa@SD">
  <display-name>Movies Thriller (1080p) (eng7)  (English) (Movies)</display-name>
@@ -11523,17 +11530,17 @@
  <desc>MTVJerseyShore.us@CA</desc>
  </programme>
  <channel id="MTVLive.us@SD">
- <display-name>MTV Live (720p) (eng7)  (English) (Music)</display-name>
+ <display-name>MTV Live (720p) (eng8)  (English) (Music)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="MTVLive.us@SD">
- <title>MTV Live (720p) (eng7)  (English) (Music)</title>
+ <title>MTV Live (720p) (eng8)  (English) (Music)</title>
  <desc>MTVLive.us@SD</desc>
  </programme>
  <channel id="MTVPlutoTV.us@US">
- <display-name>MTV Pluto TV (eng7)  (English) (Entertainment)</display-name>
+ <display-name>MTV Pluto TV (eng8)  (English) (Entertainment)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="MTVPlutoTV.us@US">
- <title>MTV Pluto TV (eng7)  (English) (Entertainment)</title>
+ <title>MTV Pluto TV (eng8)  (English) (Entertainment)</title>
  <desc>MTVPlutoTV.us@US</desc>
  </programme>
  <channel id="MTVReality.se@SE">
@@ -11864,13 +11871,6 @@
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="NationalGeographic.bg@SD">
  <title>National Geographic (Bulgaria) (eng8)  (English) (Documentary)</title>
  <desc>NationalGeographic.bg@SD</desc>
- </programme>
- <channel id="NationalGeographic.in@HD">
- <display-name>National Geographic (India) HD (1080p) (eng8)  (English) (Documentary)</display-name>
- </channel>
- <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="NationalGeographic.in@HD">
- <title>National Geographic (India) HD (1080p) (eng8)  (English) (Documentary)</title>
- <desc>NationalGeographic.in@HD</desc>
  </programme>
  <channel id="NationalGeographic.pl@SD">
  <display-name>National Geographic (Poland) (576i) (eng8)  (English) (Documentary)</display-name>
@@ -12286,10 +12286,10 @@
  <desc>NDTV24x7.in@SD</desc>
  </programme>
  <channel id="NDTV.in@SD">
- <display-name>NDTV (576p) (eng8)  (English) (News)</display-name>
+ <display-name>NDTV (1080p) (eng8)  (English) (News)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="NDTV.in@SD">
- <title>NDTV (576p) (eng8)  (English) (News)</title>
+ <title>NDTV (1080p) (eng8)  (English) (News)</title>
  <desc>NDTV.in@SD</desc>
  </programme>
  <channel id="NDTVGoodTimes.in@SD">
@@ -14820,10 +14820,10 @@
  <desc>PolsatJimJam.pl@SD</desc>
  </programme>
  <channel id="PomonaInternetStreamingChannel.us@SD">
- <display-name>Pomona Internet Streaming Channel (720p) (eng9)  (English) (Undefined)</display-name>
+ <display-name>Pomona Internet Streaming Channel (720p) (eng10)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="PomonaInternetStreamingChannel.us@SD">
- <title>Pomona Internet Streaming Channel (720p) (eng9)  (English) (Undefined)</title>
+ <title>Pomona Internet Streaming Channel (720p) (eng10)  (English) (Undefined)</title>
  <desc>PomonaInternetStreamingChannel.us@SD</desc>
  </programme>
  <channel id="Pop.uk@SD">
@@ -16128,6 +16128,13 @@
  <title>SC Currents (1080p) (eng10)  (English) (News)</title>
  <desc>SCCurrents.us@SD</desc>
  </programme>
+ <channel id="ScaresbyShudder.us@SD">
+ <display-name>Scares by Shudder (1080p) (eng10)  (English) (Movies)</display-name>
+ </channel>
+ <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="ScaresbyShudder.us@SD">
+ <title>Scares by Shudder (1080p) (eng10)  (English) (Movies)</title>
+ <desc>ScaresbyShudder.us@SD</desc>
+ </programme>
  <channel id="SchwabNetwork.us@SD">
  <display-name>Schwab Network (1080p) (eng10)  (English) (Business)</display-name>
  </channel>
@@ -16451,17 +16458,17 @@
  <desc>SketchyAF.us@SD</desc>
  </programme>
  <channel id="SKITV.ch@SD">
- <display-name>SKI TV (1080p) [Not 24/7] (eng10)  (English) (Sports)</display-name>
+ <display-name>SKI TV (1080p) [Not 24/7] (eng11)  (English) (Sports)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="SKITV.ch@SD">
- <title>SKI TV (1080p) [Not 24/7] (eng10)  (English) (Sports)</title>
+ <title>SKI TV (1080p) [Not 24/7] (eng11)  (English) (Sports)</title>
  <desc>SKITV.ch@SD</desc>
  </programme>
  <channel id="SkjonnhetsfellenDanmark.se@NO">
- <display-name>Skjonnhetsfellen Danmark (eng10)  (English) (Series)</display-name>
+ <display-name>Skjonnhetsfellen Danmark (eng11)  (English) (Series)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="SkjonnhetsfellenDanmark.se@NO">
- <title>Skjonnhetsfellen Danmark (eng10)  (English) (Series)</title>
+ <title>Skjonnhetsfellen Danmark (eng11)  (English) (Series)</title>
  <desc>SkjonnhetsfellenDanmark.se@NO</desc>
  </programme>
  <channel id="SkonhetsfallanDanmark.se@SE">
@@ -17114,13 +17121,6 @@
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="StarChannel.bg@SD">
  <title>Star Channel (Bulgaria) (eng11)  (English) (Movies)</title>
  <desc>StarChannel.bg@SD</desc>
- </programme>
- <channel id="StarMovies.in@HD">
- <display-name>Star Movies (India) HD (1080p) (eng11)  (English) (Movies)</display-name>
- </channel>
- <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="StarMovies.in@HD">
- <title>Star Movies (India) HD (1080p) (eng11)  (English) (Movies)</title>
- <desc>StarMovies.in@HD</desc>
  </programme>
  <channel id="StarSportsSelect2.in@HD">
  <display-name>Star Sports Select 2 HD (720p) (eng11)  (English) (Sports)</display-name>
@@ -18096,10 +18096,10 @@
  <desc>TFX.fr@SD</desc>
  </programme>
  <channel id="TG4.ie@SD">
- <display-name>TG4 (1080p) (eng11)  (English) (Undefined)</display-name>
+ <display-name>TG4 (1080p) (eng12)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="TG4.ie@SD">
- <title>TG4 (1080p) (eng11)  (English) (Undefined)</title>
+ <title>TG4 (1080p) (eng12)  (English) (Undefined)</title>
  <desc>TG4.ie@SD</desc>
  </programme>
  <channel id="TGJunior.us@SD">
@@ -19755,10 +19755,10 @@
  <desc>TVSHiTops.us@SD</desc>
  </programme>
  <channel id="TVSHollywoodHistory.us@SD">
- <display-name>TVS Hollywood History (582p) (eng12)  (English) (Classic)</display-name>
+ <display-name>TVS Hollywood History (582p) (eng13)  (English) (Classic)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="TVSHollywoodHistory.us@SD">
- <title>TVS Hollywood History (582p) (eng12)  (English) (Classic)</title>
+ <title>TVS Hollywood History (582p) (eng13)  (English) (Classic)</title>
  <desc>TVSHollywoodHistory.us@SD</desc>
  </programme>
  <channel id="TVSMainstreet.us@SD">
@@ -20406,10 +20406,10 @@
  <desc>VSiN.us@SD</desc>
  </programme>
  <channel id="VTV1.vn@HD">
- <display-name>VTV1 HD (1080p) (eng13)  (English) (Undefined)</display-name>
+ <display-name>VTV1 HD (720p) (eng13)  (English) (Undefined)</display-name>
  </channel>
  <programme start="20261111000000 +0000" stop="20261113000000 +0000" channel="VTV1.vn@HD">
- <title>VTV1 HD (1080p) (eng13)  (English) (Undefined)</title>
+ <title>VTV1 HD (720p) (eng13)  (English) (Undefined)</title>
  <desc>VTV1.vn@HD</desc>
  </programme>
  <channel id="VyasChannel.in@SD">
